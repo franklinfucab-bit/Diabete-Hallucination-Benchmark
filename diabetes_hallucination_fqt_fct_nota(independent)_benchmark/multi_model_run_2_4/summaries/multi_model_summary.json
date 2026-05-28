@@ -1,0 +1,27 @@
+[
+    {
+        "model": "qwen2.5:7b",
+        "accuracy": "75.49%",
+        "total": 102
+    },
+    {
+        "model": "llama3.2:3b",
+        "accuracy": "58.82%",
+        "total": 102
+    },
+    {
+        "model": "gemma2:2b",
+        "accuracy": "72.55%",
+        "total": 102
+    },
+    {
+        "model": "phi3:latest",
+        "accuracy": "61.76%",
+        "total": 102
+    },
+    {
+        "model": "mistral:latest",
+        "accuracy": "32.35%",
+        "total": 102
+    }
+]

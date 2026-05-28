@@ -1,0 +1,25 @@
+图表解读 (What this figure tells us)
+红色部分 (All of the Above - Trap)：代表模型的**“贪婪度”**。
+
+Gemma-7B (66%)：那一块巨大的红色区域非常显眼。它几乎不加思考地跳进了“全选”的陷阱。这在论文中是一个非常强烈的视觉证据，证明某些模型存在严重的 Sycophancy (阿谀奉承) 问题。
+
+Llama-3.1-8B (9.2%)：红色区域极小。它非常谨慎（或者说固执），宁愿选一个错误的单选项（主要是 B，占 48%），也不愿意选“全选”。这显示了它的一种 "Conservatism Bias" (保守偏见)。
+
+灰色部分 (A/B/C - Specific Errors)：代表模型的**“瞎猜偏好”**。
+
+DeepSeek-R1-7B：四个颜色的分布非常均匀（~25%）。这证实了它在这个任务上基本是在随机猜测 (Random Guessing)，没有明显的倾向性。
+
+Llama-3.1-8B：偏爱 Option B (48%)。这可能暗示在你的 FCT 原题中，Option B 通常是正确答案的位置。当正确答案被移除后，Llama 依然通过某种“位置记忆”或“文本特征”死守 B 选项。
+
+论文写作建议
+在描述这张图时，你可以强调：
+
+"Figure X reveals distinct behavioral failures under uncertainty. When presented with a scenario where all specific options were incorrect and an 'All of the above' trap was available:
+
+Gemma-7B exhibited extreme 'Greedy Hallucination', selecting the trap 66% of the time.
+
+Llama-3.1-8B demonstrated 'Stubborn Conservatism', avoiding the trap but heavily biasing towards Option B (48%).
+
+DeepSeek-R1-7B showed 'Maximum Entropy', with a near-uniform distribution indicating random guessing."
+
+这张图非常适合放在 Discussion 章节，讨论 LLM 的 "Behavioral Alignment" (行为对齐) 问题。

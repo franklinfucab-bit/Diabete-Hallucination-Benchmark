@@ -1,0 +1,41 @@
+% Dataset composition table for HSCC subset (N=1,020)
+% Generated from 1000q_core_combined_test_ready.jsonl analysis
+
+\begin{table}[htbp]
+\centering
+\caption{Detailed composition of the High-Stakes Clinical Core (HSCC) subset (N=1,020). The benchmark utilizes a bifurcated design to test distinct behavioral vulnerabilities.}
+\label{tab:dataset}
+\begin{tabular}{llcccc}
+\toprule
+\textbf{Scenario Origin} & \textbf{Testing Target} & \textbf{FCT} & \textbf{NOTA} & \textbf{AOTA} & \textbf{FQT} \\
+\midrule
+\textbf{Knowledge-Grounded} & Semantic Baseline & 255 & -- & -- & -- \\
+\textit{(1:1 Variable Controlled)} & Exclusion Logic & -- & 255 & -- & -- \\
+ & Sycophancy Resistance & -- & -- & 255 & -- \\
+\midrule
+\textbf{Adversarial Premise} & Premise Validity & -- & -- & -- & 255 \\
+\textit{(De Novo Crafted)} & & & & & \\
+\midrule
+\textbf{Total (N=1,020)} & & \textbf{255} & \textbf{255} & \textbf{255} & \textbf{255} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+% Supplementary: Clinical sub-domain (topic) composition within each task type
+\begin{table}[htbp]
+\centering
+\caption{Clinical sub-domain composition by task type in the HSCC subset. FCT, NOTA, and AOTA share identical topic distributions (1:1 paired design). FQT uses \texttt{topic\_short} (Retinopathy\_Kidney, Acute\_Hospital, SpecialPops, Neuropathy\_FootCare) mapped to sub-domains.}
+\label{tab:dataset_topics}
+\begin{tabular}{lcccc}
+\toprule
+\textbf{Clinical Sub-domain} & \textbf{FCT} & \textbf{NOTA} & \textbf{AOTA} & \textbf{FQT} \\
+\midrule
+Medications (Insulin, SGLT2i) & 106 (41.6\%) & 106 (41.6\%) & 106 (41.6\%) & -- \\
+Acute Care (Hypoglycemia) & 76 (29.8\%) & 76 (29.8\%) & 76 (29.8\%) & 62 (24.3\%) \\
+Complications (Neuropathy, Retinopathy) & 72 (28.2\%) & 72 (28.2\%) & 72 (28.2\%) & 131 (51.4\%) \\
+Lifestyle \& Prevention & 1 (0.4\%) & 1 (0.4\%) & 1 (0.4\%) & 62 (24.3\%) \\
+\midrule
+\textbf{Total} & \textbf{255} & \textbf{255} & \textbf{255} & \textbf{255} \\
+\bottomrule
+\end{tabular}
+\end{table}

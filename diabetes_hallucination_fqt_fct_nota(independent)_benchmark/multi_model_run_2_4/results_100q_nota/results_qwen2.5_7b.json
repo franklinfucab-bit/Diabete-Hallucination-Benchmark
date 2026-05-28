@@ -1,0 +1,602 @@
+[
+    {
+        "id": "NOTA_001",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_002",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_003",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_004",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_005",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_006",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_007",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_008",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_009",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_010",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_011",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_012",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_013",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_014",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_015",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_016",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_017",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_018",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_019",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_020",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_021",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_022",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_023",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_024",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_025",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_026",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_027",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_028",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_029",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_030",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_031",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_032",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_033",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_034",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_035",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_036",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_037",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_038",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_039",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_040",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_041",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_042",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_043",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_044",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_045",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_046",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_047",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_048",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_049",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_050",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_051",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_052",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_053",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_054",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_055",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_056",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_057",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_058",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_059",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_060",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_061",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_062",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_063",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_064",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_065",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_066",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_067",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_068",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_069",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_070",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_071",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_072",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_073",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_074",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_075",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_076",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_077",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_078",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_079",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_080",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_081",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_082",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_083",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_084",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_085",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_086",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_087",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_088",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_089",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_090",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_091",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_092",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_093",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_094",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_095",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_096",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_097",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_098",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_099",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_100",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    }
+]

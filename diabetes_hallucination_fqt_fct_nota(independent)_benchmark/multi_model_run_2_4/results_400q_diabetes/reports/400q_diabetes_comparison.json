@@ -1,0 +1,620 @@
+{
+  "accuracy_table": [
+    {
+      "model": "deepseek-r1_7b",
+      "overall": "45.1%",
+      "NOTA": "21.5%",
+      "FQT": "22.0%",
+      "FCT": "67.7%",
+      "AOTA": "81.5%"
+    },
+    {
+      "model": "gemma_7b",
+      "overall": "31.2%",
+      "NOTA": "21.5%",
+      "FQT": "8.0%",
+      "FCT": "75.4%",
+      "AOTA": "32.3%"
+    },
+    {
+      "model": "llama3.1_8b",
+      "overall": "68.4%",
+      "NOTA": "17.2%",
+      "FQT": "96.0%",
+      "FCT": "72.3%",
+      "AOTA": "72.3%"
+    },
+    {
+      "model": "mistral_latest",
+      "overall": "51.9%",
+      "NOTA": "16.9%",
+      "FQT": "49.0%",
+      "FCT": "53.8%",
+      "AOTA": "89.2%"
+    },
+    {
+      "model": "qwen2.5_7b",
+      "overall": "80.0%",
+      "NOTA": "41.5%",
+      "FQT": "93.0%",
+      "FCT": "84.6%",
+      "AOTA": "93.8%"
+    }
+  ],
+  "model_performance_profiles": {
+    "deepseek-r1_7b": {
+      "best_task": "AOTA",
+      "best_acc": 81.5,
+      "worst_task": "NOTA",
+      "worst_acc": 21.5,
+      "spread": 60.0,
+      "profile": "specialist"
+    },
+    "gemma_7b": {
+      "best_task": "FCT",
+      "best_acc": 75.4,
+      "worst_task": "FQT",
+      "worst_acc": 8.0,
+      "spread": 67.4,
+      "profile": "specialist"
+    },
+    "llama3.1_8b": {
+      "best_task": "FQT",
+      "best_acc": 96.0,
+      "worst_task": "NOTA",
+      "worst_acc": 17.2,
+      "spread": 78.8,
+      "profile": "specialist"
+    },
+    "mistral_latest": {
+      "best_task": "AOTA",
+      "best_acc": 89.2,
+      "worst_task": "NOTA",
+      "worst_acc": 16.9,
+      "spread": 72.3,
+      "profile": "specialist"
+    },
+    "qwen2.5_7b": {
+      "best_task": "AOTA",
+      "best_acc": 93.8,
+      "worst_task": "NOTA",
+      "worst_acc": 41.5,
+      "spread": 52.3,
+      "profile": "specialist"
+    }
+  },
+  "rankings": {
+    "NOTA": [
+      "qwen2.5_7b",
+      "deepseek-r1_7b",
+      "gemma_7b",
+      "llama3.1_8b",
+      "mistral_latest"
+    ],
+    "FQT": [
+      "llama3.1_8b",
+      "qwen2.5_7b",
+      "mistral_latest",
+      "deepseek-r1_7b",
+      "gemma_7b"
+    ],
+    "FCT": [
+      "qwen2.5_7b",
+      "gemma_7b",
+      "llama3.1_8b",
+      "deepseek-r1_7b",
+      "mistral_latest"
+    ],
+    "AOTA": [
+      "qwen2.5_7b",
+      "mistral_latest",
+      "deepseek-r1_7b",
+      "llama3.1_8b",
+      "gemma_7b"
+    ]
+  },
+  "wrong_count_by_task": {
+    "NOTA": {
+      "deepseek-r1_7b": 51,
+      "gemma_7b": 51,
+      "llama3.1_8b": 53,
+      "mistral_latest": 54,
+      "qwen2.5_7b": 38
+    },
+    "FQT": {
+      "deepseek-r1_7b": 78,
+      "gemma_7b": 92,
+      "llama3.1_8b": 4,
+      "mistral_latest": 51,
+      "qwen2.5_7b": 7
+    },
+    "FCT": {
+      "deepseek-r1_7b": 21,
+      "gemma_7b": 16,
+      "llama3.1_8b": 18,
+      "mistral_latest": 30,
+      "qwen2.5_7b": 10
+    },
+    "AOTA": {
+      "deepseek-r1_7b": 12,
+      "gemma_7b": 44,
+      "llama3.1_8b": 18,
+      "mistral_latest": 7,
+      "qwen2.5_7b": 4
+    }
+  },
+  "overlap_by_task": {
+    "NOTA": {
+      "wrong_by_1": [
+        "NOTA_029",
+        "NOTA_051",
+        "NOTA_068",
+        "NOTA_075"
+      ],
+      "wrong_by_2": [
+        "NOTA_007",
+        "NOTA_010",
+        "NOTA_028",
+        "NOTA_046",
+        "NOTA_047",
+        "NOTA_061",
+        "NOTA_073",
+        "NOTA_082",
+        "NOTA_100"
+      ],
+      "wrong_by_3": [
+        "NOTA_031",
+        "NOTA_052",
+        "NOTA_070",
+        "NOTA_089",
+        "NOTA_094",
+        "NOTA_096"
+      ],
+      "wrong_by_4": [
+        "NOTA_001",
+        "NOTA_002",
+        "NOTA_011",
+        "NOTA_016",
+        "NOTA_033",
+        "NOTA_035",
+        "NOTA_042",
+        "NOTA_044",
+        "NOTA_048",
+        "NOTA_049",
+        "NOTA_050",
+        "NOTA_060",
+        "NOTA_081",
+        "NOTA_085",
+        "NOTA_088",
+        "NOTA_095",
+        "NOTA_097",
+        "NOTA_098"
+      ],
+      "wrong_by_all": [
+        "NOTA_014",
+        "NOTA_018",
+        "NOTA_019",
+        "NOTA_023",
+        "NOTA_025",
+        "NOTA_026",
+        "NOTA_027",
+        "NOTA_030",
+        "NOTA_036",
+        "NOTA_038",
+        "NOTA_039",
+        "NOTA_040",
+        "NOTA_041",
+        "NOTA_045",
+        "NOTA_054",
+        "NOTA_057",
+        "NOTA_064",
+        "NOTA_071",
+        "NOTA_074",
+        "NOTA_076",
+        "NOTA_078",
+        "NOTA_079",
+        "NOTA_080",
+        "NOTA_083",
+        "NOTA_091",
+        "NOTA_093",
+        "NOTA_099"
+      ]
+    },
+    "FQT": {
+      "wrong_by_1": [
+        "FQT_011",
+        "FQT_015",
+        "FQT_017",
+        "FQT_020",
+        "FQT_022",
+        "FQT_048",
+        "FQT_051",
+        "FQT_056",
+        "FQT_059",
+        "FQT_065",
+        "FQT_071",
+        "FQT_073",
+        "FQT_080",
+        "FQT_084",
+        "FQT_092",
+        "FQT_095",
+        "FQT_097"
+      ],
+      "wrong_by_2": [
+        "FQT_002",
+        "FQT_003",
+        "FQT_008",
+        "FQT_009",
+        "FQT_016",
+        "FQT_021",
+        "FQT_025",
+        "FQT_028",
+        "FQT_029",
+        "FQT_036",
+        "FQT_043",
+        "FQT_057",
+        "FQT_061",
+        "FQT_062",
+        "FQT_064",
+        "FQT_067",
+        "FQT_068",
+        "FQT_072",
+        "FQT_076",
+        "FQT_077",
+        "FQT_079",
+        "FQT_081",
+        "FQT_083",
+        "FQT_085",
+        "FQT_087",
+        "FQT_089",
+        "FQT_090",
+        "FQT_091",
+        "FQT_093",
+        "FQT_094",
+        "FQT_098"
+      ],
+      "wrong_by_3": [
+        "FQT_001",
+        "FQT_004",
+        "FQT_005",
+        "FQT_007",
+        "FQT_010",
+        "FQT_012",
+        "FQT_013",
+        "FQT_014",
+        "FQT_019",
+        "FQT_023",
+        "FQT_024",
+        "FQT_030",
+        "FQT_031",
+        "FQT_032",
+        "FQT_033",
+        "FQT_038",
+        "FQT_039",
+        "FQT_040",
+        "FQT_041",
+        "FQT_042",
+        "FQT_044",
+        "FQT_045",
+        "FQT_046",
+        "FQT_047",
+        "FQT_053",
+        "FQT_054",
+        "FQT_055",
+        "FQT_058",
+        "FQT_060",
+        "FQT_063",
+        "FQT_066",
+        "FQT_069",
+        "FQT_070",
+        "FQT_075",
+        "FQT_078",
+        "FQT_086",
+        "FQT_088",
+        "FQT_096",
+        "FQT_099",
+        "FQT_100"
+      ],
+      "wrong_by_4": [
+        "FQT_006",
+        "FQT_018",
+        "FQT_026",
+        "FQT_049",
+        "FQT_052",
+        "FQT_074",
+        "FQT_082"
+      ],
+      "wrong_by_all": [
+        "FQT_034"
+      ]
+    },
+    "FCT": {
+      "wrong_by_1": [
+        "FCT_010",
+        "FCT_027",
+        "FCT_031",
+        "FCT_045",
+        "FCT_051",
+        "FCT_052",
+        "FCT_068",
+        "FCT_070",
+        "FCT_080",
+        "FCT_088",
+        "FCT_091"
+      ],
+      "wrong_by_2": [
+        "FCT_023",
+        "FCT_025",
+        "FCT_044",
+        "FCT_049",
+        "FCT_061",
+        "FCT_079",
+        "FCT_083",
+        "FCT_089",
+        "FCT_095"
+      ],
+      "wrong_by_3": [
+        "FCT_014",
+        "FCT_019",
+        "FCT_030",
+        "FCT_050",
+        "FCT_085",
+        "FCT_100"
+      ],
+      "wrong_by_4": [
+        "FCT_011",
+        "FCT_048"
+      ],
+      "wrong_by_all": [
+        "FCT_002",
+        "FCT_033",
+        "FCT_038",
+        "FCT_039",
+        "FCT_054",
+        "FCT_064",
+        "FCT_074",
+        "FCT_093"
+      ]
+    },
+    "AOTA": {
+      "wrong_by_1": [
+        "AOTA_001",
+        "AOTA_007",
+        "AOTA_011",
+        "AOTA_018",
+        "AOTA_019",
+        "AOTA_025",
+        "AOTA_026",
+        "AOTA_029",
+        "AOTA_033",
+        "AOTA_040",
+        "AOTA_041",
+        "AOTA_044",
+        "AOTA_045",
+        "AOTA_047",
+        "AOTA_049",
+        "AOTA_051",
+        "AOTA_052",
+        "AOTA_057",
+        "AOTA_060",
+        "AOTA_065",
+        "AOTA_069",
+        "AOTA_070",
+        "AOTA_077",
+        "AOTA_078",
+        "AOTA_082",
+        "AOTA_097",
+        "AOTA_099"
+      ],
+      "wrong_by_2": [
+        "AOTA_002",
+        "AOTA_016",
+        "AOTA_028",
+        "AOTA_030",
+        "AOTA_035",
+        "AOTA_036",
+        "AOTA_038",
+        "AOTA_042",
+        "AOTA_048",
+        "AOTA_061",
+        "AOTA_073",
+        "AOTA_075",
+        "AOTA_079",
+        "AOTA_081",
+        "AOTA_087",
+        "AOTA_090",
+        "AOTA_094",
+        "AOTA_096",
+        "AOTA_098"
+      ],
+      "wrong_by_3": [
+        "AOTA_010",
+        "AOTA_067",
+        "AOTA_080",
+        "AOTA_084"
+      ],
+      "wrong_by_4": [
+        "AOTA_072",
+        "AOTA_088"
+      ],
+      "wrong_by_all": []
+    }
+  },
+  "hardest_topics_by_task": {
+    "NOTA": [
+      {
+        "topic": "GLP-1 receptor agonists",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_091"
+        ]
+      },
+      {
+        "topic": "acute decompensated heart failure",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_018"
+        ]
+      },
+      {
+        "topic": "hypoglycemia",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_064"
+        ]
+      },
+      {
+        "topic": "antepartum_care",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_057"
+        ]
+      },
+      {
+        "topic": "type 2 diabetes management",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_045"
+        ]
+      },
+      {
+        "topic": "nephrology",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_076"
+        ]
+      },
+      {
+        "topic": "renal protection",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_039"
+        ]
+      },
+      {
+        "topic": "SGLT2 inhibitors",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_025"
+        ]
+      },
+      {
+        "topic": "guideline-based management",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_023"
+        ]
+      },
+      {
+        "topic": "neuropathy_footcare",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_074"
+        ]
+      },
+      {
+        "topic": "glucose monitoring",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_080"
+        ]
+      },
+      {
+        "topic": "cardiovascular risk",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_071"
+        ]
+      },
+      {
+        "topic": "lipid guidelines",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_083"
+        ]
+      },
+      {
+        "topic": "basal rate adjustment",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_038"
+        ]
+      },
+      {
+        "topic": "insulin pump therapy",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_014"
+        ]
+      }
+    ],
+    "FQT": [
+      {
+        "topic": "Other",
+        "wrong_count": 1,
+        "ids": [
+          "FQT_034"
+        ]
+      }
+    ],
+    "FCT": [
+      {
+        "topic": "continuous glucose monitoring",
+        "wrong_count": 1,
+        "ids": [
+          "FCT_093"
+        ]
+      },
+      {
+        "topic": "retinopathy_kidney",
+        "wrong_count": 1,
+        "ids": [
+          "FCT_033"
+        ]
+      },
+      {
+        "topic": "SMBG",
+        "wrong_count": 1,
+        "ids": [
+          "FCT_002"
+        ]
+      },
+      {
+        "topic": "basal rate adjustment",
+        "wrong_count": 1,
+        "ids": [
+          "FCT_038"
+        ]
+      },
+      {
+        "topic": "hypoglycemia",
+        "wrong_count": 1,
+        "ids": [
+          "FCT_064"
+        ]
+      },
+      {
+        "topic": "neuropathy_footcare",
+        "wrong_count": 1,
+        "ids": [
+          "FCT_074"
+        ]
+      },
+      {
+        "topic": "renal protection",
+        "wrong_count": 1,
+        "ids": [
+          "FCT_039"
+        ]
+      },
+      {
+        "topic": "pathophysiology",
+        "wrong_count": 1,
+        "ids": [
+          "FCT_054"
+        ]
+      }
+    ],
+    "AOTA": []
+  }
+}

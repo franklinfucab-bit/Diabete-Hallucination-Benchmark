@@ -1,0 +1,77 @@
+{
+  "deepseek-r1_7b": {
+    "overall": {
+      "accuracy": "30.0%",
+      "correct": 30,
+      "total": 100,
+      "wrong": 70
+    },
+    "by_type": {
+      "NOTA": {
+        "accuracy": "30.0%",
+        "correct": 30,
+        "total": 100
+      }
+    }
+  },
+  "gemma_7b": {
+    "overall": {
+      "accuracy": "27.0%",
+      "correct": 27,
+      "total": 100,
+      "wrong": 73
+    },
+    "by_type": {
+      "NOTA": {
+        "accuracy": "27.0%",
+        "correct": 27,
+        "total": 100
+      }
+    }
+  },
+  "llama3.1_8b": {
+    "overall": {
+      "accuracy": "21.2%",
+      "correct": 21,
+      "total": 99,
+      "wrong": 78
+    },
+    "by_type": {
+      "NOTA": {
+        "accuracy": "21.2%",
+        "correct": 21,
+        "total": 99
+      }
+    }
+  },
+  "mistral_latest": {
+    "overall": {
+      "accuracy": "26.0%",
+      "correct": 26,
+      "total": 100,
+      "wrong": 74
+    },
+    "by_type": {
+      "NOTA": {
+        "accuracy": "26.0%",
+        "correct": 26,
+        "total": 100
+      }
+    }
+  },
+  "qwen2.5_7b": {
+    "overall": {
+      "accuracy": "57.0%",
+      "correct": 57,
+      "total": 100,
+      "wrong": 43
+    },
+    "by_type": {
+      "NOTA": {
+        "accuracy": "57.0%",
+        "correct": 57,
+        "total": 100
+      }
+    }
+  }
+}

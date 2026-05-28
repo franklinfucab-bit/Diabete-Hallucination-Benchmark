@@ -1,0 +1,10 @@
+{
+  "total_questions": 1000,
+  "no_topic_count": 0,
+  "count_by_topic": {
+    "Neuropathy_FootCare": 250,
+    "Acute_Hospital": 251,
+    "Retinopathy_Kidney": 251,
+    "SpecialPops": 248
+  }
+}

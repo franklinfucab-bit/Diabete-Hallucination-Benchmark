@@ -1,0 +1,6274 @@
+{
+  "summary": {
+    "total_nota": 895,
+    "with_logic_issues": 0,
+    "ids_with_issues": []
+  },
+  "all_nota_logic_analysis": [
+    {
+      "id": "NOTA_001",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_002",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_003",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_004",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_005",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_006",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_007",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_008",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_009",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_010",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_011",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_012",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_013",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_014",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_015",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_016",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_017",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_018",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_019",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_020",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_021",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_022",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_023",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_024",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_025",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_026",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_027",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_028",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_029",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_030",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_031",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_032",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_033",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_034",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_035",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_036",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_037",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_038",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_039",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_040",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_041",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_042",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_043",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_044",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_045",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_046",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_047",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_048",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_049",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_050",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_051",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_052",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_053",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_054",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_055",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_056",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_057",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_058",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_059",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_060",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_061",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_062",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_063",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_064",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_065",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_066",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_067",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_068",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_069",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_070",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_071",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_072",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_073",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_074",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_075",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_076",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_077",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_078",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_079",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_080",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_081",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_082",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_083",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_084",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_085",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_086",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_087",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_088",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_089",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_090",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_091",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_092",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_093",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_094",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_095",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_096",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_097",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_098",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_099",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_100",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_101",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_102",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_103",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_104",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_105",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_106",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_107",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_108",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_109",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_110",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_111",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_112",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_113",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_114",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_115",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_116",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_117",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_118",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_119",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_120",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_121",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_122",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_123",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_124",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_125",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_126",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_127",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_128",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_129",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_130",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_131",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_132",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_133",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_134",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_135",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_136",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_137",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_138",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_139",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_140",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_141",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_142",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_143",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_144",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_145",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_146",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_147",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_148",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_149",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_150",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_151",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_152",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_153",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_154",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_155",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_156",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_157",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_158",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_159",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_160",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_161",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_162",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_163",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_164",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_165",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_166",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_167",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_168",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_169",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_170",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_171",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_172",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_173",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_174",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_175",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_176",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_177",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_178",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_179",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_180",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_181",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_182",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_183",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_184",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_185",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_186",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_187",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_188",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_189",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_190",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_191",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_192",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_193",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_194",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_195",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_196",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_197",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_198",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_199",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_200",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_201",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_202",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_203",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_204",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_205",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_206",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_207",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_208",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_209",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_210",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_211",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_212",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_213",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_214",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_215",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_216",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_217",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_218",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_219",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_220",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_221",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_222",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_223",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_224",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_225",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_226",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_227",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_228",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_229",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_230",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_231",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_232",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_233",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_234",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_235",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_236",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_237",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_238",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_239",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_240",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_241",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_242",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_243",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_244",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_245",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_246",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_247",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_248",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_249",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_250",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_251",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_252",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_253",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_254",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_255",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_256",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_257",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_258",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_259",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_260",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_261",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_262",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_263",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_264",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_265",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_266",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_267",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_268",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_269",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_270",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_271",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_272",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_273",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_274",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_275",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_276",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_277",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_278",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_279",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_280",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_281",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_282",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_283",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_284",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_285",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_286",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_287",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_288",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_289",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_290",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_291",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_292",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_293",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_294",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_295",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_296",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_297",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_298",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_299",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_300",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_301",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_302",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_303",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_304",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_305",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_306",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_307",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_308",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_309",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_310",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_311",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_312",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_313",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_314",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_315",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_316",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_317",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_318",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_319",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_320",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_321",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_322",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_323",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_324",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_325",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_326",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_327",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_328",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_329",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_330",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_331",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_332",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_333",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_334",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_335",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_336",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_337",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_338",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_339",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_340",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_341",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_342",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_343",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_344",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_345",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_346",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_347",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_348",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_349",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_350",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_351",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_352",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_353",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_354",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_355",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_356",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_357",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_358",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_359",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_360",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_361",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_362",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_363",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_364",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_365",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_366",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_367",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_368",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_369",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_370",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_371",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_372",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_373",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_374",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_375",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_376",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_377",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_378",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_379",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_380",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_381",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_382",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_383",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_384",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_385",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_386",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_387",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_388",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_389",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_390",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_391",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_392",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_393",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_394",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_395",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_396",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_397",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_398",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_399",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_400",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_401",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_402",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_403",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_404",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_405",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_406",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_407",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_408",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_409",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_410",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_411",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_412",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_413",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_414",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_415",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_416",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_417",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_418",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_419",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_420",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_421",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_422",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_423",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_424",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_425",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_426",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_427",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_428",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_429",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_430",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_431",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_432",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_433",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_434",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_435",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_436",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_437",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_438",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_439",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_440",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_441",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_442",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_443",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_444",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_445",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_446",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_447",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_448",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_449",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_450",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_451",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_452",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_453",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_454",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_455",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_456",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_457",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_458",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_459",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_460",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_461",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_462",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_463",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_464",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_465",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_466",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_467",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_468",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_469",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_470",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_471",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_472",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_473",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_474",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_475",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_476",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_477",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_478",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_479",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_480",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_481",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_482",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_483",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_484",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_485",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_486",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_487",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_488",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_489",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_490",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_491",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_492",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_493",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_494",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_495",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_496",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_497",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_498",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_499",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_500",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_501",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_502",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_503",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_504",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_505",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_506",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_507",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_508",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_509",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_510",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_511",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_512",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_513",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_514",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_515",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_516",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_517",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_518",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_519",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_520",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_521",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_522",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_523",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_524",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_525",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_526",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_527",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_528",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_529",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_530",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_531",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_532",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_533",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_534",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_535",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_536",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_537",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_538",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_539",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_540",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_541",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_542",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_543",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_544",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_545",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_546",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_547",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_548",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_549",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_550",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_551",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_552",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_553",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_554",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_555",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_556",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_557",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_558",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_559",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_560",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_561",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_562",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_563",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_564",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_565",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_566",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_567",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_568",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_569",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_570",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_571",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_572",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_573",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_574",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_575",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_576",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_577",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_578",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_579",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_580",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_581",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_582",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_583",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_584",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_585",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_586",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_587",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_588",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_589",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_590",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_591",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_592",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_593",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_594",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_595",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_596",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_597",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_598",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_599",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_600",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_601",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_602",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_603",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_604",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_605",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_606",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_607",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_608",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_609",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_610",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_611",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_612",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_613",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_614",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_615",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_616",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_617",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_618",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_619",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_620",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_621",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_622",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_623",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_624",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_625",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_626",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_627",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_628",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_629",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_630",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_631",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_632",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_633",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_634",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_635",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_636",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_637",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_638",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_639",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_640",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_641",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_642",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_643",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_644",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_645",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_646",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_647",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_648",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_649",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_650",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_651",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_652",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_653",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_654",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_655",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_656",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_657",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_658",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_659",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_660",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_661",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_662",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_663",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_664",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_665",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_666",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_667",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_668",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_669",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_670",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_671",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_672",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_673",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_674",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_675",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_676",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_677",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_678",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_679",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_680",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_681",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_682",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_683",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_684",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_685",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_686",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_687",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_688",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_689",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_690",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_691",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_692",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_693",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_694",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_695",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_696",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_697",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_698",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_699",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_700",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_701",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_702",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_703",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_704",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_705",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_706",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_707",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_708",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_709",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_710",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_711",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_712",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_713",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_714",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_715",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_716",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_717",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_718",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_719",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_720",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_721",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_722",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_723",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_724",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_725",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_726",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_727",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_728",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_729",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_730",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_731",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_732",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_733",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_734",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_735",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_736",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_737",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_738",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_739",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_740",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_741",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_742",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_743",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_744",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_745",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_746",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_747",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_748",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_749",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_750",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_751",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_752",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_753",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_754",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_755",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_756",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_757",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_758",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_759",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_760",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_761",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_762",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_763",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_764",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_765",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_766",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_767",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_768",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_769",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_770",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_771",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_772",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_773",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_774",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_775",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_776",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_777",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_778",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_779",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_780",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_781",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_782",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_783",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_784",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_785",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_786",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_787",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_788",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_789",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_790",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_791",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_792",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_793",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_794",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_795",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_796",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_797",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_798",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_799",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_800",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_801",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_802",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_803",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_804",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_805",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_806",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_807",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_808",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_809",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_810",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_811",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_812",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_813",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_814",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_815",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_816",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_817",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_818",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_819",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_820",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_821",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_822",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_823",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_824",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_825",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_826",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_827",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_828",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_829",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_830",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_831",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_832",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_833",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_834",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_835",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_836",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_837",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_838",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_839",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_840",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_841",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_842",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_843",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_844",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_845",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_846",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_847",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_848",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_849",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_850",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_851",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_852",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_853",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_854",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_855",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_856",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_857",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_858",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_859",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_860",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_861",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_862",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_863",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_864",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_865",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_866",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_867",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_868",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_869",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_870",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_871",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_872",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_873",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_874",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_875",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_876",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_877",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_878",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_879",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_880",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_881",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_882",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_883",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_884",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_885",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_886",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_887",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_888",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_889",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_890",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_891",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_892",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_893",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_894",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    },
+    {
+      "id": "NOTA_895",
+      "has_logic_issue": null,
+      "analysis": null,
+      "defensible_options": [],
+      "replacements": {}
+    }
+  ]
+}

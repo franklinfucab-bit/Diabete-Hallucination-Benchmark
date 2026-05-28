@@ -1,0 +1,121 @@
+{
+    "deepseek_chat": {
+        "FCT": {
+            "accuracy": "100.0%",
+            "correct": 34,
+            "total": 34
+        },
+        "FQT": {
+            "accuracy": "100.0%",
+            "correct": 34,
+            "total": 34
+        },
+        "NOTA": {
+            "accuracy": "85.3%",
+            "correct": 29,
+            "total": 34
+        }
+    },
+    "gemma2_2b": {
+        "FCT": {
+            "accuracy": "88.2%",
+            "correct": 30,
+            "total": 34
+        },
+        "FQT": {
+            "accuracy": "76.5%",
+            "correct": 26,
+            "total": 34
+        },
+        "NOTA": {
+            "accuracy": "52.9%",
+            "correct": 18,
+            "total": 34
+        }
+    },
+    "llama3.2_3b": {
+        "FCT": {
+            "accuracy": "85.3%",
+            "correct": 29,
+            "total": 34
+        },
+        "FQT": {
+            "accuracy": "91.2%",
+            "correct": 31,
+            "total": 34
+        },
+        "NOTA": {
+            "accuracy": "0.0%",
+            "correct": 0,
+            "total": 34
+        }
+    },
+    "mistral_latest": {
+        "FCT": {
+            "accuracy": "70.6%",
+            "correct": 24,
+            "total": 34
+        },
+        "FQT": {
+            "accuracy": "8.8%",
+            "correct": 3,
+            "total": 34
+        },
+        "NOTA": {
+            "accuracy": "17.6%",
+            "correct": 6,
+            "total": 34
+        }
+    },
+    "phi3_latest": {
+        "FCT": {
+            "accuracy": "85.3%",
+            "correct": 29,
+            "total": 34
+        },
+        "FQT": {
+            "accuracy": "100.0%",
+            "correct": 34,
+            "total": 34
+        },
+        "NOTA": {
+            "accuracy": "0.0%",
+            "correct": 0,
+            "total": 34
+        }
+    },
+    "qwen2.5_7b q102": {
+        "FCT": {
+            "accuracy": "85.3%",
+            "correct": 29,
+            "total": 34
+        },
+        "FQT": {
+            "accuracy": "97.1%",
+            "correct": 33,
+            "total": 34
+        },
+        "NOTA": {
+            "accuracy": "44.1%",
+            "correct": 15,
+            "total": 34
+        }
+    },
+    "qwen2.5_7b": {
+        "FCT": {
+            "accuracy": "85.3%",
+            "correct": 29,
+            "total": 34
+        },
+        "FQT": {
+            "accuracy": "97.1%",
+            "correct": 33,
+            "total": 34
+        },
+        "NOTA": {
+            "accuracy": "44.1%",
+            "correct": 15,
+            "total": 34
+        }
+    }
+}

@@ -1,0 +1,813 @@
+{
+  "overall": {
+    "accuracy": "41.8%",
+    "correct": 125,
+    "total": 299,
+    "wrong": 174
+  },
+  "by_type": {
+    "NOTA": {
+      "accuracy": "27.3%",
+      "correct": 27,
+      "total": 99
+    },
+    "FQT": {
+      "accuracy": "22.0%",
+      "correct": 22,
+      "total": 100
+    },
+    "FCT": {
+      "accuracy": "76.0%",
+      "correct": 76,
+      "total": 100
+    }
+  },
+  "wrong_answers": {
+    "ids": [
+      "NOTA_003",
+      "NOTA_004",
+      "NOTA_005",
+      "NOTA_006",
+      "NOTA_007",
+      "NOTA_008",
+      "NOTA_010",
+      "NOTA_011",
+      "NOTA_013",
+      "NOTA_014",
+      "NOTA_015",
+      "NOTA_016",
+      "NOTA_017",
+      "NOTA_018",
+      "NOTA_019",
+      "NOTA_020",
+      "NOTA_021",
+      "NOTA_024",
+      "NOTA_025",
+      "NOTA_026",
+      "NOTA_027",
+      "NOTA_028",
+      "NOTA_029",
+      "NOTA_030",
+      "NOTA_031",
+      "NOTA_032",
+      "NOTA_033",
+      "NOTA_034",
+      "NOTA_035",
+      "NOTA_037",
+      "NOTA_040",
+      "NOTA_042",
+      "NOTA_044",
+      "NOTA_045",
+      "NOTA_047",
+      "NOTA_048",
+      "NOTA_050",
+      "NOTA_051",
+      "NOTA_052",
+      "NOTA_053",
+      "NOTA_054",
+      "NOTA_056",
+      "NOTA_057",
+      "NOTA_058",
+      "NOTA_059",
+      "NOTA_060",
+      "NOTA_061",
+      "NOTA_062",
+      "NOTA_063",
+      "NOTA_064",
+      "NOTA_065",
+      "NOTA_066",
+      "NOTA_067",
+      "NOTA_069",
+      "NOTA_070",
+      "NOTA_071",
+      "NOTA_072",
+      "NOTA_074",
+      "NOTA_075",
+      "NOTA_076",
+      "NOTA_077",
+      "NOTA_079",
+      "NOTA_080",
+      "NOTA_083",
+      "NOTA_084",
+      "NOTA_085",
+      "NOTA_086",
+      "NOTA_092",
+      "NOTA_094",
+      "NOTA_095",
+      "NOTA_099",
+      "NOTA_100",
+      "FQT_001",
+      "FQT_002",
+      "FQT_004",
+      "FQT_005",
+      "FQT_006",
+      "FQT_007",
+      "FQT_008",
+      "FQT_009",
+      "FQT_010",
+      "FQT_012",
+      "FQT_013",
+      "FQT_014",
+      "FQT_016",
+      "FQT_018",
+      "FQT_019",
+      "FQT_022",
+      "FQT_023",
+      "FQT_024",
+      "FQT_025",
+      "FQT_026",
+      "FQT_028",
+      "FQT_029",
+      "FQT_030",
+      "FQT_031",
+      "FQT_032",
+      "FQT_033",
+      "FQT_034",
+      "FQT_036",
+      "FQT_038",
+      "FQT_039",
+      "FQT_040",
+      "FQT_041",
+      "FQT_042",
+      "FQT_043",
+      "FQT_044",
+      "FQT_045",
+      "FQT_046",
+      "FQT_047",
+      "FQT_049",
+      "FQT_052",
+      "FQT_053",
+      "FQT_054",
+      "FQT_055",
+      "FQT_057",
+      "FQT_058",
+      "FQT_060",
+      "FQT_061",
+      "FQT_062",
+      "FQT_063",
+      "FQT_064",
+      "FQT_066",
+      "FQT_067",
+      "FQT_068",
+      "FQT_069",
+      "FQT_070",
+      "FQT_072",
+      "FQT_074",
+      "FQT_075",
+      "FQT_077",
+      "FQT_078",
+      "FQT_079",
+      "FQT_081",
+      "FQT_082",
+      "FQT_083",
+      "FQT_085",
+      "FQT_086",
+      "FQT_087",
+      "FQT_088",
+      "FQT_089",
+      "FQT_090",
+      "FQT_091",
+      "FQT_092",
+      "FQT_093",
+      "FQT_094",
+      "FQT_096",
+      "FQT_098",
+      "FQT_099",
+      "FQT_100",
+      "FCT_002",
+      "FCT_011",
+      "FCT_013",
+      "FCT_014",
+      "FCT_015",
+      "FCT_021",
+      "FCT_025",
+      "FCT_033",
+      "FCT_037",
+      "FCT_038",
+      "FCT_039",
+      "FCT_044",
+      "FCT_048",
+      "FCT_050",
+      "FCT_051",
+      "FCT_054",
+      "FCT_057",
+      "FCT_064",
+      "FCT_074",
+      "FCT_079",
+      "FCT_089",
+      "FCT_093",
+      "FCT_095",
+      "FCT_100"
+    ],
+    "by_topic": {
+      "monogenic diabetes": [
+        "NOTA_003"
+      ],
+      "glycemic targets": [
+        "NOTA_004"
+      ],
+      "MODY maturity-onset diabetes of the young": [
+        "NOTA_005"
+      ],
+      "treatment guidelines": [
+        "NOTA_006"
+      ],
+      "phlebotomy": [
+        "NOTA_007"
+      ],
+      "Autonomic neuropathy orthostatic hypotension": [
+        "NOTA_008"
+      ],
+      "SGLT2 inhibitors": [
+        "NOTA_010"
+      ],
+      "endocrinology": [
+        "NOTA_011"
+      ],
+      "genetic testing": [
+        "NOTA_013"
+      ],
+      "CKD": [
+        "NOTA_014"
+      ],
+      "clinical management": [
+        "NOTA_015"
+      ],
+      "hypoglycemia": [
+        "NOTA_016"
+      ],
+      "pharmacology": [
+        "NOTA_017"
+      ],
+      "Semaglutide and retinopathy SUSTAIN-6 signal": [
+        "NOTA_018"
+      ],
+      "emergency_medicine": [
+        "NOTA_019"
+      ],
+      "SGLT2 and acute kidney injury / volume depletion": [
+        "NOTA_020"
+      ],
+      "type 1 diabetes": [
+        "NOTA_021"
+      ],
+      "Rare complications: Necrobiosis lipoidica": [
+        "NOTA_024"
+      ],
+      "Wagner classification": [
+        "NOTA_025"
+      ],
+      "GLP-1 receptor agonists and gastroparesis contraindication": [
+        "NOTA_026"
+      ],
+      "treatment": [
+        "NOTA_027"
+      ],
+      "type 2 diabetes": [
+        "NOTA_028"
+      ],
+      "SGLT2 inhibitors in CKD with proteinuria": [
+        "NOTA_029"
+      ],
+      "Steroid-induced diabetes management": [
+        "NOTA_030"
+      ],
+      "clinical-reasoning": [
+        "NOTA_031"
+      ],
+      "Cardiovascular autonomic neuropathy": [
+        "NOTA_032"
+      ],
+      "LADA latent autoimmune diabetes misdiagnosed as type 2": [
+        "NOTA_033"
+      ],
+      "heart-failure": [
+        "NOTA_034"
+      ],
+      "metformin": [
+        "NOTA_035"
+      ],
+      "insulin": [
+        "NOTA_037"
+      ],
+      "time-in-range": [
+        "NOTA_040"
+      ],
+      "HFpEF and diabetes pharmacotherapy": [
+        "NOTA_042"
+      ],
+      "CGM technology: Acetaminophen interference with CGM": [
+        "NOTA_044"
+      ],
+      "PDR": [
+        "NOTA_045"
+      ],
+      "necrobiosis-lipoidica": [
+        "NOTA_047"
+      ],
+      "Charcot neuroarthropathy": [
+        "NOTA_048"
+      ],
+      "geriatrics": [
+        "NOTA_050"
+      ],
+      "CGM": [
+        "NOTA_051"
+      ],
+      "neurology": [
+        "NOTA_052"
+      ],
+      "autoimmune": [
+        "NOTA_053"
+      ],
+      "adverse_effects": [
+        "NOTA_054"
+      ],
+      "Steroid-induced hyperglycemia": [
+        "NOTA_056"
+      ],
+      "acute kidney injury": [
+        "NOTA_057"
+      ],
+      "sick-day management": [
+        "NOTA_058"
+      ],
+      "Hypoglycemia management": [
+        "NOTA_059",
+        "FCT_064"
+      ],
+      "Diabetic retinopathy screening": [
+        "NOTA_060"
+      ],
+      "Euglycemic diabetic ketoacidosis with SGLT2": [
+        "NOTA_061"
+      ],
+      "genetic-testing": [
+        "NOTA_062"
+      ],
+      "gastroparesis": [
+        "NOTA_063"
+      ],
+      "cardiology": [
+        "NOTA_064"
+      ],
+      "clinical_trials": [
+        "NOTA_065"
+      ],
+      "Fournier's gangrene": [
+        "NOTA_066"
+      ],
+      "Insulin pump management": [
+        "NOTA_067",
+        "FCT_014",
+        "FCT_038",
+        "FCT_079",
+        "FCT_093"
+      ],
+      "diabetic foot ulcer": [
+        "NOTA_069"
+      ],
+      "GLP-1 in cardiovascular outcomes": [
+        "NOTA_070"
+      ],
+      "LADA vs type 2 differential": [
+        "NOTA_071"
+      ],
+      "Hemochromatosis bronze diabetes": [
+        "NOTA_072"
+      ],
+      "interference": [
+        "NOTA_074"
+      ],
+      "pharmacotherapy": [
+        "NOTA_075"
+      ],
+      "Diabetic foot: Charcot foot diagnosis": [
+        "NOTA_076"
+      ],
+      "Rare complications: Gastroparesis and GLP-1 contraindication": [
+        "NOTA_077"
+      ],
+      "CGM technology: Vitamin C effects on CGM accuracy": [
+        "NOTA_079"
+      ],
+      "Fournier_gangrene": [
+        "NOTA_080"
+      ],
+      "Fournier's gangrene and SGLT2 inhibitors": [
+        "NOTA_083"
+      ],
+      "Proliferative diabetic retinopathy Anti-VEGF": [
+        "NOTA_084"
+      ],
+      "diagnostic approach": [
+        "NOTA_085"
+      ],
+      "contraindications": [
+        "NOTA_086"
+      ],
+      "MODY genetic testing": [
+        "NOTA_092"
+      ],
+      "CKD proteinuria and SGLT2": [
+        "NOTA_094"
+      ],
+      "Diabetic foot: Wagner grade classification": [
+        "NOTA_095"
+      ],
+      "Diabetic autonomic neuropathy erectile dysfunction": [
+        "NOTA_099"
+      ],
+      "acute illness management": [
+        "NOTA_100"
+      ],
+      "Neuropathy_FootCare": [
+        "FQT_001",
+        "FQT_004",
+        "FQT_013",
+        "FQT_016",
+        "FQT_029",
+        "FQT_036",
+        "FQT_041",
+        "FQT_046",
+        "FQT_052",
+        "FQT_057",
+        "FQT_066",
+        "FQT_068",
+        "FQT_082",
+        "FQT_090",
+        "FQT_093",
+        "FQT_096"
+      ],
+      "SpecialPops": [
+        "FQT_002",
+        "FQT_008",
+        "FQT_009",
+        "FQT_014",
+        "FQT_018",
+        "FQT_026",
+        "FQT_028",
+        "FQT_032",
+        "FQT_038",
+        "FQT_042",
+        "FQT_049",
+        "FQT_055",
+        "FQT_061",
+        "FQT_077",
+        "FQT_086",
+        "FQT_087",
+        "FQT_094",
+        "FQT_098",
+        "FQT_099"
+      ],
+      "Acute_Hospital": [
+        "FQT_005",
+        "FQT_010",
+        "FQT_012",
+        "FQT_019",
+        "FQT_022",
+        "FQT_024",
+        "FQT_031",
+        "FQT_039",
+        "FQT_040",
+        "FQT_043",
+        "FQT_045",
+        "FQT_054",
+        "FQT_058",
+        "FQT_062",
+        "FQT_063",
+        "FQT_067",
+        "FQT_075",
+        "FQT_079",
+        "FQT_081",
+        "FQT_083",
+        "FQT_088",
+        "FQT_091",
+        "FQT_100"
+      ],
+      "Retinopathy_Kidney": [
+        "FQT_006",
+        "FQT_007",
+        "FQT_023",
+        "FQT_025",
+        "FQT_030",
+        "FQT_033",
+        "FQT_034",
+        "FQT_044",
+        "FQT_047",
+        "FQT_053",
+        "FQT_060",
+        "FQT_064",
+        "FQT_069",
+        "FQT_070",
+        "FQT_072",
+        "FQT_074",
+        "FQT_078",
+        "FQT_085",
+        "FQT_089",
+        "FQT_092"
+      ],
+      "Blood glucose monitoring": [
+        "FCT_002"
+      ],
+      "Diabetes and cardiovascular risk": [
+        "FCT_011",
+        "FCT_100"
+      ],
+      "medical documentation": [
+        "FCT_013"
+      ],
+      "misconceptions": [
+        "FCT_015"
+      ],
+      "clinical trials": [
+        "FCT_021"
+      ],
+      "Diabetes with heart failure; SGLT2i, drug interactions, volume status": [
+        "FCT_025",
+        "FCT_039",
+        "FCT_044"
+      ],
+      "Diabetic Retinopathy & Kidney Disease": [
+        "FCT_033"
+      ],
+      "preventive care": [
+        "FCT_037"
+      ],
+      "Diabetes and chronic kidney disease (CKD); medication adjustment, monitoring": [
+        "FCT_048"
+      ],
+      "Diabetes complications prevention": [
+        "FCT_050",
+        "FCT_095"
+      ],
+      "aspirin therapy": [
+        "FCT_051"
+      ],
+      "pathophysiology": [
+        "FCT_054"
+      ],
+      "Diabetes in pregnancy; glycemic targets, medication safety": [
+        "FCT_057"
+      ],
+      "Diabetic Neuropathy & Foot Care": [
+        "FCT_074"
+      ],
+      "Acute Complications & Hospital Management": [
+        "FCT_089"
+      ]
+    }
+  },
+  "analysis": {
+    "pred_vs_label": {
+      "C->D": 37,
+      "B->D": 40,
+      "A->D": 82,
+      "A->C": 1,
+      "A->B": 1,
+      "D->B": 3,
+      "D->C": 2,
+      "B->C": 2,
+      "C->B": 3,
+      "B->A": 1,
+      "C->A": 2
+    },
+    "wrong_by_difficulty": {
+      "0.8": 2,
+      "0.75": 61,
+      "0.65": 9,
+      "0.85": 3,
+      "0": 78,
+      "0.7": 11,
+      "0.6": 2,
+      "0.4": 5,
+      "0.55": 3
+    },
+    "hardest_topics": [
+      {
+        "topic": "Acute_Hospital",
+        "wrong_count": 23,
+        "ids": [
+          "FQT_005",
+          "FQT_010",
+          "FQT_012",
+          "FQT_019",
+          "FQT_022",
+          "FQT_024",
+          "FQT_031",
+          "FQT_039",
+          "FQT_040",
+          "FQT_043",
+          "FQT_045",
+          "FQT_054",
+          "FQT_058",
+          "FQT_062",
+          "FQT_063",
+          "FQT_067",
+          "FQT_075",
+          "FQT_079",
+          "FQT_081",
+          "FQT_083",
+          "FQT_088",
+          "FQT_091",
+          "FQT_100"
+        ]
+      },
+      {
+        "topic": "Retinopathy_Kidney",
+        "wrong_count": 20,
+        "ids": [
+          "FQT_006",
+          "FQT_007",
+          "FQT_023",
+          "FQT_025",
+          "FQT_030",
+          "FQT_033",
+          "FQT_034",
+          "FQT_044",
+          "FQT_047",
+          "FQT_053",
+          "FQT_060",
+          "FQT_064",
+          "FQT_069",
+          "FQT_070",
+          "FQT_072",
+          "FQT_074",
+          "FQT_078",
+          "FQT_085",
+          "FQT_089",
+          "FQT_092"
+        ]
+      },
+      {
+        "topic": "SpecialPops",
+        "wrong_count": 19,
+        "ids": [
+          "FQT_002",
+          "FQT_008",
+          "FQT_009",
+          "FQT_014",
+          "FQT_018",
+          "FQT_026",
+          "FQT_028",
+          "FQT_032",
+          "FQT_038",
+          "FQT_042",
+          "FQT_049",
+          "FQT_055",
+          "FQT_061",
+          "FQT_077",
+          "FQT_086",
+          "FQT_087",
+          "FQT_094",
+          "FQT_098",
+          "FQT_099"
+        ]
+      },
+      {
+        "topic": "Neuropathy_FootCare",
+        "wrong_count": 16,
+        "ids": [
+          "FQT_001",
+          "FQT_004",
+          "FQT_013",
+          "FQT_016",
+          "FQT_029",
+          "FQT_036",
+          "FQT_041",
+          "FQT_046",
+          "FQT_052",
+          "FQT_057",
+          "FQT_066",
+          "FQT_068",
+          "FQT_082",
+          "FQT_090",
+          "FQT_093",
+          "FQT_096"
+        ]
+      },
+      {
+        "topic": "Insulin pump management",
+        "wrong_count": 5,
+        "ids": [
+          "NOTA_067",
+          "FCT_014",
+          "FCT_038",
+          "FCT_079",
+          "FCT_093"
+        ]
+      },
+      {
+        "topic": "Diabetes with heart failure; SGLT2i, drug interactions, volume status",
+        "wrong_count": 3,
+        "ids": [
+          "FCT_025",
+          "FCT_039",
+          "FCT_044"
+        ]
+      },
+      {
+        "topic": "Hypoglycemia management",
+        "wrong_count": 2,
+        "ids": [
+          "NOTA_059",
+          "FCT_064"
+        ]
+      },
+      {
+        "topic": "Diabetes and cardiovascular risk",
+        "wrong_count": 2,
+        "ids": [
+          "FCT_011",
+          "FCT_100"
+        ]
+      },
+      {
+        "topic": "Diabetes complications prevention",
+        "wrong_count": 2,
+        "ids": [
+          "FCT_050",
+          "FCT_095"
+        ]
+      },
+      {
+        "topic": "monogenic diabetes",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_003"
+        ]
+      },
+      {
+        "topic": "glycemic targets",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_004"
+        ]
+      },
+      {
+        "topic": "MODY maturity-onset diabetes of the young",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_005"
+        ]
+      },
+      {
+        "topic": "treatment guidelines",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_006"
+        ]
+      },
+      {
+        "topic": "phlebotomy",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_007"
+        ]
+      },
+      {
+        "topic": "Autonomic neuropathy orthostatic hypotension",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_008"
+        ]
+      },
+      {
+        "topic": "SGLT2 inhibitors",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_010"
+        ]
+      },
+      {
+        "topic": "endocrinology",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_011"
+        ]
+      },
+      {
+        "topic": "genetic testing",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_013"
+        ]
+      },
+      {
+        "topic": "CKD",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_014"
+        ]
+      },
+      {
+        "topic": "clinical management",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_015"
+        ]
+      }
+    ]
+  },
+  "model": "deepseek-r1_7b"
+}

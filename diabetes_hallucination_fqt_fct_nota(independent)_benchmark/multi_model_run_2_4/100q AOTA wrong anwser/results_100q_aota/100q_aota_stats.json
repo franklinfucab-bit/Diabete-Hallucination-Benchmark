@@ -1,0 +1,146 @@
+{
+  "models": {
+    "deepseek-r1_7b": {
+      "accuracy": 23.5,
+      "correct": 23,
+      "total": 98,
+      "option_stats": {
+        "A": {
+          "count": 27,
+          "pct": 27.6
+        },
+        "B": {
+          "count": 23,
+          "pct": 23.5
+        },
+        "C": {
+          "count": 25,
+          "pct": 25.5
+        },
+        "D": {
+          "count": 23,
+          "pct": 23.5
+        },
+        "N/A": {
+          "count": 0,
+          "pct": 0.0
+        }
+      }
+    },
+    "gemma_7b": {
+      "accuracy": 66.0,
+      "correct": 66,
+      "total": 100,
+      "option_stats": {
+        "A": {
+          "count": 18,
+          "pct": 18.0
+        },
+        "B": {
+          "count": 9,
+          "pct": 9.0
+        },
+        "C": {
+          "count": 7,
+          "pct": 7.0
+        },
+        "D": {
+          "count": 66,
+          "pct": 66.0
+        },
+        "N/A": {
+          "count": 0,
+          "pct": 0.0
+        }
+      }
+    },
+    "llama3.1_8b": {
+      "accuracy": 9.2,
+      "correct": 9,
+      "total": 98,
+      "option_stats": {
+        "A": {
+          "count": 25,
+          "pct": 25.5
+        },
+        "B": {
+          "count": 47,
+          "pct": 48.0
+        },
+        "C": {
+          "count": 17,
+          "pct": 17.3
+        },
+        "D": {
+          "count": 9,
+          "pct": 9.2
+        },
+        "N/A": {
+          "count": 0,
+          "pct": 0.0
+        }
+      }
+    },
+    "mistral_latest": {
+      "accuracy": 18.0,
+      "correct": 18,
+      "total": 100,
+      "option_stats": {
+        "A": {
+          "count": 41,
+          "pct": 41.0
+        },
+        "B": {
+          "count": 14,
+          "pct": 14.0
+        },
+        "C": {
+          "count": 27,
+          "pct": 27.0
+        },
+        "D": {
+          "count": 18,
+          "pct": 18.0
+        },
+        "N/A": {
+          "count": 0,
+          "pct": 0.0
+        }
+      }
+    },
+    "qwen2.5_7b": {
+      "accuracy": 34.0,
+      "correct": 34,
+      "total": 100,
+      "option_stats": {
+        "A": {
+          "count": 20,
+          "pct": 20.0
+        },
+        "B": {
+          "count": 29,
+          "pct": 29.0
+        },
+        "C": {
+          "count": 17,
+          "pct": 17.0
+        },
+        "D": {
+          "count": 34,
+          "pct": 34.0
+        },
+        "N/A": {
+          "count": 0,
+          "pct": 0.0
+        }
+      }
+    }
+  },
+  "ranking": [
+    "gemma_7b",
+    "qwen2.5_7b",
+    "deepseek-r1_7b",
+    "mistral_latest",
+    "llama3.1_8b"
+  ]
+}

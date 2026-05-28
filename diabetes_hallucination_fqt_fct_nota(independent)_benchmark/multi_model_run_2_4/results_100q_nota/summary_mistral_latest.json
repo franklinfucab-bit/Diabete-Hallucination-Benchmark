@@ -1,0 +1,476 @@
+{
+  "overall": {
+    "accuracy": "26.0%",
+    "correct": 26,
+    "total": 100,
+    "wrong": 74
+  },
+  "by_type": {
+    "NOTA": {
+      "accuracy": "26.0%",
+      "correct": 26,
+      "total": 100
+    }
+  },
+  "wrong_answers": {
+    "ids": [
+      "NOTA_001",
+      "NOTA_002",
+      "NOTA_003",
+      "NOTA_004",
+      "NOTA_006",
+      "NOTA_008",
+      "NOTA_012",
+      "NOTA_013",
+      "NOTA_014",
+      "NOTA_016",
+      "NOTA_018",
+      "NOTA_019",
+      "NOTA_022",
+      "NOTA_023",
+      "NOTA_025",
+      "NOTA_026",
+      "NOTA_027",
+      "NOTA_029",
+      "NOTA_030",
+      "NOTA_031",
+      "NOTA_034",
+      "NOTA_035",
+      "NOTA_036",
+      "NOTA_037",
+      "NOTA_038",
+      "NOTA_039",
+      "NOTA_040",
+      "NOTA_041",
+      "NOTA_042",
+      "NOTA_043",
+      "NOTA_044",
+      "NOTA_045",
+      "NOTA_046",
+      "NOTA_048",
+      "NOTA_049",
+      "NOTA_050",
+      "NOTA_052",
+      "NOTA_054",
+      "NOTA_057",
+      "NOTA_058",
+      "NOTA_059",
+      "NOTA_060",
+      "NOTA_063",
+      "NOTA_064",
+      "NOTA_066",
+      "NOTA_067",
+      "NOTA_068",
+      "NOTA_069",
+      "NOTA_070",
+      "NOTA_071",
+      "NOTA_073",
+      "NOTA_074",
+      "NOTA_075",
+      "NOTA_076",
+      "NOTA_077",
+      "NOTA_078",
+      "NOTA_079",
+      "NOTA_080",
+      "NOTA_082",
+      "NOTA_083",
+      "NOTA_085",
+      "NOTA_086",
+      "NOTA_088",
+      "NOTA_089",
+      "NOTA_090",
+      "NOTA_091",
+      "NOTA_093",
+      "NOTA_094",
+      "NOTA_095",
+      "NOTA_096",
+      "NOTA_097",
+      "NOTA_098",
+      "NOTA_099",
+      "NOTA_100"
+    ],
+    "by_topic": {
+      "glycemic_control": [
+        "NOTA_001"
+      ],
+      "SMBG": [
+        "NOTA_002"
+      ],
+      "patient education": [
+        "NOTA_003"
+      ],
+      "integrated_care": [
+        "NOTA_004"
+      ],
+      "medication adherence": [
+        "NOTA_006"
+      ],
+      "exercise management": [
+        "NOTA_008"
+      ],
+      "behavioral health": [
+        "NOTA_012"
+      ],
+      "medical documentation": [
+        "NOTA_013"
+      ],
+      "insulin pump therapy": [
+        "NOTA_014"
+      ],
+      "gestational diabetes": [
+        "NOTA_016"
+      ],
+      "acute decompensated heart failure": [
+        "NOTA_018"
+      ],
+      "specialpops": [
+        "NOTA_019"
+      ],
+      "preventive medicine": [
+        "NOTA_022"
+      ],
+      "guideline-based management": [
+        "NOTA_023"
+      ],
+      "SGLT2 inhibitors": [
+        "NOTA_025"
+      ],
+      "metformin": [
+        "NOTA_026"
+      ],
+      "sulfonylureas": [
+        "NOTA_027"
+      ],
+      "pharmacotherapy": [
+        "NOTA_029"
+      ],
+      "emergency medicine": [
+        "NOTA_030"
+      ],
+      "clinical_guidelines": [
+        "NOTA_031"
+      ],
+      "patient-centered care": [
+        "NOTA_034"
+      ],
+      "macrovascular": [
+        "NOTA_035"
+      ],
+      "GLP-1 agonist": [
+        "NOTA_036"
+      ],
+      "preventive care": [
+        "NOTA_037"
+      ],
+      "basal rate adjustment": [
+        "NOTA_038"
+      ],
+      "renal protection": [
+        "NOTA_039"
+      ],
+      "bolus adjustment": [
+        "NOTA_040"
+      ],
+      "cardiorenal syndrome": [
+        "NOTA_041"
+      ],
+      "screening-guidelines": [
+        "NOTA_042"
+      ],
+      "psychosocial aspects": [
+        "NOTA_043"
+      ],
+      "cardiorenal protection": [
+        "NOTA_044"
+      ],
+      "type 2 diabetes management": [
+        "NOTA_045"
+      ],
+      "evidence-based medicine": [
+        "NOTA_046"
+      ],
+      "medication safety": [
+        "NOTA_048"
+      ],
+      "comorbidity": [
+        "NOTA_049"
+      ],
+      "cardiovascular risk reduction": [
+        "NOTA_050"
+      ],
+      "maternal_fetal_medicine": [
+        "NOTA_052"
+      ],
+      "pathophysiology": [
+        "NOTA_054"
+      ],
+      "antepartum_care": [
+        "NOTA_057"
+      ],
+      "family_involvement": [
+        "NOTA_058"
+      ],
+      "prevention": [
+        "NOTA_059"
+      ],
+      "ADA guidelines": [
+        "NOTA_060"
+      ],
+      "weight management": [
+        "NOTA_063"
+      ],
+      "hypoglycemia": [
+        "NOTA_064"
+      ],
+      "lifestyle intervention": [
+        "NOTA_066"
+      ],
+      "cardiometabolic": [
+        "NOTA_067"
+      ],
+      "pharmacology": [
+        "NOTA_068"
+      ],
+      "research_methodology": [
+        "NOTA_069"
+      ],
+      "neuropathy": [
+        "NOTA_070"
+      ],
+      "cardiovascular risk": [
+        "NOTA_071"
+      ],
+      "preventive screening": [
+        "NOTA_073"
+      ],
+      "neuropathy_footcare": [
+        "NOTA_074"
+      ],
+      "emergency_medicine": [
+        "NOTA_075"
+      ],
+      "nephrology": [
+        "NOTA_076"
+      ],
+      "ADA compliance": [
+        "NOTA_077"
+      ],
+      "terminology": [
+        "NOTA_078"
+      ],
+      "postprandial hyperglycemia": [
+        "NOTA_079"
+      ],
+      "glucose monitoring": [
+        "NOTA_080"
+      ],
+      "type 2 diabetes": [
+        "NOTA_082"
+      ],
+      "lipid guidelines": [
+        "NOTA_083"
+      ],
+      "cardiovascular prevention": [
+        "NOTA_085"
+      ],
+      "holistic care": [
+        "NOTA_086"
+      ],
+      "insulin pump": [
+        "NOTA_088"
+      ],
+      "acute_hospital": [
+        "NOTA_089"
+      ],
+      "shared decision-making": [
+        "NOTA_090"
+      ],
+      "GLP-1 receptor agonists": [
+        "NOTA_091"
+      ],
+      "continuous glucose monitoring": [
+        "NOTA_093"
+      ],
+      "obesity": [
+        "NOTA_094"
+      ],
+      "chronic_kidney_disease": [
+        "NOTA_095"
+      ],
+      "clinical_trials": [
+        "NOTA_096"
+      ],
+      "medical safety": [
+        "NOTA_097"
+      ],
+      "cardiovascular risk management": [
+        "NOTA_098"
+      ],
+      "glycemic monitoring": [
+        "NOTA_099"
+      ],
+      "primary prevention": [
+        "NOTA_100"
+      ]
+    }
+  },
+  "analysis": {
+    "pred_vs_label": {
+      "A->D": 30,
+      "B->D": 11,
+      "C->D": 33
+    },
+    "wrong_by_difficulty": {
+      "0.7": 25,
+      "0.4": 26,
+      "0.6": 6,
+      "0.55": 10,
+      "0.45": 5,
+      "0.8": 1,
+      "0.65": 1
+    },
+    "hardest_topics": [
+      {
+        "topic": "glycemic_control",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_001"
+        ]
+      },
+      {
+        "topic": "SMBG",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_002"
+        ]
+      },
+      {
+        "topic": "patient education",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_003"
+        ]
+      },
+      {
+        "topic": "integrated_care",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_004"
+        ]
+      },
+      {
+        "topic": "medication adherence",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_006"
+        ]
+      },
+      {
+        "topic": "exercise management",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_008"
+        ]
+      },
+      {
+        "topic": "behavioral health",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_012"
+        ]
+      },
+      {
+        "topic": "medical documentation",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_013"
+        ]
+      },
+      {
+        "topic": "insulin pump therapy",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_014"
+        ]
+      },
+      {
+        "topic": "gestational diabetes",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_016"
+        ]
+      },
+      {
+        "topic": "acute decompensated heart failure",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_018"
+        ]
+      },
+      {
+        "topic": "specialpops",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_019"
+        ]
+      },
+      {
+        "topic": "preventive medicine",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_022"
+        ]
+      },
+      {
+        "topic": "guideline-based management",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_023"
+        ]
+      },
+      {
+        "topic": "SGLT2 inhibitors",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_025"
+        ]
+      },
+      {
+        "topic": "metformin",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_026"
+        ]
+      },
+      {
+        "topic": "sulfonylureas",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_027"
+        ]
+      },
+      {
+        "topic": "pharmacotherapy",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_029"
+        ]
+      },
+      {
+        "topic": "emergency medicine",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_030"
+        ]
+      },
+      {
+        "topic": "clinical_guidelines",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_031"
+        ]
+      }
+    ]
+  },
+  "model": "mistral_latest"
+}

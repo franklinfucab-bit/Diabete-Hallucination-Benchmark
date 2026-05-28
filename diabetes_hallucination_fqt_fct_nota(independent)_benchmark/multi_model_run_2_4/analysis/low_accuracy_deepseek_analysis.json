@@ -1,0 +1,140 @@
+{
+  "threshold": 80.0,
+  "pairs": [
+    {
+      "model": "phi3_latest",
+      "task": "NOTA",
+      "accuracy": "0.0%",
+      "correct": 0,
+      "total": 34,
+      "distribution": {
+        "prediction_distribution": {
+          "B": 31,
+          "C": 2,
+          "A": 1
+        },
+        "correct_answer_distribution": {
+          "D": 34
+        },
+        "total": 34,
+        "correct": 0,
+        "confusion_matrix": {
+          "B": {
+            "D": 31
+          },
+          "C": {
+            "D": 2
+          },
+          "A": {
+            "D": 1
+          }
+        }
+      },
+      "sample_incorrect": [
+        {
+          "id": "NOTA_001",
+          "pred": "B",
+          "correct": "D",
+          "question_preview": "A 42-year-old woman with type 1 diabetes using an insulin pump presents with persistent hyperglycemia (fasting glucose 180-220 mg/dL) despite multiple basal rate adjustments. She reports no symptoms of illness, and her carbohydrate counting appears accurate. What is the most appropriate next step in...",
+          "options": "  A: Immediately increase all basal rates by 20% and advise her to skip meals until glucose normalizes, as this indicates sev...\n  B: Discontinue the pump and switch back to multiple daily injections with NPH insulin, as pumps are clearly failing to deli...\n  C: Assume the hyperglycemia is due to infusion set issues and recommend she change her set only once weekly to minimize ski...\n  D: None of the above"
+        },
+        {
+          "id": "NOTA_002",
+          "pred": "B",
+          "correct": "D",
+          "question_preview": "A 52-year-old woman with type 2 diabetes is concerned about hydration during Ramadan fasting. She asks her primary care provider which calorie-free, caffeine-free liquids she can safely consume during non-fasting hours without affecting her blood glucose. Which of the following recommendations would...",
+          "options": "  A: Diet sodas containing artificial sweeteners like aspartame are ideal as they are calorie-free and won't raise blood suga...\n  B: Fruit-infused water with lemon or cucumber slices is recommended because the natural sugars from these fruits are minima...\n  C: Clear sports drinks labeled 'zero sugar' are excellent options since they replace electrolytes lost during fasting and c...\n  D: None of the above"
+        },
+        {
+          "id": "NOTA_003",
+          "pred": "B",
+          "correct": "D",
+          "question_preview": "A 52-year-old man with newly diagnosed type 2 diabetes (HbA1c 8.2%) presents for initial management. He has no cardiovascular disease, normal renal function, and is not on any medications. According to current guidelines, what is the most appropriate initial pharmacologic approach?",
+          "options": "  A: Start metformin immediately and titrate to maximum tolerated dose, then add a sulfonylurea if HbA1c remains above target...\n  B: Begin with insulin therapy to achieve rapid glycemic control and 'rest the pancreas,' then transition to oral agents onc...\n  C: Initiate a GLP-1 receptor agonist as first-line therapy due to superior cardiovascular benefits, regardless of the patie...\n  D: None of the above"
+        },
+        {
+          "id": "NOTA_004",
+          "pred": "B",
+          "correct": "D",
+          "question_preview": "A 45-year-old woman with type 2 diabetes for 8 years, well-controlled on metformin with an HbA1c of 6.8%, presents for routine care. She has no visual symptoms. According to current guidelines, when should she next have diabetic retinopathy screening?",
+          "options": "  A: She should have annual screening because she has had diabetes for more than 5 years, regardless of her current glycemic ...\n  B: Since she has no visual symptoms and her diabetes is well-controlled, she can wait 3 years before her next screening.\n  C: She should be referred immediately to an ophthalmologist for a comprehensive dilated eye exam every 6 months due to her ...\n  D: None of the above"
+        },
+        {
+          "id": "NOTA_005",
+          "pred": "B",
+          "correct": "D",
+          "question_preview": "A 52-year-old woman with type 2 diabetes managed with metformin and glipizide calls the clinic while experiencing vomiting and diarrhea for 12 hours. She asks for guidance on when she should seek immediate medical attention. Based on standard sick-day management protocols, which of the following sit...",
+          "options": "  A: If her blood glucose readings are consistently below 180 mg/dL, as this indicates her medications are working well and s...\n  B: If she is unable to keep down solid food for more than 6 hours, she should stop all diabetes medications until she can e...\n  C: If she develops mild ketones in her urine (trace to small) but feels otherwise stable, she should increase her fluid int...\n  D: None of the above"
+        }
+      ]
+    },
+    {
+      "model": "llama3.2_3b",
+      "task": "NOTA",
+      "accuracy": "0.0%",
+      "correct": 0,
+      "total": 34,
+      "distribution": {
+        "prediction_distribution": {
+          "B": 22,
+          "A": 11,
+          "C": 1
+        },
+        "correct_answer_distribution": {
+          "D": 34
+        },
+        "total": 34,
+        "correct": 0,
+        "confusion_matrix": {
+          "B": {
+            "D": 22
+          },
+          "A": {
+            "D": 11
+          },
+          "C": {
+            "D": 1
+          }
+        }
+      },
+      "sample_incorrect": [
+        {
+          "id": "NOTA_001",
+          "pred": "B",
+          "correct": "D",
+          "question_preview": "A 42-year-old woman with type 1 diabetes using an insulin pump presents with persistent hyperglycemia (fasting glucose 180-220 mg/dL) despite multiple basal rate adjustments. She reports no symptoms of illness, and her carbohydrate counting appears accurate. What is the most appropriate next step in...",
+          "options": "  A: Immediately increase all basal rates by 20% and advise her to skip meals until glucose normalizes, as this indicates sev...\n  B: Discontinue the pump and switch back to multiple daily injections with NPH insulin, as pumps are clearly failing to deli...\n  C: Assume the hyperglycemia is due to infusion set issues and recommend she change her set only once weekly to minimize ski...\n  D: None of the above"
+        },
+        {
+          "id": "NOTA_002",
+          "pred": "B",
+          "correct": "D",
+          "question_preview": "A 52-year-old woman with type 2 diabetes is concerned about hydration during Ramadan fasting. She asks her primary care provider which calorie-free, caffeine-free liquids she can safely consume during non-fasting hours without affecting her blood glucose. Which of the following recommendations would...",
+          "options": "  A: Diet sodas containing artificial sweeteners like aspartame are ideal as they are calorie-free and won't raise blood suga...\n  B: Fruit-infused water with lemon or cucumber slices is recommended because the natural sugars from these fruits are minima...\n  C: Clear sports drinks labeled 'zero sugar' are excellent options since they replace electrolytes lost during fasting and c...\n  D: None of the above"
+        },
+        {
+          "id": "NOTA_003",
+          "pred": "A",
+          "correct": "D",
+          "question_preview": "A 52-year-old man with newly diagnosed type 2 diabetes (HbA1c 8.2%) presents for initial management. He has no cardiovascular disease, normal renal function, and is not on any medications. According to current guidelines, what is the most appropriate initial pharmacologic approach?",
+          "options": "  A: Start metformin immediately and titrate to maximum tolerated dose, then add a sulfonylurea if HbA1c remains above target...\n  B: Begin with insulin therapy to achieve rapid glycemic control and 'rest the pancreas,' then transition to oral agents onc...\n  C: Initiate a GLP-1 receptor agonist as first-line therapy due to superior cardiovascular benefits, regardless of the patie...\n  D: None of the above"
+        },
+        {
+          "id": "NOTA_004",
+          "pred": "A",
+          "correct": "D",
+          "question_preview": "A 45-year-old woman with type 2 diabetes for 8 years, well-controlled on metformin with an HbA1c of 6.8%, presents for routine care. She has no visual symptoms. According to current guidelines, when should she next have diabetic retinopathy screening?",
+          "options": "  A: She should have annual screening because she has had diabetes for more than 5 years, regardless of her current glycemic ...\n  B: Since she has no visual symptoms and her diabetes is well-controlled, she can wait 3 years before her next screening.\n  C: She should be referred immediately to an ophthalmologist for a comprehensive dilated eye exam every 6 months due to her ...\n  D: None of the above"
+        },
+        {
+          "id": "NOTA_005",
+          "pred": "B",
+          "correct": "D",
+          "question_preview": "A 52-year-old woman with type 2 diabetes managed with metformin and glipizide calls the clinic while experiencing vomiting and diarrhea for 12 hours. She asks for guidance on when she should seek immediate medical attention. Based on standard sick-day management protocols, which of the following sit...",
+          "options": "  A: If her blood glucose readings are consistently below 180 mg/dL, as this indicates her medications are working well and s...\n  B: If she is unable to keep down solid food for more than 6 hours, she should stop all diabetes medications until she can e...\n  C: If she develops mild ketones in her urine (trace to small) but feels otherwise stable, she should increase her fluid int...\n  D: None of the above"
+        }
+      ]
+    }
+  ],
+  "dry_run": true
+}

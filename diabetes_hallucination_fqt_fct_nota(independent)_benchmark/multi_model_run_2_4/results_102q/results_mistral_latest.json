@@ -1,0 +1,716 @@
+[
+    {
+        "id": "FCT_001",
+        "task": "FCT",
+        "pred": "A",
+        "label": "A",
+        "correct": true
+    },
+    {
+        "id": "FCT_002",
+        "task": "FCT",
+        "pred": "C",
+        "label": "B",
+        "correct": false
+    },
+    {
+        "id": "FCT_003",
+        "task": "FCT",
+        "pred": "C",
+        "label": "C",
+        "correct": true
+    },
+    {
+        "id": "FCT_004",
+        "task": "FCT",
+        "pred": "A",
+        "label": "A",
+        "correct": true
+    },
+    {
+        "id": "FCT_005",
+        "task": "FCT",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FCT_006",
+        "task": "FCT",
+        "pred": "A",
+        "label": "A",
+        "correct": true
+    },
+    {
+        "id": "FCT_007",
+        "task": "FCT",
+        "pred": "C",
+        "label": "C",
+        "correct": true
+    },
+    {
+        "id": "FCT_008",
+        "task": "FCT",
+        "pred": "B",
+        "label": "B",
+        "correct": true
+    },
+    {
+        "id": "FCT_009",
+        "task": "FCT",
+        "pred": "A",
+        "label": "A",
+        "correct": true
+    },
+    {
+        "id": "FCT_010",
+        "task": "FCT",
+        "pred": "D",
+        "label": "C",
+        "correct": false
+    },
+    {
+        "id": "FCT_011",
+        "task": "FCT",
+        "pred": "B",
+        "label": "B",
+        "correct": true
+    },
+    {
+        "id": "FCT_012",
+        "task": "FCT",
+        "pred": "C",
+        "label": "B",
+        "correct": false
+    },
+    {
+        "id": "FCT_013",
+        "task": "FCT",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "FCT_014",
+        "task": "FCT",
+        "pred": "B",
+        "label": "B",
+        "correct": true
+    },
+    {
+        "id": "FCT_015",
+        "task": "FCT",
+        "pred": "A",
+        "label": "A",
+        "correct": true
+    },
+    {
+        "id": "FCT_016",
+        "task": "FCT",
+        "pred": "A",
+        "label": "A",
+        "correct": true
+    },
+    {
+        "id": "FCT_017",
+        "task": "FCT",
+        "pred": "C",
+        "label": "C",
+        "correct": true
+    },
+    {
+        "id": "FCT_018",
+        "task": "FCT",
+        "pred": "A",
+        "label": "A",
+        "correct": true
+    },
+    {
+        "id": "FCT_019",
+        "task": "FCT",
+        "pred": "B",
+        "label": "B",
+        "correct": true
+    },
+    {
+        "id": "FCT_020",
+        "task": "FCT",
+        "pred": "B",
+        "label": "C",
+        "correct": false
+    },
+    {
+        "id": "FCT_021",
+        "task": "FCT",
+        "pred": "A",
+        "label": "A",
+        "correct": true
+    },
+    {
+        "id": "FCT_022",
+        "task": "FCT",
+        "pred": "A",
+        "label": "B",
+        "correct": false
+    },
+    {
+        "id": "FCT_023",
+        "task": "FCT",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "FCT_024",
+        "task": "FCT",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "FCT_025",
+        "task": "FCT",
+        "pred": "C",
+        "label": "C",
+        "correct": true
+    },
+    {
+        "id": "FCT_026",
+        "task": "FCT",
+        "pred": "B",
+        "label": "B",
+        "correct": true
+    },
+    {
+        "id": "FCT_027",
+        "task": "FCT",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FCT_028",
+        "task": "FCT",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FCT_029",
+        "task": "FCT",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "FCT_030",
+        "task": "FCT",
+        "pred": "B",
+        "label": "B",
+        "correct": true
+    },
+    {
+        "id": "FCT_031",
+        "task": "FCT",
+        "pred": "C",
+        "label": "C",
+        "correct": true
+    },
+    {
+        "id": "FCT_032",
+        "task": "FCT",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FCT_033",
+        "task": "FCT",
+        "pred": "A",
+        "label": "A",
+        "correct": true
+    },
+    {
+        "id": "FCT_034",
+        "task": "FCT",
+        "pred": "A",
+        "label": "B",
+        "correct": false
+    },
+    {
+        "id": "FQT_001",
+        "task": "FQT",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_002",
+        "task": "FQT",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_003",
+        "task": "FQT",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_004",
+        "task": "FQT",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_005",
+        "task": "FQT",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_006",
+        "task": "FQT",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_007",
+        "task": "FQT",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_008",
+        "task": "FQT",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "FQT_009",
+        "task": "FQT",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_010",
+        "task": "FQT",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_011",
+        "task": "FQT",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_012",
+        "task": "FQT",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_013",
+        "task": "FQT",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_014",
+        "task": "FQT",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_015",
+        "task": "FQT",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_016",
+        "task": "FQT",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_017",
+        "task": "FQT",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_018",
+        "task": "FQT",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_019",
+        "task": "FQT",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_020",
+        "task": "FQT",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_021",
+        "task": "FQT",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_022",
+        "task": "FQT",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_023",
+        "task": "FQT",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_024",
+        "task": "FQT",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_025",
+        "task": "FQT",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_026",
+        "task": "FQT",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_027",
+        "task": "FQT",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_028",
+        "task": "FQT",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_029",
+        "task": "FQT",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_030",
+        "task": "FQT",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "FQT_031",
+        "task": "FQT",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_032",
+        "task": "FQT",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_033",
+        "task": "FQT",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_034",
+        "task": "FQT",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_001",
+        "task": "NOTA",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_002",
+        "task": "NOTA",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_003",
+        "task": "NOTA",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_004",
+        "task": "NOTA",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_005",
+        "task": "NOTA",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_006",
+        "task": "NOTA",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_007",
+        "task": "NOTA",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_008",
+        "task": "NOTA",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_009",
+        "task": "NOTA",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_010",
+        "task": "NOTA",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_011",
+        "task": "NOTA",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_012",
+        "task": "NOTA",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_013",
+        "task": "NOTA",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_014",
+        "task": "NOTA",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_015",
+        "task": "NOTA",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_016",
+        "task": "NOTA",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_017",
+        "task": "NOTA",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_018",
+        "task": "NOTA",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_019",
+        "task": "NOTA",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_020",
+        "task": "NOTA",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_021",
+        "task": "NOTA",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_022",
+        "task": "NOTA",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_023",
+        "task": "NOTA",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_024",
+        "task": "NOTA",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_025",
+        "task": "NOTA",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_026",
+        "task": "NOTA",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_027",
+        "task": "NOTA",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_028",
+        "task": "NOTA",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_029",
+        "task": "NOTA",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_030",
+        "task": "NOTA",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_031",
+        "task": "NOTA",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_032",
+        "task": "NOTA",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_033",
+        "task": "NOTA",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_034",
+        "task": "NOTA",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    }
+]

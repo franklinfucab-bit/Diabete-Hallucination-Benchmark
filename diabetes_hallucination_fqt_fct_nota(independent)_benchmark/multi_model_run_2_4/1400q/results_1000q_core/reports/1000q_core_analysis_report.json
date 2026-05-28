@@ -1,0 +1,378 @@
+{
+  "summary": {
+    "total_questions": 510,
+    "nota": 255,
+    "aota": 255,
+    "fct": 255,
+    "fqt": 255
+  },
+  "overall_accuracy": {
+    "qwen2.5_7b": {
+      "correct": 431,
+      "total": 510
+    },
+    "llama3.1_8b": {
+      "correct": 259,
+      "total": 510
+    },
+    "gemma_7b": {
+      "correct": 204,
+      "total": 510
+    },
+    "deepseek-r1_7b": {
+      "correct": 265,
+      "total": 506
+    },
+    "mistral_latest": {
+      "correct": 310,
+      "total": 510
+    }
+  },
+  "accuracy_by_task": {
+    "NOTA": {
+      "qwen2.5_7b": {
+        "correct": 209,
+        "total": 255
+      },
+      "llama3.1_8b": {
+        "correct": 60,
+        "total": 255
+      },
+      "gemma_7b": {
+        "correct": 72,
+        "total": 255
+      },
+      "deepseek-r1_7b": {
+        "correct": 87,
+        "total": 254
+      },
+      "mistral_latest": {
+        "correct": 79,
+        "total": 255
+      }
+    },
+    "AOTA": {
+      "qwen2.5_7b": {
+        "correct": 222,
+        "total": 255
+      },
+      "llama3.1_8b": {
+        "correct": 199,
+        "total": 255
+      },
+      "gemma_7b": {
+        "correct": 132,
+        "total": 255
+      },
+      "deepseek-r1_7b": {
+        "correct": 178,
+        "total": 252
+      },
+      "mistral_latest": {
+        "correct": 231,
+        "total": 255
+      }
+    }
+  },
+  "task_type_gap": {
+    "qwen2.5_7b": 5.1,
+    "llama3.1_8b": 54.5,
+    "gemma_7b": 23.5,
+    "deepseek-r1_7b": 36.4,
+    "mistral_latest": 59.6
+  },
+  "topic_errors": {
+    "acute_hospital": {
+      "total": 146,
+      "errors": 354
+    },
+    "guideline-based management": {
+      "total": 50,
+      "errors": 108
+    },
+    "hypoglycemia": {
+      "total": 40,
+      "errors": 76
+    },
+    "pharmacotherapy": {
+      "total": 34,
+      "errors": 69
+    },
+    "neuropathy_footcare": {
+      "total": 36,
+      "errors": 67
+    },
+    "medication safety": {
+      "total": 18,
+      "errors": 42
+    },
+    "retinopathy_kidney": {
+      "total": 16,
+      "errors": 36
+    },
+    "insulin pump": {
+      "total": 10,
+      "errors": 28
+    },
+    "cardiovascular prevention": {
+      "total": 12,
+      "errors": 21
+    },
+    "gestational diabetes": {
+      "total": 6,
+      "errors": 15
+    },
+    "GLP-1 agonist": {
+      "total": 4,
+      "errors": 14
+    },
+    "type 1 diabetes": {
+      "total": 8,
+      "errors": 12
+    },
+    "SMBG": {
+      "total": 8,
+      "errors": 11
+    },
+    "lipid guidelines": {
+      "total": 4,
+      "errors": 9
+    },
+    "sulfonylureas": {
+      "total": 6,
+      "errors": 9
+    },
+    "insulin storage": {
+      "total": 4,
+      "errors": 9
+    },
+    "sick-day management": {
+      "total": 4,
+      "errors": 8
+    },
+    "metformin": {
+      "total": 4,
+      "errors": 8
+    },
+    "renal protection": {
+      "total": 4,
+      "errors": 8
+    },
+    "guideline interpretation": {
+      "total": 4,
+      "errors": 7
+    },
+    "chronic_kidney_disease": {
+      "total": 4,
+      "errors": 7
+    },
+    "GLP-1 receptor agonists": {
+      "total": 4,
+      "errors": 7
+    },
+    "basal rate adjustment": {
+      "total": 2,
+      "errors": 7
+    },
+    "basal-bolus insulin": {
+      "total": 2,
+      "errors": 7
+    },
+    "shared decision-making": {
+      "total": 4,
+      "errors": 6
+    }
+  },
+  "wrong_answer_nota": {
+    "qwen2.5_7b": {
+      "A": 20,
+      "B": 13,
+      "C": 13
+    },
+    "llama3.1_8b": {
+      "A": 76,
+      "B": 81,
+      "C": 38
+    },
+    "gemma_7b": {
+      "A": 43,
+      "B": 77,
+      "C": 63
+    },
+    "deepseek-r1_7b": {
+      "A": 53,
+      "B": 70,
+      "C": 44
+    },
+    "mistral_latest": {
+      "A": 70,
+      "B": 55,
+      "C": 51
+    }
+  },
+  "wrong_answer_aota": {
+    "qwen2.5_7b": {
+      "A": 1,
+      "B": 4,
+      "C": 4,
+      "D": 24
+    },
+    "llama3.1_8b": {
+      "A": 24,
+      "B": 20,
+      "C": 9,
+      "D": 2
+    },
+    "gemma_7b": {
+      "A": 0,
+      "B": 6,
+      "C": 1,
+      "D": 116
+    },
+    "deepseek-r1_7b": {
+      "A": 15,
+      "B": 23,
+      "C": 17,
+      "D": 18
+    },
+    "mistral_latest": {
+      "A": 10,
+      "B": 10,
+      "C": 3,
+      "D": 1
+    }
+  },
+  "n_a_count": {
+    "qwen2.5_7b": 0,
+    "llama3.1_8b": 1,
+    "gemma_7b": 0,
+    "deepseek-r1_7b": 1,
+    "mistral_latest": 0
+  },
+  "universal_failures_count": 8,
+  "universal_failure_ids": [
+    "NOTA_145",
+    "NOTA_299",
+    "NOTA_406",
+    "NOTA_420",
+    "NOTA_515",
+    "NOTA_564",
+    "NOTA_584",
+    "NOTA_722"
+  ],
+  "comparison_1400q_vs_1000q": {
+    "qwen2.5_7b": {
+      "1400q": 71.1,
+      "1000q": 84.5,
+      "delta": 13.4
+    },
+    "llama3.1_8b": {
+      "1400q": 45.1,
+      "1000q": 50.8,
+      "delta": 5.6
+    },
+    "gemma_7b": {
+      "1400q": 34.0,
+      "1000q": 40.0,
+      "delta": 6.0
+    },
+    "deepseek-r1_7b": {
+      "1400q": 46.3,
+      "1000q": 52.4,
+      "delta": 6.0
+    },
+    "mistral_latest": {
+      "1400q": 53.9,
+      "1000q": 60.8,
+      "delta": 6.9
+    }
+  },
+  "fct_fqt": {
+    "fct_accuracy": {
+      "qwen2.5_7b": {
+        "correct": 241,
+        "total": 255
+      },
+      "llama3.1_8b": {
+        "correct": 225,
+        "total": 255
+      },
+      "gemma_7b": {
+        "correct": 177,
+        "total": 255
+      },
+      "deepseek-r1_7b": {
+        "correct": 184,
+        "total": 255
+      },
+      "mistral_latest": {
+        "correct": 208,
+        "total": 255
+      }
+    },
+    "fqt_accuracy": {
+      "qwen2.5_7b": {
+        "correct": 239,
+        "total": 255
+      },
+      "llama3.1_8b": {
+        "correct": 243,
+        "total": 255
+      },
+      "gemma_7b": {
+        "correct": 7,
+        "total": 255
+      },
+      "deepseek-r1_7b": {
+        "correct": 57,
+        "total": 254
+      },
+      "mistral_latest": {
+        "correct": 71,
+        "total": 255
+      }
+    },
+    "combined_fct_fqt_accuracy": {
+      "qwen2.5_7b": {
+        "correct": 480,
+        "total": 510
+      },
+      "llama3.1_8b": {
+        "correct": 468,
+        "total": 510
+      },
+      "gemma_7b": {
+        "correct": 184,
+        "total": 510
+      },
+      "deepseek-r1_7b": {
+        "correct": 241,
+        "total": 509
+      },
+      "mistral_latest": {
+        "correct": 279,
+        "total": 510
+      }
+    },
+    "fct_fqt_gap": {
+      "qwen2.5_7b": 0.8,
+      "llama3.1_8b": -7.1,
+      "gemma_7b": 66.7,
+      "deepseek-r1_7b": 49.7,
+      "mistral_latest": 53.7
+    },
+    "fct_universal_failures_count": 2,
+    "fct_universal_failure_ids": [
+      "FCT_1033",
+      "FCT_1141"
+    ],
+    "fqt_universal_failures_count": 5,
+    "fqt_universal_failure_ids": [
+      "FQT_147",
+      "FQT_168",
+      "FQT_214",
+      "FQT_297",
+      "FQT_825"
+    ]
+  }
+}

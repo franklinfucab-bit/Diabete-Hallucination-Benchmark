@@ -1,0 +1,89 @@
+{
+  "total_requested": 50,
+  "total_generated": 38,
+  "methods": {
+    "existing_mc": {
+      "requested": 25,
+      "generated": 25,
+      "failed": 0,
+      "avg_time": 34.07486620903015,
+      "avg_difficulty": 0.6300000000000001,
+      "bias_distribution": {
+        "authority": 5,
+        "specificity": 6,
+        "representativeness": 17,
+        "anecdotal": 1,
+        "false_dichotomy": 1,
+        "absolutist_framing": 1,
+        "availability": 18,
+        "anchoring": 12,
+        "all-or-nothing thinking": 5,
+        "overconfidence": 3,
+        "all-or-nothing": 3,
+        "oversimplification": 2,
+        "extremeness aversion": 1,
+        "confirmation bias": 1,
+        "confirmation": 4,
+        "causation": 1,
+        "false dichotomy": 1
+      },
+      "times": [
+        29.07299494743347,
+        30.79005718231201,
+        37.78606939315796,
+        32.55560612678528,
+        36.789891719818115,
+        27.696174383163452,
+        39.00813269615173,
+        33.071104526519775,
+        38.32292675971985,
+        35.96350288391113,
+        29.527388095855713,
+        33.89134383201599,
+        39.97990274429321,
+        32.39973163604736,
+        36.14945936203003,
+        32.69542217254639,
+        39.26779007911682,
+        26.910319328308105,
+        32.905479431152344,
+        30.02159357070923,
+        37.215832233428955,
+        37.48047471046448,
+        37.53262281417847,
+        30.332125186920166,
+        34.505709409713745
+      ]
+    },
+    "scratch": {
+      "requested": 25,
+      "generated": 13,
+      "failed": 12,
+      "avg_time": 41.3700412603525,
+      "avg_difficulty": 0.6346153846153846,
+      "bias_distribution": {
+        "authority": 2,
+        "availability": 11,
+        "representativeness": 9,
+        "specificity": 4,
+        "anchoring": 9,
+        "all-or-nothing": 1
+      },
+      "times": [
+        36.77361845970154,
+        81.81771421432495,
+        40.15337586402893,
+        28.839593172073364,
+        30.383402109146118,
+        53.51001024246216,
+        36.02877616882324,
+        55.184086322784424,
+        36.94052505493164,
+        35.44957756996155,
+        30.403412342071533,
+        32.2353093624115,
+        40.09113550186157
+      ]
+    }
+  }
+}

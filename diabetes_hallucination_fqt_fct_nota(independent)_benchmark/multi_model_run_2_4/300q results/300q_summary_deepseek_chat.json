@@ -1,0 +1,198 @@
+{
+  "overall": {
+    "accuracy": "95.7%",
+    "correct": 287,
+    "total": 300,
+    "wrong": 13
+  },
+  "by_type": {
+    "NOTA": {
+      "accuracy": "95.0%",
+      "correct": 95,
+      "total": 100
+    },
+    "FQT": {
+      "accuracy": "99.0%",
+      "correct": 99,
+      "total": 100
+    },
+    "FCT": {
+      "accuracy": "93.0%",
+      "correct": 93,
+      "total": 100
+    }
+  },
+  "wrong_answers": {
+    "ids": [
+      "NOTA_003",
+      "NOTA_021",
+      "NOTA_025",
+      "NOTA_028",
+      "NOTA_070",
+      "FQT_082",
+      "FCT_038",
+      "FCT_061",
+      "FCT_064",
+      "FCT_066",
+      "FCT_071",
+      "FCT_074",
+      "FCT_088"
+    ],
+    "by_topic": {
+      "monogenic diabetes": [
+        "NOTA_003"
+      ],
+      "type 1 diabetes": [
+        "NOTA_021"
+      ],
+      "Wagner classification": [
+        "NOTA_025"
+      ],
+      "type 2 diabetes": [
+        "NOTA_028"
+      ],
+      "guidelines": [
+        "NOTA_070"
+      ],
+      "Other": [
+        "FQT_082"
+      ],
+      "basal rate adjustment": [
+        "FCT_038"
+      ],
+      "insulin storage": [
+        "FCT_061"
+      ],
+      "hypoglycemia": [
+        "FCT_064"
+      ],
+      "lifestyle intervention": [
+        "FCT_066"
+      ],
+      "cardiovascular risk": [
+        "FCT_071"
+      ],
+      "neuropathy_footcare": [
+        "FCT_074"
+      ],
+      "insulin pump": [
+        "FCT_088"
+      ]
+    }
+  },
+  "analysis": {
+    "pred_vs_label": {
+      "B->D": 4,
+      "A->D": 1,
+      "C->D": 2,
+      "B->C": 1,
+      "N/A->B": 1,
+      "N/A->D": 1,
+      "N/A->A": 2,
+      "D->A": 1
+    },
+    "wrong_by_difficulty": {
+      "0.8": 2,
+      "0.75": 4,
+      "0": 1,
+      "0.7": 2,
+      "0.55": 2,
+      "0.4": 1,
+      "0.6": 1
+    },
+    "hardest_topics": [
+      {
+        "topic": "monogenic diabetes",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_003"
+        ]
+      },
+      {
+        "topic": "type 1 diabetes",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_021"
+        ]
+      },
+      {
+        "topic": "Wagner classification",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_025"
+        ]
+      },
+      {
+        "topic": "type 2 diabetes",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_028"
+        ]
+      },
+      {
+        "topic": "guidelines",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_070"
+        ]
+      },
+      {
+        "topic": "Other",
+        "wrong_count": 1,
+        "ids": [
+          "FQT_082"
+        ]
+      },
+      {
+        "topic": "basal rate adjustment",
+        "wrong_count": 1,
+        "ids": [
+          "FCT_038"
+        ]
+      },
+      {
+        "topic": "insulin storage",
+        "wrong_count": 1,
+        "ids": [
+          "FCT_061"
+        ]
+      },
+      {
+        "topic": "hypoglycemia",
+        "wrong_count": 1,
+        "ids": [
+          "FCT_064"
+        ]
+      },
+      {
+        "topic": "lifestyle intervention",
+        "wrong_count": 1,
+        "ids": [
+          "FCT_066"
+        ]
+      },
+      {
+        "topic": "cardiovascular risk",
+        "wrong_count": 1,
+        "ids": [
+          "FCT_071"
+        ]
+      },
+      {
+        "topic": "neuropathy_footcare",
+        "wrong_count": 1,
+        "ids": [
+          "FCT_074"
+        ]
+      },
+      {
+        "topic": "insulin pump",
+        "wrong_count": 1,
+        "ids": [
+          "FCT_088"
+        ]
+      }
+    ]
+  },
+  "model": "deepseek_chat"
+}

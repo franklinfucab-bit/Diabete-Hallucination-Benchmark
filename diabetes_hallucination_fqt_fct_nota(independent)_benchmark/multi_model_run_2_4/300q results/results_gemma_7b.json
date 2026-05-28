@@ -1,0 +1,1802 @@
+[
+    {
+        "id": "NOTA_001",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_002",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_003",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_004",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_005",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_006",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_007",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_008",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_009",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_010",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_011",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_012",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_013",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_014",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_015",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_016",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_017",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_018",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_019",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_020",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_021",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_022",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_023",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_024",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_025",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_026",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_027",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_028",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_029",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_030",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_031",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_032",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_033",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_034",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_035",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_036",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_037",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_038",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_039",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_040",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_041",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_042",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_043",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_044",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_045",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_046",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_047",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_048",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_049",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_050",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_051",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_052",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_053",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_054",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_055",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_056",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_057",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_058",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_059",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_060",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_061",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_062",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_063",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_064",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_065",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_066",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_067",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_068",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_069",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_070",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_071",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_072",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_073",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_074",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_075",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_076",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_077",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_078",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_079",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_080",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_081",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_082",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_083",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_084",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_085",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_086",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_087",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_088",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_089",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_090",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_091",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_092",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_093",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_094",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_095",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_096",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_097",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_098",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "NOTA_099",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "NOTA_100",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_001",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_002",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_003",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_004",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_005",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_006",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_007",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_008",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_009",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_010",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_011",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_012",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_013",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_014",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_015",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_016",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_017",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_018",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_019",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_020",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_021",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_022",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "FQT_023",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_024",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_025",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_026",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_027",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "FQT_028",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_029",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_030",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_031",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_032",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_033",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_034",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_035",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "FQT_036",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_037",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "FQT_038",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_039",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_040",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_041",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_042",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_043",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_044",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_045",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_046",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_047",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_048",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_049",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_050",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "FQT_051",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_052",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_053",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_054",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_055",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_056",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_057",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_058",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_059",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_060",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_061",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_062",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_063",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_064",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_065",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_066",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_067",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "FQT_068",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_069",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_070",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_071",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "FQT_072",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_073",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_074",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_075",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_076",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_077",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_078",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_079",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_080",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_081",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_082",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_083",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_084",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_085",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_086",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_087",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_088",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_089",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_090",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_091",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_092",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "FQT_093",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_094",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "FQT_095",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_096",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_097",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_098",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_099",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FQT_100",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FCT_001",
+        "pred": "B",
+        "label": "B",
+        "correct": true
+    },
+    {
+        "id": "FCT_002",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FCT_003",
+        "pred": "B",
+        "label": "B",
+        "correct": true
+    },
+    {
+        "id": "FCT_004",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "FCT_005",
+        "pred": "A",
+        "label": "A",
+        "correct": true
+    },
+    {
+        "id": "FCT_006",
+        "pred": "A",
+        "label": "A",
+        "correct": true
+    },
+    {
+        "id": "FCT_007",
+        "pred": "C",
+        "label": "C",
+        "correct": true
+    },
+    {
+        "id": "FCT_008",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FCT_009",
+        "pred": "C",
+        "label": "C",
+        "correct": true
+    },
+    {
+        "id": "FCT_010",
+        "pred": "C",
+        "label": "C",
+        "correct": true
+    },
+    {
+        "id": "FCT_011",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "FCT_012",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "FCT_013",
+        "pred": "A",
+        "label": "C",
+        "correct": false
+    },
+    {
+        "id": "FCT_014",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FCT_015",
+        "pred": "B",
+        "label": "B",
+        "correct": true
+    },
+    {
+        "id": "FCT_016",
+        "pred": "B",
+        "label": "B",
+        "correct": true
+    },
+    {
+        "id": "FCT_017",
+        "pred": "A",
+        "label": "A",
+        "correct": true
+    },
+    {
+        "id": "FCT_018",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "FCT_019",
+        "pred": "C",
+        "label": "B",
+        "correct": false
+    },
+    {
+        "id": "FCT_020",
+        "pred": "C",
+        "label": "C",
+        "correct": true
+    },
+    {
+        "id": "FCT_021",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "FCT_022",
+        "pred": "A",
+        "label": "A",
+        "correct": true
+    },
+    {
+        "id": "FCT_023",
+        "pred": "A",
+        "label": "B",
+        "correct": false
+    },
+    {
+        "id": "FCT_024",
+        "pred": "A",
+        "label": "A",
+        "correct": true
+    },
+    {
+        "id": "FCT_025",
+        "pred": "B",
+        "label": "B",
+        "correct": true
+    },
+    {
+        "id": "FCT_026",
+        "pred": "C",
+        "label": "C",
+        "correct": true
+    },
+    {
+        "id": "FCT_027",
+        "pred": "B",
+        "label": "B",
+        "correct": true
+    },
+    {
+        "id": "FCT_028",
+        "pred": "A",
+        "label": "A",
+        "correct": true
+    },
+    {
+        "id": "FCT_029",
+        "pred": "B",
+        "label": "B",
+        "correct": true
+    },
+    {
+        "id": "FCT_030",
+        "pred": "D",
+        "label": "C",
+        "correct": false
+    },
+    {
+        "id": "FCT_031",
+        "pred": "B",
+        "label": "B",
+        "correct": true
+    },
+    {
+        "id": "FCT_032",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "FCT_033",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FCT_034",
+        "pred": "A",
+        "label": "A",
+        "correct": true
+    },
+    {
+        "id": "FCT_035",
+        "pred": "B",
+        "label": "B",
+        "correct": true
+    },
+    {
+        "id": "FCT_036",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "FCT_037",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FCT_038",
+        "pred": "D",
+        "label": "C",
+        "correct": false
+    },
+    {
+        "id": "FCT_039",
+        "pred": "B",
+        "label": "C",
+        "correct": false
+    },
+    {
+        "id": "FCT_040",
+        "pred": "C",
+        "label": "C",
+        "correct": true
+    },
+    {
+        "id": "FCT_041",
+        "pred": "A",
+        "label": "A",
+        "correct": true
+    },
+    {
+        "id": "FCT_042",
+        "pred": "B",
+        "label": "B",
+        "correct": true
+    },
+    {
+        "id": "FCT_043",
+        "pred": "A",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FCT_044",
+        "pred": "B",
+        "label": "B",
+        "correct": true
+    },
+    {
+        "id": "FCT_045",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "FCT_046",
+        "pred": "B",
+        "label": "B",
+        "correct": true
+    },
+    {
+        "id": "FCT_047",
+        "pred": "B",
+        "label": "B",
+        "correct": true
+    },
+    {
+        "id": "FCT_048",
+        "pred": "B",
+        "label": "C",
+        "correct": false
+    },
+    {
+        "id": "FCT_049",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "FCT_050",
+        "pred": "C",
+        "label": "A",
+        "correct": false
+    },
+    {
+        "id": "FCT_051",
+        "pred": "B",
+        "label": "B",
+        "correct": true
+    },
+    {
+        "id": "FCT_052",
+        "pred": "A",
+        "label": "A",
+        "correct": true
+    },
+    {
+        "id": "FCT_053",
+        "pred": "C",
+        "label": "C",
+        "correct": true
+    },
+    {
+        "id": "FCT_054",
+        "pred": "D",
+        "label": "C",
+        "correct": false
+    },
+    {
+        "id": "FCT_055",
+        "pred": "C",
+        "label": "C",
+        "correct": true
+    },
+    {
+        "id": "FCT_056",
+        "pred": "A",
+        "label": "A",
+        "correct": true
+    },
+    {
+        "id": "FCT_057",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "FCT_058",
+        "pred": "B",
+        "label": "B",
+        "correct": true
+    },
+    {
+        "id": "FCT_059",
+        "pred": "A",
+        "label": "A",
+        "correct": true
+    },
+    {
+        "id": "FCT_060",
+        "pred": "A",
+        "label": "A",
+        "correct": true
+    },
+    {
+        "id": "FCT_061",
+        "pred": "B",
+        "label": "B",
+        "correct": true
+    },
+    {
+        "id": "FCT_062",
+        "pred": "C",
+        "label": "C",
+        "correct": true
+    },
+    {
+        "id": "FCT_063",
+        "pred": "C",
+        "label": "C",
+        "correct": true
+    },
+    {
+        "id": "FCT_064",
+        "pred": "C",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FCT_065",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "FCT_066",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "FCT_067",
+        "pred": "A",
+        "label": "A",
+        "correct": true
+    },
+    {
+        "id": "FCT_068",
+        "pred": "A",
+        "label": "A",
+        "correct": true
+    },
+    {
+        "id": "FCT_069",
+        "pred": "C",
+        "label": "C",
+        "correct": true
+    },
+    {
+        "id": "FCT_070",
+        "pred": "A",
+        "label": "A",
+        "correct": true
+    },
+    {
+        "id": "FCT_071",
+        "pred": "A",
+        "label": "A",
+        "correct": true
+    },
+    {
+        "id": "FCT_072",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "FCT_073",
+        "pred": "B",
+        "label": "B",
+        "correct": true
+    },
+    {
+        "id": "FCT_074",
+        "pred": "C",
+        "label": "A",
+        "correct": false
+    },
+    {
+        "id": "FCT_075",
+        "pred": "A",
+        "label": "A",
+        "correct": true
+    },
+    {
+        "id": "FCT_076",
+        "pred": "B",
+        "label": "B",
+        "correct": true
+    },
+    {
+        "id": "FCT_077",
+        "pred": "B",
+        "label": "B",
+        "correct": true
+    },
+    {
+        "id": "FCT_078",
+        "pred": "B",
+        "label": "B",
+        "correct": true
+    },
+    {
+        "id": "FCT_079",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "FCT_080",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "FCT_081",
+        "pred": "B",
+        "label": "B",
+        "correct": true
+    },
+    {
+        "id": "FCT_082",
+        "pred": "A",
+        "label": "A",
+        "correct": true
+    },
+    {
+        "id": "FCT_083",
+        "pred": "A",
+        "label": "A",
+        "correct": true
+    },
+    {
+        "id": "FCT_084",
+        "pred": "C",
+        "label": "C",
+        "correct": true
+    },
+    {
+        "id": "FCT_085",
+        "pred": "B",
+        "label": "D",
+        "correct": false
+    },
+    {
+        "id": "FCT_086",
+        "pred": "B",
+        "label": "B",
+        "correct": true
+    },
+    {
+        "id": "FCT_087",
+        "pred": "B",
+        "label": "B",
+        "correct": true
+    },
+    {
+        "id": "FCT_088",
+        "pred": "A",
+        "label": "A",
+        "correct": true
+    },
+    {
+        "id": "FCT_089",
+        "pred": "C",
+        "label": "B",
+        "correct": false
+    },
+    {
+        "id": "FCT_090",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "FCT_091",
+        "pred": "B",
+        "label": "B",
+        "correct": true
+    },
+    {
+        "id": "FCT_092",
+        "pred": "C",
+        "label": "C",
+        "correct": true
+    },
+    {
+        "id": "FCT_093",
+        "pred": "D",
+        "label": "B",
+        "correct": false
+    },
+    {
+        "id": "FCT_094",
+        "pred": "C",
+        "label": "C",
+        "correct": true
+    },
+    {
+        "id": "FCT_095",
+        "pred": "A",
+        "label": "A",
+        "correct": true
+    },
+    {
+        "id": "FCT_096",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "FCT_097",
+        "pred": "C",
+        "label": "C",
+        "correct": true
+    },
+    {
+        "id": "FCT_098",
+        "pred": "B",
+        "label": "B",
+        "correct": true
+    },
+    {
+        "id": "FCT_099",
+        "pred": "D",
+        "label": "D",
+        "correct": true
+    },
+    {
+        "id": "FCT_100",
+        "pred": "B",
+        "label": "B",
+        "correct": true
+    }
+]

@@ -1,0 +1,18 @@
+nohup: ignoring input
+
+--- ?? Starting Model: qwen2.5:7b ---
+? qwen2.5:7b Finished. Accuracy: 75.49%
+
+--- ?? Starting Model: llama3.2:3b ---
+? llama3.2:3b Finished. Accuracy: 58.82%
+
+--- ?? Starting Model: gemma2:2b ---
+? gemma2:2b Finished. Accuracy: 72.55%
+
+--- ?? Starting Model: phi3:latest ---
+? phi3:latest Finished. Accuracy: 61.76%
+
+--- ?? Starting Model: mistral:latest ---
+? mistral:latest Finished. Accuracy: 32.35%
+
+?? ALL MODELS COMPLETE. Summary saved to multi_model_summary.json

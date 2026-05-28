@@ -1,0 +1,60 @@
+{
+  "total_requested": 8,
+  "total_generated": 8,
+  "methods": {
+    "topic": {
+      "requested": 3,
+      "generated": 3,
+      "failed": 0,
+      "avg_time": 12.235299746195475,
+      "avg_difficulty": 0.6833333333333332,
+      "bias_distribution": {
+        "availability": 3,
+        "anchoring": 3,
+        "representativeness": 3,
+        "specificity": 1
+      },
+      "times": [
+        8.621108293533325,
+        15.426820993423462,
+        12.657969951629639
+      ]
+    },
+    "seed_qa": {
+      "requested": 3,
+      "generated": 3,
+      "failed": 0,
+      "avg_time": 12.076415141423544,
+      "avg_difficulty": 0.7166666666666667,
+      "bias_distribution": {
+        "specificity": 3,
+        "all-or-nothing": 1,
+        "anchoring": 2,
+        "confirmation": 2,
+        "authority": 2,
+        "availability": 2
+      },
+      "times": [
+        14.032962083816528,
+        10.575171709060669,
+        11.621111631393433
+      ]
+    },
+    "scratch": {
+      "requested": 2,
+      "generated": 2,
+      "failed": 0,
+      "avg_time": 8.702782273292542,
+      "avg_difficulty": 0.7,
+      "bias_distribution": {
+        "availability": 2,
+        "anchoring": 2,
+        "representativeness": 2
+      },
+      "times": [
+        9.012096881866455,
+        8.393467664718628
+      ]
+    }
+  }
+}

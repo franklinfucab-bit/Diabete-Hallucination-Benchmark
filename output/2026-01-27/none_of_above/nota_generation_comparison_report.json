@@ -1,0 +1,78 @@
+{
+  "total_requested": 8,
+  "total_generated": 8,
+  "methods": {
+    "topic": {
+      "requested": 2,
+      "generated": 2,
+      "failed": 0,
+      "avg_time": 29.146448969841003,
+      "avg_difficulty": 0.625,
+      "bias_distribution": {
+        "authority": 2,
+        "specificity": 2,
+        "anchoring": 1,
+        "availability": 1,
+        "overconfidence": 1
+      },
+      "times": [
+        31.498594045639038,
+        26.79430389404297
+      ]
+    },
+    "seed_qa": {
+      "requested": 2,
+      "generated": 2,
+      "failed": 0,
+      "avg_time": 30.897857904434204,
+      "avg_difficulty": 0.65,
+      "bias_distribution": {
+        "all-or-nothing thinking": 1,
+        "specificity": 2,
+        "availability": 2,
+        "confirmation bias": 1,
+        "confirmation": 1
+      },
+      "times": [
+        34.41187644004822,
+        27.38383936882019
+      ]
+    },
+    "existing_mc": {
+      "requested": 2,
+      "generated": 2,
+      "failed": 0,
+      "avg_time": 29.721565008163452,
+      "avg_difficulty": 0.625,
+      "bias_distribution": {
+        "authority": 2,
+        "specificity": 1,
+        "confirmation": 2,
+        "anchoring": 1,
+        "availability": 1
+      },
+      "times": [
+        23.174981832504272,
+        36.26814818382263
+      ]
+    },
+    "scratch": {
+      "requested": 2,
+      "generated": 2,
+      "failed": 0,
+      "avg_time": 32.65989816188812,
+      "avg_difficulty": 0.675,
+      "bias_distribution": {
+        "authority": 1,
+        "specificity": 1,
+        "availability": 2,
+        "anchoring": 2,
+        "representativeness": 1
+      },
+      "times": [
+        28.1713650226593,
+        37.14843130111694
+      ]
+    }
+  }
+}

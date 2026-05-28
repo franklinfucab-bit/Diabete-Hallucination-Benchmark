@@ -1,0 +1,410 @@
+{
+  "summary": {
+    "total_questions": 700,
+    "nota": 350,
+    "aota": 350
+  },
+  "overall_accuracy": {
+    "qwen2.5_7b": {
+      "correct": 498,
+      "total": 700
+    },
+    "llama3.1_8b": {
+      "correct": 316,
+      "total": 700
+    },
+    "gemma_7b": {
+      "correct": 238,
+      "total": 700
+    },
+    "deepseek-r1_7b": {
+      "correct": 322,
+      "total": 695
+    },
+    "mistral_latest": {
+      "correct": 377,
+      "total": 700
+    }
+  },
+  "accuracy_by_task": {
+    "NOTA": {
+      "qwen2.5_7b": {
+        "correct": 211,
+        "total": 350
+      },
+      "llama3.1_8b": {
+        "correct": 60,
+        "total": 350
+      },
+      "gemma_7b": {
+        "correct": 72,
+        "total": 350
+      },
+      "deepseek-r1_7b": {
+        "correct": 91,
+        "total": 349
+      },
+      "mistral_latest": {
+        "correct": 79,
+        "total": 350
+      }
+    },
+    "AOTA": {
+      "qwen2.5_7b": {
+        "correct": 287,
+        "total": 350
+      },
+      "llama3.1_8b": {
+        "correct": 256,
+        "total": 350
+      },
+      "gemma_7b": {
+        "correct": 166,
+        "total": 350
+      },
+      "deepseek-r1_7b": {
+        "correct": 231,
+        "total": 346
+      },
+      "mistral_latest": {
+        "correct": 298,
+        "total": 350
+      }
+    }
+  },
+  "topic_errors": {
+    "acute_hospital": {
+      "total": 202,
+      "errors": 576
+    },
+    "hypoglycemia": {
+      "total": 62,
+      "errors": 155
+    },
+    "guideline-based management": {
+      "total": 62,
+      "errors": 144
+    },
+    "pharmacotherapy": {
+      "total": 44,
+      "errors": 104
+    },
+    "retinopathy_kidney": {
+      "total": 32,
+      "errors": 100
+    },
+    "neuropathy_footcare": {
+      "total": 42,
+      "errors": 88
+    },
+    "insulin pump": {
+      "total": 20,
+      "errors": 61
+    },
+    "medication safety": {
+      "total": 18,
+      "errors": 42
+    },
+    "cardiovascular prevention": {
+      "total": 12,
+      "errors": 21
+    },
+    "renal protection": {
+      "total": 8,
+      "errors": 21
+    },
+    "SGLT2 inhibitors": {
+      "total": 8,
+      "errors": 16
+    },
+    "type 2 diabetes management": {
+      "total": 6,
+      "errors": 16
+    },
+    "nephrology": {
+      "total": 6,
+      "errors": 16
+    },
+    "gestational diabetes": {
+      "total": 6,
+      "errors": 15
+    },
+    "cardiorenal syndrome": {
+      "total": 6,
+      "errors": 15
+    },
+    "basal rate adjustment": {
+      "total": 4,
+      "errors": 14
+    },
+    "GLP-1 agonist": {
+      "total": 4,
+      "errors": 14
+    },
+    "GLP-1 receptor agonists": {
+      "total": 6,
+      "errors": 13
+    },
+    "type 1 diabetes": {
+      "total": 8,
+      "errors": 12
+    },
+    "cardiovascular risk management": {
+      "total": 4,
+      "errors": 12
+    },
+    "chronic_kidney_disease": {
+      "total": 6,
+      "errors": 12
+    },
+    "SMBG": {
+      "total": 8,
+      "errors": 11
+    },
+    "acute decompensated heart failure": {
+      "total": 4,
+      "errors": 11
+    },
+    "cardiometabolic": {
+      "total": 4,
+      "errors": 10
+    },
+    "type 2 diabetes": {
+      "total": 4,
+      "errors": 10
+    },
+    "lipid guidelines": {
+      "total": 4,
+      "errors": 9
+    },
+    "sulfonylureas": {
+      "total": 6,
+      "errors": 9
+    },
+    "insulin storage": {
+      "total": 4,
+      "errors": 9
+    },
+    "exercise management": {
+      "total": 4,
+      "errors": 9
+    },
+    "continuous glucose monitoring": {
+      "total": 4,
+      "errors": 9
+    },
+    "sick-day management": {
+      "total": 4,
+      "errors": 8
+    },
+    "metformin": {
+      "total": 4,
+      "errors": 8
+    },
+    "hypotension": {
+      "total": 2,
+      "errors": 8
+    },
+    "cardiorenal protection": {
+      "total": 4,
+      "errors": 8
+    },
+    "insulin pump management": {
+      "total": 2,
+      "errors": 8
+    },
+    "guideline interpretation": {
+      "total": 4,
+      "errors": 7
+    },
+    "bolus adjustment": {
+      "total": 2,
+      "errors": 7
+    },
+    "preventive care": {
+      "total": 2,
+      "errors": 7
+    },
+    "basal-bolus insulin": {
+      "total": 2,
+      "errors": 7
+    },
+    "shared decision-making": {
+      "total": 4,
+      "errors": 6
+    },
+    "antepartum_care": {
+      "total": 2,
+      "errors": 6
+    },
+    "MRA": {
+      "total": 2,
+      "errors": 6
+    },
+    "hyperglycemia": {
+      "total": 2,
+      "errors": 6
+    },
+    "insulin management": {
+      "total": 2,
+      "errors": 6
+    },
+    "CKD": {
+      "total": 2,
+      "errors": 6
+    },
+    "antepartum care": {
+      "total": 2,
+      "errors": 5
+    },
+    "comorbidity management": {
+      "total": 2,
+      "errors": 5
+    },
+    "transition of care": {
+      "total": 2,
+      "errors": 5
+    },
+    "time_zones": {
+      "total": 2,
+      "errors": 5
+    },
+    "ADA guidelines": {
+      "total": 2,
+      "errors": 5
+    },
+    "time-in-range": {
+      "total": 2,
+      "errors": 5
+    },
+    "guideline_application": {
+      "total": 2,
+      "errors": 5
+    },
+    "adherence": {
+      "total": 2,
+      "errors": 5
+    },
+    "lipid_management": {
+      "total": 2,
+      "errors": 4
+    },
+    "preventive medicine": {
+      "total": 2,
+      "errors": 4
+    },
+    "cardiorenal": {
+      "total": 2,
+      "errors": 4
+    },
+    "drug_interactions": {
+      "total": 2,
+      "errors": 4
+    },
+    "deprescribing": {
+      "total": 2,
+      "errors": 4
+    },
+    "insulin delivery": {
+      "total": 4,
+      "errors": 4
+    },
+    "clinical_guidelines": {
+      "total": 2,
+      "errors": 4
+    },
+    "adverse effect management": {
+      "total": 2,
+      "errors": 4
+    },
+    "diabetic retinopathy": {
+      "total": 2,
+      "errors": 3
+    },
+    "ASCVD": {
+      "total": 2,
+      "errors": 3
+    },
+    "metformin in pregnancy": {
+      "total": 2,
+      "errors": 2
+    },
+    "cardiovascular risk reduction": {
+      "total": 2,
+      "errors": 2
+    },
+    "insulin_pump": {
+      "total": 2,
+      "errors": 1
+    },
+    "SGLT2 inhibitor": {
+      "total": 2,
+      "errors": 1
+    },
+    "insulin_delivery": {
+      "total": 2,
+      "errors": 1
+    },
+    "aspirin": {
+      "total": 2,
+      "errors": 1
+    },
+    "prevention": {
+      "total": 2,
+      "errors": 0
+    }
+  },
+  "universal_failures_count": 108,
+  "universal_failure_ids": [
+    "NOTA_005",
+    "NOTA_008",
+    "NOTA_011",
+    "NOTA_023",
+    "NOTA_027",
+    "NOTA_032",
+    "NOTA_042",
+    "NOTA_048",
+    "NOTA_062",
+    "NOTA_072",
+    "NOTA_080",
+    "NOTA_754",
+    "NOTA_767",
+    "NOTA_770",
+    "NOTA_782",
+    "NOTA_084",
+    "NOTA_798",
+    "NOTA_799",
+    "NOTA_809",
+    "NOTA_810",
+    "NOTA_816",
+    "NOTA_823",
+    "NOTA_833",
+    "NOTA_841",
+    "NOTA_848",
+    "NOTA_852",
+    "NOTA_859",
+    "NOTA_867",
+    "NOTA_877",
+    "NOTA_880",
+    "NOTA_881",
+    "NOTA_888",
+    "NOTA_892",
+    "NOTA_894",
+    "NOTA_096",
+    "NOTA_102",
+    "NOTA_106",
+    "NOTA_108",
+    "NOTA_114",
+    "NOTA_136",
+    "NOTA_142",
+    "NOTA_145",
+    "NOTA_147",
+    "NOTA_156",
+    "NOTA_169",
+    "NOTA_199",
+    "NOTA_205",
+    "NOTA_214",
+    "NOTA_220",
+    "NOTA_226"
+  ]
+}

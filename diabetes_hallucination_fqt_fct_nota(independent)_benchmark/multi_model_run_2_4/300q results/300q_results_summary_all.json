@@ -1,0 +1,127 @@
+{
+  "deepseek-r1_7b": {
+    "overall": {
+      "accuracy": "41.8%",
+      "correct": 125,
+      "total": 299,
+      "wrong": 174
+    },
+    "by_type": {
+      "NOTA": {
+        "accuracy": "27.3%",
+        "correct": 27,
+        "total": 99
+      },
+      "FQT": {
+        "accuracy": "22.0%",
+        "correct": 22,
+        "total": 100
+      },
+      "FCT": {
+        "accuracy": "76.0%",
+        "correct": 76,
+        "total": 100
+      }
+    }
+  },
+  "gemma_7b": {
+    "overall": {
+      "accuracy": "33.3%",
+      "correct": 100,
+      "total": 300,
+      "wrong": 200
+    },
+    "by_type": {
+      "NOTA": {
+        "accuracy": "11.0%",
+        "correct": 11,
+        "total": 100
+      },
+      "FQT": {
+        "accuracy": "9.0%",
+        "correct": 9,
+        "total": 100
+      },
+      "FCT": {
+        "accuracy": "80.0%",
+        "correct": 80,
+        "total": 100
+      }
+    }
+  },
+  "llama3.1_8b": {
+    "overall": {
+      "accuracy": "61.3%",
+      "correct": 184,
+      "total": 300,
+      "wrong": 116
+    },
+    "by_type": {
+      "NOTA": {
+        "accuracy": "14.0%",
+        "correct": 14,
+        "total": 100
+      },
+      "FQT": {
+        "accuracy": "97.0%",
+        "correct": 97,
+        "total": 100
+      },
+      "FCT": {
+        "accuracy": "73.0%",
+        "correct": 73,
+        "total": 100
+      }
+    }
+  },
+  "mistral_latest": {
+    "overall": {
+      "accuracy": "40.3%",
+      "correct": 121,
+      "total": 300,
+      "wrong": 179
+    },
+    "by_type": {
+      "NOTA": {
+        "accuracy": "9.0%",
+        "correct": 9,
+        "total": 100
+      },
+      "FQT": {
+        "accuracy": "48.0%",
+        "correct": 48,
+        "total": 100
+      },
+      "FCT": {
+        "accuracy": "64.0%",
+        "correct": 64,
+        "total": 100
+      }
+    }
+  },
+  "qwen2.5_7b": {
+    "overall": {
+      "accuracy": "70.7%",
+      "correct": 212,
+      "total": 300,
+      "wrong": 88
+    },
+    "by_type": {
+      "NOTA": {
+        "accuracy": "27.0%",
+        "correct": 27,
+        "total": 100
+      },
+      "FQT": {
+        "accuracy": "94.0%",
+        "correct": 94,
+        "total": 100
+      },
+      "FCT": {
+        "accuracy": "91.0%",
+        "correct": 91,
+        "total": 100
+      }
+    }
+  }
+}

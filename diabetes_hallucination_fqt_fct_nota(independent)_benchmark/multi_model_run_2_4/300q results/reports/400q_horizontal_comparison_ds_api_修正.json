@@ -1,0 +1,1755 @@
+{
+  "accuracy_table": [
+    {
+      "model": "deepseek-r1_7b",
+      "overall": "51.2%",
+      "NOTA": "27.3%",
+      "FQT": "22.0%",
+      "FCT": "76.0%",
+      "AOTA": "80.0%"
+    },
+    {
+      "model": "qwen2.5_7b",
+      "overall": "76.8%",
+      "NOTA": "27.0%",
+      "FQT": "94.0%",
+      "FCT": "91.0%",
+      "AOTA": "95.0%"
+    },
+    {
+      "model": "llama3.1_8b",
+      "overall": "64.5%",
+      "NOTA": "14.0%",
+      "FQT": "97.0%",
+      "FCT": "73.0%",
+      "AOTA": "74.7%"
+    },
+    {
+      "model": "gemma_7b",
+      "overall": "34.5%",
+      "NOTA": "11.0%",
+      "FQT": "9.0%",
+      "FCT": "80.0%",
+      "AOTA": "38.0%"
+    },
+    {
+      "model": "mistral_latest",
+      "overall": "52.5%",
+      "NOTA": "9.0%",
+      "FQT": "48.0%",
+      "FCT": "64.0%",
+      "AOTA": "89.0%"
+    }
+  ],
+  "nota_ranking": [
+    "deepseek-r1_7b",
+    "qwen2.5_7b",
+    "llama3.1_8b",
+    "gemma_7b",
+    "mistral_latest"
+  ],
+  "nota_deep_dive": {
+    "wrong_count_by_model": {
+      "deepseek-r1_7b": 72,
+      "gemma_7b": 89,
+      "llama3.1_8b": 86,
+      "mistral_latest": 91,
+      "qwen2.5_7b": 73
+    },
+    "wrong_ids_by_model": {
+      "deepseek-r1_7b": [
+        "NOTA_003",
+        "NOTA_004",
+        "NOTA_005",
+        "NOTA_006",
+        "NOTA_007",
+        "NOTA_008",
+        "NOTA_010",
+        "NOTA_011",
+        "NOTA_013",
+        "NOTA_014",
+        "NOTA_015",
+        "NOTA_016",
+        "NOTA_017",
+        "NOTA_018",
+        "NOTA_019",
+        "NOTA_020",
+        "NOTA_021",
+        "NOTA_024",
+        "NOTA_025",
+        "NOTA_026",
+        "NOTA_027",
+        "NOTA_028",
+        "NOTA_029",
+        "NOTA_030",
+        "NOTA_031",
+        "NOTA_032",
+        "NOTA_033",
+        "NOTA_034",
+        "NOTA_035",
+        "NOTA_037",
+        "NOTA_040",
+        "NOTA_042",
+        "NOTA_044",
+        "NOTA_045",
+        "NOTA_047",
+        "NOTA_048",
+        "NOTA_050",
+        "NOTA_051",
+        "NOTA_052",
+        "NOTA_053",
+        "NOTA_054",
+        "NOTA_056",
+        "NOTA_057",
+        "NOTA_058",
+        "NOTA_059",
+        "NOTA_060",
+        "NOTA_061",
+        "NOTA_062",
+        "NOTA_063",
+        "NOTA_064",
+        "NOTA_065",
+        "NOTA_066",
+        "NOTA_067",
+        "NOTA_069",
+        "NOTA_070",
+        "NOTA_071",
+        "NOTA_072",
+        "NOTA_074",
+        "NOTA_075",
+        "NOTA_076",
+        "NOTA_077",
+        "NOTA_079",
+        "NOTA_080",
+        "NOTA_083",
+        "NOTA_084",
+        "NOTA_085",
+        "NOTA_086",
+        "NOTA_092",
+        "NOTA_094",
+        "NOTA_095",
+        "NOTA_099",
+        "NOTA_100"
+      ],
+      "gemma_7b": [
+        "NOTA_001",
+        "NOTA_002",
+        "NOTA_003",
+        "NOTA_004",
+        "NOTA_005",
+        "NOTA_007",
+        "NOTA_008",
+        "NOTA_009",
+        "NOTA_010",
+        "NOTA_011",
+        "NOTA_012",
+        "NOTA_013",
+        "NOTA_014",
+        "NOTA_016",
+        "NOTA_017",
+        "NOTA_018",
+        "NOTA_019",
+        "NOTA_020",
+        "NOTA_021",
+        "NOTA_022",
+        "NOTA_023",
+        "NOTA_025",
+        "NOTA_026",
+        "NOTA_027",
+        "NOTA_028",
+        "NOTA_029",
+        "NOTA_030",
+        "NOTA_031",
+        "NOTA_032",
+        "NOTA_033",
+        "NOTA_035",
+        "NOTA_036",
+        "NOTA_037",
+        "NOTA_038",
+        "NOTA_039",
+        "NOTA_040",
+        "NOTA_041",
+        "NOTA_042",
+        "NOTA_043",
+        "NOTA_044",
+        "NOTA_045",
+        "NOTA_046",
+        "NOTA_047",
+        "NOTA_048",
+        "NOTA_050",
+        "NOTA_051",
+        "NOTA_052",
+        "NOTA_054",
+        "NOTA_055",
+        "NOTA_056",
+        "NOTA_057",
+        "NOTA_058",
+        "NOTA_059",
+        "NOTA_060",
+        "NOTA_061",
+        "NOTA_062",
+        "NOTA_063",
+        "NOTA_064",
+        "NOTA_065",
+        "NOTA_066",
+        "NOTA_067",
+        "NOTA_068",
+        "NOTA_069",
+        "NOTA_070",
+        "NOTA_071",
+        "NOTA_072",
+        "NOTA_073",
+        "NOTA_074",
+        "NOTA_075",
+        "NOTA_077",
+        "NOTA_078",
+        "NOTA_079",
+        "NOTA_080",
+        "NOTA_081",
+        "NOTA_082",
+        "NOTA_083",
+        "NOTA_084",
+        "NOTA_085",
+        "NOTA_086",
+        "NOTA_087",
+        "NOTA_090",
+        "NOTA_091",
+        "NOTA_092",
+        "NOTA_093",
+        "NOTA_094",
+        "NOTA_096",
+        "NOTA_097",
+        "NOTA_099",
+        "NOTA_100"
+      ],
+      "llama3.1_8b": [
+        "NOTA_001",
+        "NOTA_002",
+        "NOTA_003",
+        "NOTA_004",
+        "NOTA_005",
+        "NOTA_006",
+        "NOTA_007",
+        "NOTA_008",
+        "NOTA_010",
+        "NOTA_011",
+        "NOTA_012",
+        "NOTA_013",
+        "NOTA_014",
+        "NOTA_015",
+        "NOTA_016",
+        "NOTA_017",
+        "NOTA_019",
+        "NOTA_020",
+        "NOTA_021",
+        "NOTA_022",
+        "NOTA_023",
+        "NOTA_024",
+        "NOTA_025",
+        "NOTA_026",
+        "NOTA_028",
+        "NOTA_029",
+        "NOTA_030",
+        "NOTA_031",
+        "NOTA_032",
+        "NOTA_033",
+        "NOTA_036",
+        "NOTA_037",
+        "NOTA_038",
+        "NOTA_039",
+        "NOTA_040",
+        "NOTA_041",
+        "NOTA_042",
+        "NOTA_045",
+        "NOTA_046",
+        "NOTA_047",
+        "NOTA_050",
+        "NOTA_051",
+        "NOTA_052",
+        "NOTA_053",
+        "NOTA_054",
+        "NOTA_055",
+        "NOTA_057",
+        "NOTA_058",
+        "NOTA_059",
+        "NOTA_060",
+        "NOTA_061",
+        "NOTA_063",
+        "NOTA_064",
+        "NOTA_065",
+        "NOTA_066",
+        "NOTA_067",
+        "NOTA_068",
+        "NOTA_069",
+        "NOTA_070",
+        "NOTA_071",
+        "NOTA_072",
+        "NOTA_073",
+        "NOTA_074",
+        "NOTA_075",
+        "NOTA_076",
+        "NOTA_077",
+        "NOTA_078",
+        "NOTA_080",
+        "NOTA_081",
+        "NOTA_082",
+        "NOTA_083",
+        "NOTA_084",
+        "NOTA_085",
+        "NOTA_086",
+        "NOTA_087",
+        "NOTA_088",
+        "NOTA_090",
+        "NOTA_091",
+        "NOTA_092",
+        "NOTA_093",
+        "NOTA_094",
+        "NOTA_095",
+        "NOTA_096",
+        "NOTA_097",
+        "NOTA_098",
+        "NOTA_100"
+      ],
+      "mistral_latest": [
+        "NOTA_001",
+        "NOTA_002",
+        "NOTA_003",
+        "NOTA_004",
+        "NOTA_005",
+        "NOTA_006",
+        "NOTA_007",
+        "NOTA_008",
+        "NOTA_010",
+        "NOTA_011",
+        "NOTA_012",
+        "NOTA_013",
+        "NOTA_015",
+        "NOTA_016",
+        "NOTA_017",
+        "NOTA_018",
+        "NOTA_019",
+        "NOTA_020",
+        "NOTA_021",
+        "NOTA_022",
+        "NOTA_023",
+        "NOTA_024",
+        "NOTA_025",
+        "NOTA_026",
+        "NOTA_027",
+        "NOTA_028",
+        "NOTA_029",
+        "NOTA_030",
+        "NOTA_031",
+        "NOTA_032",
+        "NOTA_033",
+        "NOTA_035",
+        "NOTA_036",
+        "NOTA_037",
+        "NOTA_038",
+        "NOTA_039",
+        "NOTA_040",
+        "NOTA_042",
+        "NOTA_043",
+        "NOTA_044",
+        "NOTA_045",
+        "NOTA_046",
+        "NOTA_047",
+        "NOTA_048",
+        "NOTA_050",
+        "NOTA_051",
+        "NOTA_052",
+        "NOTA_054",
+        "NOTA_056",
+        "NOTA_057",
+        "NOTA_058",
+        "NOTA_059",
+        "NOTA_060",
+        "NOTA_061",
+        "NOTA_062",
+        "NOTA_063",
+        "NOTA_064",
+        "NOTA_065",
+        "NOTA_066",
+        "NOTA_067",
+        "NOTA_068",
+        "NOTA_069",
+        "NOTA_070",
+        "NOTA_071",
+        "NOTA_072",
+        "NOTA_073",
+        "NOTA_074",
+        "NOTA_075",
+        "NOTA_076",
+        "NOTA_077",
+        "NOTA_078",
+        "NOTA_079",
+        "NOTA_080",
+        "NOTA_082",
+        "NOTA_083",
+        "NOTA_084",
+        "NOTA_086",
+        "NOTA_087",
+        "NOTA_088",
+        "NOTA_089",
+        "NOTA_090",
+        "NOTA_091",
+        "NOTA_092",
+        "NOTA_093",
+        "NOTA_094",
+        "NOTA_095",
+        "NOTA_096",
+        "NOTA_097",
+        "NOTA_098",
+        "NOTA_099",
+        "NOTA_100"
+      ],
+      "qwen2.5_7b": [
+        "NOTA_001",
+        "NOTA_003",
+        "NOTA_004",
+        "NOTA_005",
+        "NOTA_006",
+        "NOTA_007",
+        "NOTA_008",
+        "NOTA_009",
+        "NOTA_010",
+        "NOTA_012",
+        "NOTA_015",
+        "NOTA_016",
+        "NOTA_017",
+        "NOTA_018",
+        "NOTA_019",
+        "NOTA_021",
+        "NOTA_022",
+        "NOTA_023",
+        "NOTA_025",
+        "NOTA_026",
+        "NOTA_028",
+        "NOTA_029",
+        "NOTA_033",
+        "NOTA_036",
+        "NOTA_037",
+        "NOTA_038",
+        "NOTA_039",
+        "NOTA_040",
+        "NOTA_043",
+        "NOTA_044",
+        "NOTA_045",
+        "NOTA_046",
+        "NOTA_047",
+        "NOTA_049",
+        "NOTA_050",
+        "NOTA_051",
+        "NOTA_052",
+        "NOTA_054",
+        "NOTA_056",
+        "NOTA_057",
+        "NOTA_059",
+        "NOTA_060",
+        "NOTA_061",
+        "NOTA_063",
+        "NOTA_064",
+        "NOTA_065",
+        "NOTA_066",
+        "NOTA_067",
+        "NOTA_068",
+        "NOTA_069",
+        "NOTA_070",
+        "NOTA_071",
+        "NOTA_072",
+        "NOTA_073",
+        "NOTA_074",
+        "NOTA_075",
+        "NOTA_076",
+        "NOTA_077",
+        "NOTA_078",
+        "NOTA_080",
+        "NOTA_081",
+        "NOTA_082",
+        "NOTA_083",
+        "NOTA_084",
+        "NOTA_086",
+        "NOTA_089",
+        "NOTA_090",
+        "NOTA_091",
+        "NOTA_093",
+        "NOTA_094",
+        "NOTA_095",
+        "NOTA_097",
+        "NOTA_098"
+      ]
+    },
+    "overlap": {
+      "wrong_by_all": [
+        "NOTA_003",
+        "NOTA_004",
+        "NOTA_005",
+        "NOTA_007",
+        "NOTA_008",
+        "NOTA_010",
+        "NOTA_016",
+        "NOTA_017",
+        "NOTA_019",
+        "NOTA_021",
+        "NOTA_025",
+        "NOTA_026",
+        "NOTA_028",
+        "NOTA_029",
+        "NOTA_033",
+        "NOTA_037",
+        "NOTA_040",
+        "NOTA_045",
+        "NOTA_047",
+        "NOTA_050",
+        "NOTA_051",
+        "NOTA_052",
+        "NOTA_054",
+        "NOTA_057",
+        "NOTA_059",
+        "NOTA_060",
+        "NOTA_061",
+        "NOTA_063",
+        "NOTA_064",
+        "NOTA_065",
+        "NOTA_066",
+        "NOTA_067",
+        "NOTA_069",
+        "NOTA_070",
+        "NOTA_071",
+        "NOTA_072",
+        "NOTA_074",
+        "NOTA_075",
+        "NOTA_077",
+        "NOTA_080",
+        "NOTA_083",
+        "NOTA_084",
+        "NOTA_086",
+        "NOTA_094"
+      ],
+      "wrong_by_4": [
+        "NOTA_001",
+        "NOTA_006",
+        "NOTA_011",
+        "NOTA_012",
+        "NOTA_013",
+        "NOTA_015",
+        "NOTA_018",
+        "NOTA_020",
+        "NOTA_022",
+        "NOTA_023",
+        "NOTA_030",
+        "NOTA_031",
+        "NOTA_032",
+        "NOTA_036",
+        "NOTA_038",
+        "NOTA_039",
+        "NOTA_042",
+        "NOTA_044",
+        "NOTA_046",
+        "NOTA_056",
+        "NOTA_058",
+        "NOTA_068",
+        "NOTA_073",
+        "NOTA_076",
+        "NOTA_078",
+        "NOTA_082",
+        "NOTA_090",
+        "NOTA_091",
+        "NOTA_092",
+        "NOTA_093",
+        "NOTA_095",
+        "NOTA_097",
+        "NOTA_100"
+      ],
+      "wrong_by_3": [
+        "NOTA_002",
+        "NOTA_014",
+        "NOTA_024",
+        "NOTA_027",
+        "NOTA_035",
+        "NOTA_043",
+        "NOTA_048",
+        "NOTA_062",
+        "NOTA_079",
+        "NOTA_081",
+        "NOTA_085",
+        "NOTA_087",
+        "NOTA_096",
+        "NOTA_098",
+        "NOTA_099"
+      ],
+      "wrong_by_2": [
+        "NOTA_009",
+        "NOTA_041",
+        "NOTA_053",
+        "NOTA_055",
+        "NOTA_088",
+        "NOTA_089"
+      ],
+      "wrong_by_1": [
+        "NOTA_034",
+        "NOTA_049"
+      ]
+    },
+    "topics_by_model_count": [
+      {
+        "topic": "monogenic diabetes",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_003"
+        ]
+      },
+      {
+        "topic": "glycemic targets",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_004"
+        ]
+      },
+      {
+        "topic": "MODY maturity-onset diabetes of the young",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_005"
+        ]
+      },
+      {
+        "topic": "phlebotomy",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_007"
+        ]
+      },
+      {
+        "topic": "Autonomic neuropathy orthostatic hypotension",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_008"
+        ]
+      },
+      {
+        "topic": "SGLT2 inhibitors",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_010"
+        ]
+      },
+      {
+        "topic": "hypoglycemia",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_016"
+        ]
+      },
+      {
+        "topic": "pharmacology",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_017"
+        ]
+      },
+      {
+        "topic": "emergency_medicine",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_019"
+        ]
+      },
+      {
+        "topic": "type 1 diabetes",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_021"
+        ]
+      },
+      {
+        "topic": "Wagner classification",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_025"
+        ]
+      },
+      {
+        "topic": "GLP-1 receptor agonists and gastroparesis contraindication",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_026"
+        ]
+      },
+      {
+        "topic": "type 2 diabetes",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_028"
+        ]
+      },
+      {
+        "topic": "SGLT2 inhibitors in CKD with proteinuria",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_029"
+        ]
+      },
+      {
+        "topic": "LADA latent autoimmune diabetes misdiagnosed as type 2",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_033"
+        ]
+      },
+      {
+        "topic": "insulin",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_037"
+        ]
+      },
+      {
+        "topic": "time-in-range",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_040"
+        ]
+      },
+      {
+        "topic": "PDR",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_045"
+        ]
+      },
+      {
+        "topic": "necrobiosis-lipoidica",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_047"
+        ]
+      },
+      {
+        "topic": "geriatrics",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_050"
+        ]
+      },
+      {
+        "topic": "CGM",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_051"
+        ]
+      },
+      {
+        "topic": "neurology",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_052"
+        ]
+      },
+      {
+        "topic": "adverse_effects",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_054"
+        ]
+      },
+      {
+        "topic": "acute kidney injury",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_057"
+        ]
+      },
+      {
+        "topic": "Hypoglycemia management",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_059"
+        ]
+      },
+      {
+        "topic": "Diabetic retinopathy screening",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_060"
+        ]
+      },
+      {
+        "topic": "Euglycemic diabetic ketoacidosis with SGLT2",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_061"
+        ]
+      },
+      {
+        "topic": "gastroparesis",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_063"
+        ]
+      },
+      {
+        "topic": "cardiology",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_064"
+        ]
+      },
+      {
+        "topic": "clinical_trials",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_065"
+        ]
+      },
+      {
+        "topic": "Fournier's gangrene",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_066"
+        ]
+      },
+      {
+        "topic": "Insulin pump management",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_067"
+        ]
+      },
+      {
+        "topic": "diabetic foot ulcer",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_069"
+        ]
+      },
+      {
+        "topic": "GLP-1 in cardiovascular outcomes",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_070"
+        ]
+      },
+      {
+        "topic": "LADA vs type 2 differential",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_071"
+        ]
+      },
+      {
+        "topic": "Hemochromatosis bronze diabetes",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_072"
+        ]
+      },
+      {
+        "topic": "interference",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_074"
+        ]
+      },
+      {
+        "topic": "pharmacotherapy",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_075"
+        ]
+      },
+      {
+        "topic": "Rare complications: Gastroparesis and GLP-1 contraindication",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_077"
+        ]
+      },
+      {
+        "topic": "Fournier_gangrene",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_080"
+        ]
+      },
+      {
+        "topic": "Fournier's gangrene and SGLT2 inhibitors",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_083"
+        ]
+      },
+      {
+        "topic": "Proliferative diabetic retinopathy Anti-VEGF",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_084"
+        ]
+      },
+      {
+        "topic": "contraindications",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_086"
+        ]
+      },
+      {
+        "topic": "CKD proteinuria and SGLT2",
+        "models_wrong": 5,
+        "ids": [
+          "NOTA_094"
+        ]
+      },
+      {
+        "topic": "treatment guidelines",
+        "models_wrong": 4,
+        "ids": [
+          "NOTA_006"
+        ]
+      },
+      {
+        "topic": "endocrinology",
+        "models_wrong": 4,
+        "ids": [
+          "NOTA_011"
+        ]
+      },
+      {
+        "topic": "genetic testing",
+        "models_wrong": 4,
+        "ids": [
+          "NOTA_013"
+        ]
+      },
+      {
+        "topic": "clinical management",
+        "models_wrong": 4,
+        "ids": [
+          "NOTA_015"
+        ]
+      },
+      {
+        "topic": "Semaglutide and retinopathy SUSTAIN-6 signal",
+        "models_wrong": 4,
+        "ids": [
+          "NOTA_018"
+        ]
+      },
+      {
+        "topic": "SGLT2 and acute kidney injury / volume depletion",
+        "models_wrong": 4,
+        "ids": [
+          "NOTA_020"
+        ]
+      },
+      {
+        "topic": "Steroid-induced diabetes management",
+        "models_wrong": 4,
+        "ids": [
+          "NOTA_030"
+        ]
+      },
+      {
+        "topic": "clinical-reasoning",
+        "models_wrong": 4,
+        "ids": [
+          "NOTA_031"
+        ]
+      },
+      {
+        "topic": "Cardiovascular autonomic neuropathy",
+        "models_wrong": 4,
+        "ids": [
+          "NOTA_032"
+        ]
+      },
+      {
+        "topic": "HFpEF and diabetes pharmacotherapy",
+        "models_wrong": 4,
+        "ids": [
+          "NOTA_042"
+        ]
+      },
+      {
+        "topic": "CGM technology: Acetaminophen interference with CGM",
+        "models_wrong": 4,
+        "ids": [
+          "NOTA_044"
+        ]
+      },
+      {
+        "topic": "Steroid-induced hyperglycemia",
+        "models_wrong": 4,
+        "ids": [
+          "NOTA_056"
+        ]
+      },
+      {
+        "topic": "sick-day management",
+        "models_wrong": 4,
+        "ids": [
+          "NOTA_058"
+        ]
+      },
+      {
+        "topic": "Diabetic foot: Charcot foot diagnosis",
+        "models_wrong": 4,
+        "ids": [
+          "NOTA_076"
+        ]
+      },
+      {
+        "topic": "MODY genetic testing",
+        "models_wrong": 4,
+        "ids": [
+          "NOTA_092"
+        ]
+      },
+      {
+        "topic": "Diabetic foot: Wagner grade classification",
+        "models_wrong": 4,
+        "ids": [
+          "NOTA_095"
+        ]
+      },
+      {
+        "topic": "acute illness management",
+        "models_wrong": 4,
+        "ids": [
+          "NOTA_100"
+        ]
+      },
+      {
+        "topic": "Neuropathic pain and diabetes",
+        "models_wrong": 4,
+        "ids": [
+          "NOTA_001"
+        ]
+      },
+      {
+        "topic": "sensor interference",
+        "models_wrong": 4,
+        "ids": [
+          "NOTA_012"
+        ]
+      },
+      {
+        "topic": "treatment_guidelines",
+        "models_wrong": 4,
+        "ids": [
+          "NOTA_022"
+        ]
+      },
+      {
+        "topic": "hydration",
+        "models_wrong": 4,
+        "ids": [
+          "NOTA_023"
+        ]
+      },
+      {
+        "topic": "gestational diabetes",
+        "models_wrong": 4,
+        "ids": [
+          "NOTA_036"
+        ]
+      },
+      {
+        "topic": "Gastroparesis and diabetic neuropathy",
+        "models_wrong": 4,
+        "ids": [
+          "NOTA_038"
+        ]
+      },
+      {
+        "topic": "clinical guidelines",
+        "models_wrong": 4,
+        "ids": [
+          "NOTA_039"
+        ]
+      },
+      {
+        "topic": "panretinal-photocoagulation",
+        "models_wrong": 4,
+        "ids": [
+          "NOTA_046"
+        ]
+      },
+      {
+        "topic": "screening",
+        "models_wrong": 4,
+        "ids": [
+          "NOTA_068"
+        ]
+      },
+      {
+        "topic": "Type 2 diabetes initial treatment",
+        "models_wrong": 4,
+        "ids": [
+          "NOTA_073"
+        ]
+      },
+      {
+        "topic": "insulin-pump",
+        "models_wrong": 4,
+        "ids": [
+          "NOTA_078"
+        ]
+      },
+      {
+        "topic": "FDA warning",
+        "models_wrong": 4,
+        "ids": [
+          "NOTA_082"
+        ]
+      },
+      {
+        "topic": "type1",
+        "models_wrong": 4,
+        "ids": [
+          "NOTA_090"
+        ]
+      },
+      {
+        "topic": "patient_safety",
+        "models_wrong": 4,
+        "ids": [
+          "NOTA_091"
+        ]
+      },
+      {
+        "topic": "Gestational diabetes: time in range targets in GDM",
+        "models_wrong": 4,
+        "ids": [
+          "NOTA_093"
+        ]
+      },
+      {
+        "topic": "guidelines",
+        "models_wrong": 4,
+        "ids": [
+          "NOTA_097"
+        ]
+      },
+      {
+        "topic": "CKD",
+        "models_wrong": 3,
+        "ids": [
+          "NOTA_014"
+        ]
+      },
+      {
+        "topic": "Rare complications: Necrobiosis lipoidica",
+        "models_wrong": 3,
+        "ids": [
+          "NOTA_024"
+        ]
+      },
+      {
+        "topic": "treatment",
+        "models_wrong": 3,
+        "ids": [
+          "NOTA_027"
+        ]
+      },
+      {
+        "topic": "metformin",
+        "models_wrong": 3,
+        "ids": [
+          "NOTA_035"
+        ]
+      },
+      {
+        "topic": "Charcot neuroarthropathy",
+        "models_wrong": 3,
+        "ids": [
+          "NOTA_048"
+        ]
+      },
+      {
+        "topic": "genetic-testing",
+        "models_wrong": 3,
+        "ids": [
+          "NOTA_062"
+        ]
+      },
+      {
+        "topic": "CGM technology: Vitamin C effects on CGM accuracy",
+        "models_wrong": 3,
+        "ids": [
+          "NOTA_079"
+        ]
+      },
+      {
+        "topic": "diagnostic approach",
+        "models_wrong": 3,
+        "ids": [
+          "NOTA_085"
+        ]
+      },
+      {
+        "topic": "Diabetic autonomic neuropathy erectile dysfunction",
+        "models_wrong": 3,
+        "ids": [
+          "NOTA_099"
+        ]
+      },
+      {
+        "topic": "erectile_dysfunction",
+        "models_wrong": 3,
+        "ids": [
+          "NOTA_002"
+        ]
+      },
+      {
+        "topic": "patient_education",
+        "models_wrong": 3,
+        "ids": [
+          "NOTA_043"
+        ]
+      },
+      {
+        "topic": "clinical_reasoning",
+        "models_wrong": 3,
+        "ids": [
+          "NOTA_081"
+        ]
+      },
+      {
+        "topic": "management",
+        "models_wrong": 3,
+        "ids": [
+          "NOTA_087"
+        ]
+      },
+      {
+        "topic": "Fournier-gangrene",
+        "models_wrong": 3,
+        "ids": [
+          "NOTA_096"
+        ]
+      },
+      {
+        "topic": "medical devices",
+        "models_wrong": 3,
+        "ids": [
+          "NOTA_098"
+        ]
+      },
+      {
+        "topic": "autoimmune",
+        "models_wrong": 2,
+        "ids": [
+          "NOTA_053"
+        ]
+      },
+      {
+        "topic": "Proliferative retinopathy laser vs Anti-VEGF",
+        "models_wrong": 2,
+        "ids": [
+          "NOTA_009"
+        ]
+      },
+      {
+        "topic": "internal medicine",
+        "models_wrong": 2,
+        "ids": [
+          "NOTA_041"
+        ]
+      },
+      {
+        "topic": "Gestational diabetes: metformin safety in pregnancy",
+        "models_wrong": 2,
+        "ids": [
+          "NOTA_055"
+        ]
+      },
+      {
+        "topic": "type1-diabetes",
+        "models_wrong": 2,
+        "ids": [
+          "NOTA_088"
+        ]
+      },
+      {
+        "topic": "renal-function",
+        "models_wrong": 2,
+        "ids": [
+          "NOTA_089"
+        ]
+      },
+      {
+        "topic": "heart-failure",
+        "models_wrong": 1,
+        "ids": [
+          "NOTA_034"
+        ]
+      },
+      {
+        "topic": "SGLT2 inhibitors in heart failure HFpEF",
+        "models_wrong": 1,
+        "ids": [
+          "NOTA_049"
+        ]
+      }
+    ]
+  },
+  "nota_summary": {
+    "best_model": "deepseek-r1_7b",
+    "worst_model": "mistral_latest",
+    "wrong_by_all_count": 44,
+    "wrong_by_all_ids": [
+      "NOTA_003",
+      "NOTA_004",
+      "NOTA_005",
+      "NOTA_007",
+      "NOTA_008",
+      "NOTA_010",
+      "NOTA_016",
+      "NOTA_017",
+      "NOTA_019",
+      "NOTA_021",
+      "NOTA_025",
+      "NOTA_026",
+      "NOTA_028",
+      "NOTA_029",
+      "NOTA_033",
+      "NOTA_037",
+      "NOTA_040",
+      "NOTA_045",
+      "NOTA_047",
+      "NOTA_050",
+      "NOTA_051",
+      "NOTA_052",
+      "NOTA_054",
+      "NOTA_057",
+      "NOTA_059",
+      "NOTA_060",
+      "NOTA_061",
+      "NOTA_063",
+      "NOTA_064",
+      "NOTA_065",
+      "NOTA_066",
+      "NOTA_067",
+      "NOTA_069",
+      "NOTA_070",
+      "NOTA_071",
+      "NOTA_072",
+      "NOTA_074",
+      "NOTA_075",
+      "NOTA_077",
+      "NOTA_080",
+      "NOTA_083",
+      "NOTA_084",
+      "NOTA_086",
+      "NOTA_094"
+    ],
+    "wrong_by_1_count": 2,
+    "wrong_by_1_ids": [
+      "NOTA_034",
+      "NOTA_049"
+    ]
+  },
+  "aota_ranking": [
+    "qwen2.5_7b",
+    "mistral_latest",
+    "deepseek-r1_7b",
+    "llama3.1_8b",
+    "gemma_7b"
+  ],
+  "aota_deep_dive": {
+    "wrong_count_by_model": {
+      "deepseek-r1_7b": 20,
+      "gemma_7b": 62,
+      "llama3.1_8b": 25,
+      "mistral_latest": 11,
+      "qwen2.5_7b": 5
+    },
+    "wrong_ids_by_model": {
+      "deepseek-r1_7b": [
+        "AOTA_002",
+        "AOTA_006",
+        "AOTA_011",
+        "AOTA_014",
+        "AOTA_015",
+        "AOTA_028",
+        "AOTA_034",
+        "AOTA_036",
+        "AOTA_037",
+        "AOTA_040",
+        "AOTA_053",
+        "AOTA_061",
+        "AOTA_062",
+        "AOTA_067",
+        "AOTA_068",
+        "AOTA_070",
+        "AOTA_079",
+        "AOTA_088",
+        "AOTA_093",
+        "AOTA_094"
+      ],
+      "gemma_7b": [
+        "AOTA_001",
+        "AOTA_002",
+        "AOTA_003",
+        "AOTA_007",
+        "AOTA_009",
+        "AOTA_010",
+        "AOTA_011",
+        "AOTA_012",
+        "AOTA_013",
+        "AOTA_016",
+        "AOTA_018",
+        "AOTA_019",
+        "AOTA_021",
+        "AOTA_025",
+        "AOTA_026",
+        "AOTA_029",
+        "AOTA_030",
+        "AOTA_032",
+        "AOTA_033",
+        "AOTA_034",
+        "AOTA_035",
+        "AOTA_036",
+        "AOTA_038",
+        "AOTA_041",
+        "AOTA_042",
+        "AOTA_043",
+        "AOTA_044",
+        "AOTA_045",
+        "AOTA_047",
+        "AOTA_049",
+        "AOTA_051",
+        "AOTA_052",
+        "AOTA_053",
+        "AOTA_055",
+        "AOTA_057",
+        "AOTA_059",
+        "AOTA_061",
+        "AOTA_062",
+        "AOTA_063",
+        "AOTA_067",
+        "AOTA_069",
+        "AOTA_071",
+        "AOTA_072",
+        "AOTA_073",
+        "AOTA_076",
+        "AOTA_077",
+        "AOTA_078",
+        "AOTA_079",
+        "AOTA_080",
+        "AOTA_081",
+        "AOTA_082",
+        "AOTA_084",
+        "AOTA_086",
+        "AOTA_087",
+        "AOTA_088",
+        "AOTA_089",
+        "AOTA_091",
+        "AOTA_094",
+        "AOTA_096",
+        "AOTA_097",
+        "AOTA_098",
+        "AOTA_100"
+      ],
+      "llama3.1_8b": [
+        "AOTA_004",
+        "AOTA_010",
+        "AOTA_021",
+        "AOTA_022",
+        "AOTA_028",
+        "AOTA_032",
+        "AOTA_038",
+        "AOTA_042",
+        "AOTA_046",
+        "AOTA_048",
+        "AOTA_053",
+        "AOTA_059",
+        "AOTA_063",
+        "AOTA_067",
+        "AOTA_070",
+        "AOTA_072",
+        "AOTA_073",
+        "AOTA_075",
+        "AOTA_076",
+        "AOTA_078",
+        "AOTA_079",
+        "AOTA_084",
+        "AOTA_091",
+        "AOTA_094",
+        "AOTA_096"
+      ],
+      "mistral_latest": [
+        "AOTA_010",
+        "AOTA_034",
+        "AOTA_037",
+        "AOTA_038",
+        "AOTA_046",
+        "AOTA_055",
+        "AOTA_059",
+        "AOTA_067",
+        "AOTA_073",
+        "AOTA_075",
+        "AOTA_088"
+      ],
+      "qwen2.5_7b": [
+        "AOTA_016",
+        "AOTA_061",
+        "AOTA_072",
+        "AOTA_088",
+        "AOTA_091"
+      ]
+    },
+    "overlap": {
+      "wrong_by_all": [],
+      "wrong_by_1": [
+        "AOTA_001",
+        "AOTA_003",
+        "AOTA_004",
+        "AOTA_006",
+        "AOTA_007",
+        "AOTA_009",
+        "AOTA_012",
+        "AOTA_013",
+        "AOTA_014",
+        "AOTA_015",
+        "AOTA_018",
+        "AOTA_019",
+        "AOTA_022",
+        "AOTA_025",
+        "AOTA_026",
+        "AOTA_029",
+        "AOTA_030",
+        "AOTA_033",
+        "AOTA_035",
+        "AOTA_040",
+        "AOTA_041",
+        "AOTA_043",
+        "AOTA_044",
+        "AOTA_045",
+        "AOTA_047",
+        "AOTA_048",
+        "AOTA_049",
+        "AOTA_051",
+        "AOTA_052",
+        "AOTA_057",
+        "AOTA_068",
+        "AOTA_069",
+        "AOTA_071",
+        "AOTA_077",
+        "AOTA_080",
+        "AOTA_081",
+        "AOTA_082",
+        "AOTA_086",
+        "AOTA_087",
+        "AOTA_089",
+        "AOTA_093",
+        "AOTA_097",
+        "AOTA_098",
+        "AOTA_100"
+      ],
+      "wrong_by_2": [
+        "AOTA_002",
+        "AOTA_011",
+        "AOTA_016",
+        "AOTA_021",
+        "AOTA_028",
+        "AOTA_032",
+        "AOTA_036",
+        "AOTA_037",
+        "AOTA_042",
+        "AOTA_046",
+        "AOTA_055",
+        "AOTA_062",
+        "AOTA_063",
+        "AOTA_070",
+        "AOTA_075",
+        "AOTA_076",
+        "AOTA_078",
+        "AOTA_084",
+        "AOTA_096"
+      ],
+      "wrong_by_3": [
+        "AOTA_010",
+        "AOTA_034",
+        "AOTA_038",
+        "AOTA_053",
+        "AOTA_059",
+        "AOTA_061",
+        "AOTA_072",
+        "AOTA_073",
+        "AOTA_079",
+        "AOTA_091",
+        "AOTA_094"
+      ],
+      "wrong_by_4": [
+        "AOTA_067",
+        "AOTA_088"
+      ]
+    },
+    "topics_by_model_count": [],
+    "pred_vs_label_by_model": {
+      "deepseek-r1_7b": {
+        "C->A": 5,
+        "B->A": 4,
+        "A->B": 3,
+        "A->C": 2,
+        "B->C": 2,
+        "C->B": 2,
+        "D->B": 1,
+        "D->A": 1
+      },
+      "gemma_7b": {
+        "D->A": 28,
+        "D->B": 16,
+        "D->C": 14,
+        "C->A": 2,
+        "A->C": 1,
+        "A->B": 1
+      },
+      "llama3.1_8b": {
+        "C->A": 7,
+        "B->C": 6,
+        "A->C": 3,
+        "C->B": 3,
+        "D->C": 2,
+        "D->B": 2,
+        "D->A": 1,
+        "B->A": 1
+      },
+      "mistral_latest": {
+        "A->C": 3,
+        "D->A": 3,
+        "B->C": 2,
+        "D->B": 1,
+        "D->C": 1,
+        "A->B": 1
+      },
+      "qwen2.5_7b": {
+        "D->A": 4,
+        "A->C": 1
+      }
+    }
+  },
+  "aota_summary": {
+    "best_model": "qwen2.5_7b",
+    "worst_model": "gemma_7b",
+    "wrong_by_all_count": 0,
+    "wrong_by_all_ids": [],
+    "wrong_by_1_count": 44,
+    "wrong_by_1_ids": [
+      "AOTA_001",
+      "AOTA_003",
+      "AOTA_004",
+      "AOTA_006",
+      "AOTA_007",
+      "AOTA_009",
+      "AOTA_012",
+      "AOTA_013",
+      "AOTA_014",
+      "AOTA_015",
+      "AOTA_018",
+      "AOTA_019",
+      "AOTA_022",
+      "AOTA_025",
+      "AOTA_026",
+      "AOTA_029",
+      "AOTA_030",
+      "AOTA_033",
+      "AOTA_035",
+      "AOTA_040",
+      "AOTA_041",
+      "AOTA_043",
+      "AOTA_044",
+      "AOTA_045",
+      "AOTA_047",
+      "AOTA_048",
+      "AOTA_049",
+      "AOTA_051",
+      "AOTA_052",
+      "AOTA_057",
+      "AOTA_068",
+      "AOTA_069",
+      "AOTA_071",
+      "AOTA_077",
+      "AOTA_080",
+      "AOTA_081",
+      "AOTA_082",
+      "AOTA_086",
+      "AOTA_087",
+      "AOTA_089",
+      "AOTA_093",
+      "AOTA_097",
+      "AOTA_098",
+      "AOTA_100"
+    ]
+  },
+  "aota_unexpected": {
+    "consensus_wrong": [],
+    "best_model_failures": [
+      "AOTA_016",
+      "AOTA_061",
+      "AOTA_072",
+      "AOTA_088",
+      "AOTA_091"
+    ],
+    "worst_model_succeeds": [
+      "AOTA_004",
+      "AOTA_006",
+      "AOTA_014",
+      "AOTA_015",
+      "AOTA_022",
+      "AOTA_028",
+      "AOTA_037",
+      "AOTA_040",
+      "AOTA_046",
+      "AOTA_048",
+      "AOTA_068",
+      "AOTA_070",
+      "AOTA_075",
+      "AOTA_093"
+    ]
+  },
+  "model_performance_profiles": {
+    "deepseek-r1_7b": {
+      "best_task": "AOTA",
+      "best_acc": 80.0,
+      "worst_task": "FQT",
+      "worst_acc": 22.0,
+      "spread": 58.0,
+      "profile": "specialist"
+    },
+    "qwen2.5_7b": {
+      "best_task": "AOTA",
+      "best_acc": 95.0,
+      "worst_task": "NOTA",
+      "worst_acc": 27.0,
+      "spread": 68.0,
+      "profile": "specialist"
+    },
+    "llama3.1_8b": {
+      "best_task": "FQT",
+      "best_acc": 97.0,
+      "worst_task": "NOTA",
+      "worst_acc": 14.0,
+      "spread": 83.0,
+      "profile": "specialist"
+    },
+    "gemma_7b": {
+      "best_task": "FCT",
+      "best_acc": 80.0,
+      "worst_task": "FQT",
+      "worst_acc": 9.0,
+      "spread": 71.0,
+      "profile": "specialist"
+    },
+    "mistral_latest": {
+      "best_task": "AOTA",
+      "best_acc": 89.0,
+      "worst_task": "NOTA",
+      "worst_acc": 9.0,
+      "spread": 80.0,
+      "profile": "specialist"
+    }
+  }
+}

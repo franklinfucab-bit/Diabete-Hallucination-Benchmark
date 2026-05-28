@@ -1,0 +1,2068 @@
+{
+  "threshold": 80.0,
+  "low_accuracy_pairs": [
+    {
+      "model": "gemma2_2b",
+      "task": "FQT",
+      "reported": {
+        "accuracy": "76.5%",
+        "correct": 26,
+        "total": 34
+      },
+      "recomputed": {
+        "accuracy": "76.5%",
+        "correct": 26,
+        "total": 34
+      },
+      "verification_passed": true,
+      "label_mismatches_count": 0,
+      "label_mismatches": null,
+      "items": [
+        {
+          "id": "FQT_001",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_002",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_003",
+          "pred": "C",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_004",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_005",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_006",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_007",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_008",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_009",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_010",
+          "pred": "C",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_011",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_012",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_013",
+          "pred": "C",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_014",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_015",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_016",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_017",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_018",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_019",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_020",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_021",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_022",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_023",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_024",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_025",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_026",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_027",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_028",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_029",
+          "pred": "C",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_030",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_031",
+          "pred": "C",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_032",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_033",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_034",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        }
+      ]
+    },
+    {
+      "model": "gemma2_2b",
+      "task": "NOTA",
+      "reported": {
+        "accuracy": "52.9%",
+        "correct": 18,
+        "total": 34
+      },
+      "recomputed": {
+        "accuracy": "52.9%",
+        "correct": 18,
+        "total": 34
+      },
+      "verification_passed": true,
+      "label_mismatches_count": 0,
+      "label_mismatches": null,
+      "items": [
+        {
+          "id": "NOTA_001",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_002",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_003",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_004",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_005",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_006",
+          "pred": "C",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_007",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_008",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_009",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_010",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_011",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_012",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_013",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_014",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_015",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_016",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_017",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_018",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_019",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_020",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_021",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_022",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_023",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_024",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_025",
+          "pred": "C",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_026",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_027",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_028",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_029",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_030",
+          "pred": "C",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_031",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_032",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_033",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_034",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        }
+      ]
+    },
+    {
+      "model": "llama3.2_3b",
+      "task": "NOTA",
+      "reported": {
+        "accuracy": "0.0%",
+        "correct": 0,
+        "total": 34
+      },
+      "recomputed": {
+        "accuracy": "0.0%",
+        "correct": 0,
+        "total": 34
+      },
+      "verification_passed": true,
+      "label_mismatches_count": 0,
+      "label_mismatches": null,
+      "items": [
+        {
+          "id": "NOTA_001",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_002",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_003",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_004",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_005",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_006",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_007",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_008",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_009",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_010",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_011",
+          "pred": "C",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_012",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_013",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_014",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_015",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_016",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_017",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_018",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_019",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_020",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_021",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_022",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_023",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_024",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_025",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_026",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_027",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_028",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_029",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_030",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_031",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_032",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_033",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_034",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        }
+      ]
+    },
+    {
+      "model": "mistral_latest",
+      "task": "FCT",
+      "reported": {
+        "accuracy": "70.6%",
+        "correct": 24,
+        "total": 34
+      },
+      "recomputed": {
+        "accuracy": "70.6%",
+        "correct": 24,
+        "total": 34
+      },
+      "verification_passed": true,
+      "label_mismatches_count": 0,
+      "label_mismatches": null,
+      "items": [
+        {
+          "id": "FCT_001",
+          "pred": "A",
+          "label": "A",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FCT_002",
+          "pred": "C",
+          "label": "B",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FCT_003",
+          "pred": "C",
+          "label": "C",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FCT_004",
+          "pred": "A",
+          "label": "A",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FCT_005",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FCT_006",
+          "pred": "A",
+          "label": "A",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FCT_007",
+          "pred": "C",
+          "label": "C",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FCT_008",
+          "pred": "B",
+          "label": "B",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FCT_009",
+          "pred": "A",
+          "label": "A",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FCT_010",
+          "pred": "D",
+          "label": "C",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FCT_011",
+          "pred": "B",
+          "label": "B",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FCT_012",
+          "pred": "C",
+          "label": "B",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FCT_013",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FCT_014",
+          "pred": "B",
+          "label": "B",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FCT_015",
+          "pred": "A",
+          "label": "A",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FCT_016",
+          "pred": "A",
+          "label": "A",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FCT_017",
+          "pred": "C",
+          "label": "C",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FCT_018",
+          "pred": "A",
+          "label": "A",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FCT_019",
+          "pred": "B",
+          "label": "B",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FCT_020",
+          "pred": "B",
+          "label": "C",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FCT_021",
+          "pred": "A",
+          "label": "A",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FCT_022",
+          "pred": "A",
+          "label": "B",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FCT_023",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FCT_024",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FCT_025",
+          "pred": "C",
+          "label": "C",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FCT_026",
+          "pred": "B",
+          "label": "B",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FCT_027",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FCT_028",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FCT_029",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FCT_030",
+          "pred": "B",
+          "label": "B",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FCT_031",
+          "pred": "C",
+          "label": "C",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FCT_032",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FCT_033",
+          "pred": "A",
+          "label": "A",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FCT_034",
+          "pred": "A",
+          "label": "B",
+          "correct": false,
+          "ground_truth_match": true
+        }
+      ]
+    },
+    {
+      "model": "mistral_latest",
+      "task": "FQT",
+      "reported": {
+        "accuracy": "8.8%",
+        "correct": 3,
+        "total": 34
+      },
+      "recomputed": {
+        "accuracy": "8.8%",
+        "correct": 3,
+        "total": 34
+      },
+      "verification_passed": true,
+      "label_mismatches_count": 0,
+      "label_mismatches": null,
+      "items": [
+        {
+          "id": "FQT_001",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_002",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_003",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_004",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_005",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_006",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_007",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_008",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_009",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_010",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_011",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_012",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_013",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_014",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_015",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_016",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_017",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_018",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_019",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_020",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_021",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_022",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_023",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_024",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_025",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_026",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_027",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_028",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_029",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_030",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_031",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_032",
+          "pred": "C",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_033",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "FQT_034",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        }
+      ]
+    },
+    {
+      "model": "mistral_latest",
+      "task": "NOTA",
+      "reported": {
+        "accuracy": "17.6%",
+        "correct": 6,
+        "total": 34
+      },
+      "recomputed": {
+        "accuracy": "17.6%",
+        "correct": 6,
+        "total": 34
+      },
+      "verification_passed": true,
+      "label_mismatches_count": 0,
+      "label_mismatches": null,
+      "items": [
+        {
+          "id": "NOTA_001",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_002",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_003",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_004",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_005",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_006",
+          "pred": "C",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_007",
+          "pred": "C",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_008",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_009",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_010",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_011",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_012",
+          "pred": "C",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_013",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_014",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_015",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_016",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_017",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_018",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_019",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_020",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_021",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_022",
+          "pred": "C",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_023",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_024",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_025",
+          "pred": "C",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_026",
+          "pred": "C",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_027",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_028",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_029",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_030",
+          "pred": "C",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_031",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_032",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_033",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_034",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        }
+      ]
+    },
+    {
+      "model": "phi3_latest",
+      "task": "NOTA",
+      "reported": {
+        "accuracy": "0.0%",
+        "correct": 0,
+        "total": 34
+      },
+      "recomputed": {
+        "accuracy": "0.0%",
+        "correct": 0,
+        "total": 34
+      },
+      "verification_passed": true,
+      "label_mismatches_count": 0,
+      "label_mismatches": null,
+      "items": [
+        {
+          "id": "NOTA_001",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_002",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_003",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_004",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_005",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_006",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_007",
+          "pred": "C",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_008",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_009",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_010",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_011",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_012",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_013",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_014",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_015",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_016",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_017",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_018",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_019",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_020",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_021",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_022",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_023",
+          "pred": "C",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_024",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_025",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_026",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_027",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_028",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_029",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_030",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_031",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_032",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_033",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_034",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        }
+      ]
+    },
+    {
+      "model": "qwen2.5_7b",
+      "task": "NOTA",
+      "reported": {
+        "accuracy": "44.1%",
+        "correct": 15,
+        "total": 34
+      },
+      "recomputed": {
+        "accuracy": "44.1%",
+        "correct": 15,
+        "total": 34
+      },
+      "verification_passed": true,
+      "label_mismatches_count": 0,
+      "label_mismatches": null,
+      "items": [
+        {
+          "id": "NOTA_001",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_002",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_003",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_004",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_005",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_006",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_007",
+          "pred": "C",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_008",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_009",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_010",
+          "pred": "C",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_011",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_012",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_013",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_014",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_015",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_016",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_017",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_018",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_019",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_020",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_021",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_022",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_023",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_024",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_025",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_026",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_027",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_028",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_029",
+          "pred": "B",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_030",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_031",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_032",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_033",
+          "pred": "D",
+          "label": "D",
+          "correct": true,
+          "ground_truth_match": true
+        },
+        {
+          "id": "NOTA_034",
+          "pred": "A",
+          "label": "D",
+          "correct": false,
+          "ground_truth_match": true
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "summary": {
+    "total_low_acc_pairs": 8,
+    "verification_passed": true,
+    "label_mismatches_total": 0,
+    "discrepancy_count": 0
+  }
+}

@@ -1,0 +1,8 @@
+[
+    {
+        "model": "deepseek-chat",
+        "accuracy": "95.10%",
+        "total": 102,
+        "correct": 97
+    }
+]

@@ -1,0 +1,276 @@
+FCT v3.8 total: 962
+
+Topic (metadata.topic or first tag) | Count | Portion
+-------------------------------------------------------
+hypoglycemia | 75 | 7.8%
+Diabetic Neuropathy & Foot Care | 41 | 4.3%
+pharmacotherapy | 39 | 4.1%
+Diabetic Retinopathy & Kidney Disease | 38 | 4.0%
+guideline-based management | 37 | 3.8%
+Special Populations (Elderly & Pregnancy) | 36 | 3.7%
+Acute Complications & Hospital Management | 33 | 3.4%
+preventive care | 27 | 2.8%
+type 2 diabetes | 27 | 2.8%
+type 1 diabetes | 21 | 2.2%
+type 2 diabetes management | 17 | 1.8%
+shared decision-making | 17 | 1.8%
+medication safety | 16 | 1.7%
+gestational diabetes | 16 | 1.7%
+insulin pump | 15 | 1.6%
+patient-centered care | 13 | 1.4%
+prevention | 11 | 1.1%
+continuous glucose monitoring | 10 | 1.0%
+emergency medicine | 10 | 1.0%
+health literacy | 9 | 0.9%
+cardiovascular prevention | 8 | 0.8%
+sick-day management | 8 | 0.8%
+preventive medicine | 7 | 0.7%
+evidence-based medicine | 7 | 0.7%
+SMBG | 7 | 0.7%
+clinical trials | 7 | 0.7%
+psychosocial care | 7 | 0.7%
+SGLT2 inhibitors | 6 | 0.6%
+obesity | 6 | 0.6%
+exercise management | 6 | 0.6%
+insulin delivery | 6 | 0.6%
+renal protection | 5 | 0.5%
+nephrology | 5 | 0.5%
+psychosocial aspects | 5 | 0.5%
+cardiovascular risk | 5 | 0.5%
+sulfonylureas | 5 | 0.5%
+patient education | 5 | 0.5%
+pharmacology | 5 | 0.5%
+comorbidity | 5 | 0.5%
+health_policy | 4 | 0.4%
+lifestyle modification | 4 | 0.4%
+integrated_care | 4 | 0.4%
+preventive_care | 4 | 0.4%
+neuropathy | 4 | 0.4%
+vaccination | 4 | 0.4%
+GLP-1 agonist | 4 | 0.4%
+chronic_kidney_disease | 4 | 0.4%
+medical documentation | 4 | 0.4%
+glucose monitoring | 3 | 0.3%
+insulin therapy | 3 | 0.3%
+metformin | 3 | 0.3%
+clinical_trials | 3 | 0.3%
+aspirin therapy | 3 | 0.3%
+patient_counseling | 3 | 0.3%
+cardiovascular risk management | 3 | 0.3%
+cardiometabolic | 3 | 0.3%
+insulin storage | 3 | 0.3%
+health_literacy | 3 | 0.3%
+hyperglycemia | 3 | 0.3%
+terminology | 3 | 0.3%
+cardiorenal syndrome | 3 | 0.3%
+weight management | 3 | 0.3%
+ADA guidelines | 3 | 0.3%
+GLP-1 receptor agonists | 3 | 0.3%
+clinical_integration | 3 | 0.3%
+health communication | 3 | 0.3%
+behavioral health | 2 | 0.2%
+ADA compliance | 2 | 0.2%
+dietary management | 2 | 0.2%
+insulin pump therapy | 2 | 0.2%
+emergency_medicine | 2 | 0.2%
+guideline interpretation | 2 | 0.2%
+research_methodology | 2 | 0.2%
+basal rate adjustment | 2 | 0.2%
+glycemic monitoring | 2 | 0.2%
+family_involvement | 2 | 0.2%
+lipid guidelines | 2 | 0.2%
+medication adherence | 2 | 0.2%
+glycemic_control | 2 | 0.2%
+antepartum_care | 2 | 0.2%
+holistic care | 2 | 0.2%
+acute decompensated heart failure | 2 | 0.2%
+postprandial hyperglycemia | 2 | 0.2%
+cardiovascular risk reduction | 2 | 0.2%
+lifestyle intervention | 2 | 0.2%
+misconceptions | 2 | 0.2%
+maternal_fetal_medicine | 2 | 0.2%
+preventive screening | 2 | 0.2%
+pathophysiology | 2 | 0.2%
+clinical communication | 2 | 0.2%
+screening-guidelines | 2 | 0.2%
+bolus adjustment | 2 | 0.2%
+informed consent | 2 | 0.2%
+clinical_guidelines | 2 | 0.2%
+exercise | 2 | 0.2%
+primary prevention | 2 | 0.2%
+cardiorenal protection | 2 | 0.2%
+NDEP | 2 | 0.2%
+medical safety | 2 | 0.2%
+macrovascular | 2 | 0.2%
+patient_education | 2 | 0.2%
+medical education | 2 | 0.2%
+postprandial glucose | 2 | 0.2%
+clinical decision-making | 2 | 0.2%
+portion control | 2 | 0.2%
+ASCVD | 2 | 0.2%
+clinical monitoring | 2 | 0.2%
+aspirin | 2 | 0.2%
+monitoring | 2 | 0.2%
+medical guidelines | 1 | 0.1%
+patient autonomy | 1 | 0.1%
+maternal-fetal medicine | 1 | 0.1%
+insulin_pump | 1 | 0.1%
+long-term outcomes | 1 | 0.1%
+shared_decision_making | 1 | 0.1%
+behavioral medicine | 1 | 0.1%
+healthcare systems | 1 | 0.1%
+pregnancy | 1 | 0.1%
+patient communication | 1 | 0.1%
+PHQ-9 | 1 | 0.1%
+medication_safety | 1 | 0.1%
+insulin administration | 1 | 0.1%
+metformin in pregnancy | 1 | 0.1%
+travel_medicine | 1 | 0.1%
+therapeutic_decision_making | 1 | 0.1%
+peripheral neuropathy | 1 | 0.1%
+counterregulatory hormones | 1 | 0.1%
+lipid_management | 1 | 0.1%
+collaborative_care | 1 | 0.1%
+foot care | 1 | 0.1%
+body image | 1 | 0.1%
+information evaluation | 1 | 0.1%
+clinical integration | 1 | 0.1%
+hemoglobin A1C | 1 | 0.1%
+treatment rationale | 1 | 0.1%
+molecular profiling | 1 | 0.1%
+medical_history | 1 | 0.1%
+exercise prescription | 1 | 0.1%
+self_monitoring | 1 | 0.1%
+initial therapy | 1 | 0.1%
+diabetes_distress | 1 | 0.1%
+SGLT2 inhibitor | 1 | 0.1%
+insulin_delivery | 1 | 0.1%
+treatment urgency | 1 | 0.1%
+pre-conception counseling | 1 | 0.1%
+MRA | 1 | 0.1%
+cardiorenal | 1 | 0.1%
+disaster preparedness | 1 | 0.1%
+antepartum care | 1 | 0.1%
+comorbidity management | 1 | 0.1%
+glycemic management | 1 | 0.1%
+glycemic-control | 1 | 0.1%
+medical_evaluation | 1 | 0.1%
+glycemic_monitoring | 1 | 0.1%
+drug_interactions | 1 | 0.1%
+A1C targets | 1 | 0.1%
+microvascular complications | 1 | 0.1%
+deprescribing | 1 | 0.1%
+clinical_decision_making | 1 | 0.1%
+individualized_medicine | 1 | 0.1%
+oral-systemic health | 1 | 0.1%
+hypotension | 1 | 0.1%
+diagnostic test interpretation | 1 | 0.1%
+CBT | 1 | 0.1%
+risk reduction | 1 | 0.1%
+glycemic control | 1 | 0.1%
+transition of care | 1 | 0.1%
+acute complications | 1 | 0.1%
+health_promotion | 1 | 0.1%
+clinical research | 1 | 0.1%
+interprofessional care | 1 | 0.1%
+insulin management | 1 | 0.1%
+carbohydrate metabolism | 1 | 0.1%
+patient_adherence | 1 | 0.1%
+health advocacy | 1 | 0.1%
+smoking-cessation | 1 | 0.1%
+screening | 1 | 0.1%
+autoimmunity | 1 | 0.1%
+time_zones | 1 | 0.1%
+injection techniques | 1 | 0.1%
+acute management | 1 | 0.1%
+insulin pump management | 1 | 0.1%
+workplace safety | 1 | 0.1%
+medical knowledge | 1 | 0.1%
+patient support | 1 | 0.1%
+medical research rationale | 1 | 0.1%
+risk factor management | 1 | 0.1%
+resource identification | 1 | 0.1%
+chronic care | 1 | 0.1%
+diabetic retinopathy | 1 | 0.1%
+public health | 1 | 0.1%
+digital health | 1 | 0.1%
+GLP-1 RA | 1 | 0.1%
+biopsychosocial model | 1 | 0.1%
+preconception_counseling | 1 | 0.1%
+pancreatic_insufficiency | 1 | 0.1%
+treatment | 1 | 0.1%
+CSII | 1 | 0.1%
+clinical reasoning | 1 | 0.1%
+risk management | 1 | 0.1%
+patient activation | 1 | 0.1%
+depression | 1 | 0.1%
+A1C testing | 1 | 0.1%
+personalized medicine | 1 | 0.1%
+renal | 1 | 0.1%
+time-in-range | 1 | 0.1%
+patient_communication | 1 | 0.1%
+type_2_diabetes | 1 | 0.1%
+atherogenic dyslipidemia | 1 | 0.1%
+CDCES | 1 | 0.1%
+guideline-based care | 1 | 0.1%
+medical history | 1 | 0.1%
+immunology | 1 | 0.1%
+communication tools | 1 | 0.1%
+patient advocacy | 1 | 0.1%
+medical decision-making | 1 | 0.1%
+emergency_preparedness | 1 | 0.1%
+women's health | 1 | 0.1%
+health technology assessment | 1 | 0.1%
+blood glucose monitoring | 1 | 0.1%
+biopsychosocial | 1 | 0.1%
+confirmatory testing | 1 | 0.1%
+safety considerations | 1 | 0.1%
+symptom assessment | 1 | 0.1%
+internal medicine | 1 | 0.1%
+dental_health | 1 | 0.1%
+global health | 1 | 0.1%
+adverse effect management | 1 | 0.1%
+ophthalmology | 1 | 0.1%
+preconception counseling | 1 | 0.1%
+critical care | 1 | 0.1%
+lifestyle-medicine | 1 | 0.1%
+diagnostic classification | 1 | 0.1%
+metabolic_syndrome | 1 | 0.1%
+adjunctive therapy | 1 | 0.1%
+fasting glucose | 1 | 0.1%
+antidiabetic_agents | 1 | 0.1%
+treatment intensification | 1 | 0.1%
+hepatic metabolism | 1 | 0.1%
+patient-counseling | 1 | 0.1%
+glucose metabolism | 1 | 0.1%
+glucose_metabolism | 1 | 0.1%
+lifestyle medicine | 1 | 0.1%
+diabetic ketoacidosis | 1 | 0.1%
+disaster management | 1 | 0.1%
+patient safety | 1 | 0.1%
+professional organizations | 1 | 0.1%
+CKD | 1 | 0.1%
+limitations of biomarkers | 1 | 0.1%
+β-cell dysfunction | 1 | 0.1%
+guideline_application | 1 | 0.1%
+chronic illness management | 1 | 0.1%
+clinical_reasoning | 1 | 0.1%
+emergency_management | 1 | 0.1%
+professional certification | 1 | 0.1%
+medical terminology | 1 | 0.1%
+diagnosis | 1 | 0.1%
+basal-bolus insulin | 1 | 0.1%
+adherence | 1 | 0.1%
+multifactorial management | 1 | 0.1%
+weight_management | 1 | 0.1%
+public_health_education | 1 | 0.1%
+bidirectional_relationship | 1 | 0.1%
+individualized medicine | 1 | 0.1%
+research methodology | 1 | 0.1%
+nutrition counseling | 1 | 0.1%
+chronic disease management | 1 | 0.1%
+therapy adjustment | 1 | 0.1%
+medical management | 1 | 0.1%
+pediatrics | 1 | 0.1%
+medical_documentation | 1 | 0.1%
+guideline_based | 1 | 0.1%

@@ -1,0 +1,756 @@
+{
+  "overall": {
+    "accuracy": "45.1%",
+    "correct": 133,
+    "total": 295,
+    "wrong": 162
+  },
+  "by_type": {
+    "NOTA": {
+      "accuracy": "21.5%",
+      "correct": 14,
+      "total": 65
+    },
+    "FQT": {
+      "accuracy": "22.0%",
+      "correct": 22,
+      "total": 100
+    },
+    "FCT": {
+      "accuracy": "67.7%",
+      "correct": 44,
+      "total": 65
+    },
+    "AOTA": {
+      "accuracy": "81.5%",
+      "correct": 53,
+      "total": 65
+    }
+  },
+  "wrong_answers": {
+    "ids": [
+      "NOTA_001",
+      "NOTA_007",
+      "NOTA_011",
+      "NOTA_014",
+      "NOTA_016",
+      "NOTA_018",
+      "NOTA_019",
+      "NOTA_023",
+      "NOTA_025",
+      "NOTA_026",
+      "NOTA_027",
+      "NOTA_030",
+      "NOTA_033",
+      "NOTA_035",
+      "NOTA_036",
+      "NOTA_038",
+      "NOTA_039",
+      "NOTA_040",
+      "NOTA_041",
+      "NOTA_042",
+      "NOTA_044",
+      "NOTA_045",
+      "NOTA_046",
+      "NOTA_047",
+      "NOTA_049",
+      "NOTA_050",
+      "NOTA_052",
+      "NOTA_054",
+      "NOTA_057",
+      "NOTA_060",
+      "NOTA_061",
+      "NOTA_064",
+      "NOTA_068",
+      "NOTA_070",
+      "NOTA_071",
+      "NOTA_073",
+      "NOTA_074",
+      "NOTA_076",
+      "NOTA_078",
+      "NOTA_079",
+      "NOTA_080",
+      "NOTA_081",
+      "NOTA_083",
+      "NOTA_085",
+      "NOTA_091",
+      "NOTA_093",
+      "NOTA_094",
+      "NOTA_096",
+      "NOTA_097",
+      "NOTA_098",
+      "NOTA_099",
+      "FQT_001",
+      "FQT_002",
+      "FQT_004",
+      "FQT_005",
+      "FQT_006",
+      "FQT_007",
+      "FQT_008",
+      "FQT_009",
+      "FQT_010",
+      "FQT_012",
+      "FQT_013",
+      "FQT_014",
+      "FQT_016",
+      "FQT_018",
+      "FQT_019",
+      "FQT_022",
+      "FQT_023",
+      "FQT_024",
+      "FQT_025",
+      "FQT_026",
+      "FQT_028",
+      "FQT_029",
+      "FQT_030",
+      "FQT_031",
+      "FQT_032",
+      "FQT_033",
+      "FQT_034",
+      "FQT_036",
+      "FQT_038",
+      "FQT_039",
+      "FQT_040",
+      "FQT_041",
+      "FQT_042",
+      "FQT_043",
+      "FQT_044",
+      "FQT_045",
+      "FQT_046",
+      "FQT_047",
+      "FQT_049",
+      "FQT_052",
+      "FQT_053",
+      "FQT_054",
+      "FQT_055",
+      "FQT_057",
+      "FQT_058",
+      "FQT_060",
+      "FQT_061",
+      "FQT_062",
+      "FQT_063",
+      "FQT_064",
+      "FQT_066",
+      "FQT_067",
+      "FQT_068",
+      "FQT_069",
+      "FQT_070",
+      "FQT_072",
+      "FQT_074",
+      "FQT_075",
+      "FQT_077",
+      "FQT_078",
+      "FQT_079",
+      "FQT_081",
+      "FQT_082",
+      "FQT_083",
+      "FQT_085",
+      "FQT_086",
+      "FQT_087",
+      "FQT_088",
+      "FQT_089",
+      "FQT_090",
+      "FQT_091",
+      "FQT_092",
+      "FQT_093",
+      "FQT_094",
+      "FQT_096",
+      "FQT_098",
+      "FQT_099",
+      "FQT_100",
+      "FCT_002",
+      "FCT_011",
+      "FCT_014",
+      "FCT_019",
+      "FCT_025",
+      "FCT_033",
+      "FCT_038",
+      "FCT_039",
+      "FCT_044",
+      "FCT_048",
+      "FCT_050",
+      "FCT_051",
+      "FCT_054",
+      "FCT_064",
+      "FCT_074",
+      "FCT_079",
+      "FCT_085",
+      "FCT_089",
+      "FCT_093",
+      "FCT_095",
+      "FCT_100",
+      "AOTA_002",
+      "AOTA_028",
+      "AOTA_030",
+      "AOTA_036",
+      "AOTA_061",
+      "AOTA_067",
+      "AOTA_072",
+      "AOTA_084",
+      "AOTA_087",
+      "AOTA_088",
+      "AOTA_090",
+      "AOTA_094"
+    ],
+    "by_topic": {
+      "glycemic_control": [
+        "NOTA_001"
+      ],
+      "vaccination": [
+        "NOTA_007"
+      ],
+      "guideline interpretation": [
+        "NOTA_011",
+        "FCT_011",
+        "AOTA_028"
+      ],
+      "insulin pump therapy": [
+        "NOTA_014",
+        "FCT_014"
+      ],
+      "gestational diabetes": [
+        "NOTA_016",
+        "AOTA_036"
+      ],
+      "acute decompensated heart failure": [
+        "NOTA_018"
+      ],
+      "specialpops": [
+        "NOTA_019",
+        "FCT_019"
+      ],
+      "guideline-based management": [
+        "NOTA_023"
+      ],
+      "SGLT2 inhibitors": [
+        "NOTA_025",
+        "FCT_025"
+      ],
+      "metformin": [
+        "NOTA_026"
+      ],
+      "sulfonylureas": [
+        "NOTA_027"
+      ],
+      "emergency medicine": [
+        "NOTA_030"
+      ],
+      "retinopathy_kidney": [
+        "NOTA_033",
+        "FCT_033"
+      ],
+      "macrovascular": [
+        "NOTA_035"
+      ],
+      "GLP-1 agonist": [
+        "NOTA_036"
+      ],
+      "basal rate adjustment": [
+        "NOTA_038",
+        "FCT_038"
+      ],
+      "renal protection": [
+        "NOTA_039",
+        "FCT_039",
+        "AOTA_002"
+      ],
+      "bolus adjustment": [
+        "NOTA_040"
+      ],
+      "cardiorenal syndrome": [
+        "NOTA_041"
+      ],
+      "screening-guidelines": [
+        "NOTA_042"
+      ],
+      "cardiorenal protection": [
+        "NOTA_044",
+        "FCT_044"
+      ],
+      "type 2 diabetes management": [
+        "NOTA_045"
+      ],
+      "evidence-based medicine": [
+        "NOTA_046"
+      ],
+      "type 1 diabetes": [
+        "NOTA_047"
+      ],
+      "comorbidity": [
+        "NOTA_049"
+      ],
+      "cardiovascular risk reduction": [
+        "NOTA_050",
+        "FCT_050"
+      ],
+      "maternal_fetal_medicine": [
+        "NOTA_052"
+      ],
+      "pathophysiology": [
+        "NOTA_054",
+        "FCT_054"
+      ],
+      "antepartum_care": [
+        "NOTA_057"
+      ],
+      "ADA guidelines": [
+        "NOTA_060"
+      ],
+      "insulin storage": [
+        "NOTA_061"
+      ],
+      "hypoglycemia": [
+        "NOTA_064",
+        "FCT_064",
+        "AOTA_030",
+        "AOTA_061",
+        "AOTA_088"
+      ],
+      "pharmacology": [
+        "NOTA_068"
+      ],
+      "neuropathy": [
+        "NOTA_070"
+      ],
+      "cardiovascular risk": [
+        "NOTA_071"
+      ],
+      "preventive screening": [
+        "NOTA_073"
+      ],
+      "neuropathy_footcare": [
+        "NOTA_074",
+        "FCT_074"
+      ],
+      "nephrology": [
+        "NOTA_076",
+        "AOTA_084"
+      ],
+      "terminology": [
+        "NOTA_078"
+      ],
+      "postprandial hyperglycemia": [
+        "NOTA_079",
+        "FCT_079"
+      ],
+      "glucose monitoring": [
+        "NOTA_080"
+      ],
+      "insulin therapy": [
+        "NOTA_081"
+      ],
+      "lipid guidelines": [
+        "NOTA_083"
+      ],
+      "cardiovascular prevention": [
+        "NOTA_085",
+        "FCT_085"
+      ],
+      "GLP-1 receptor agonists": [
+        "NOTA_091"
+      ],
+      "continuous glucose monitoring": [
+        "NOTA_093",
+        "FCT_093"
+      ],
+      "obesity": [
+        "NOTA_094"
+      ],
+      "clinical_trials": [
+        "NOTA_096"
+      ],
+      "medical safety": [
+        "NOTA_097"
+      ],
+      "cardiovascular risk management": [
+        "NOTA_098"
+      ],
+      "glycemic monitoring": [
+        "NOTA_099"
+      ],
+      "Other": [
+        "FQT_001",
+        "FQT_002",
+        "FQT_004",
+        "FQT_005",
+        "FQT_006",
+        "FQT_007",
+        "FQT_008",
+        "FQT_009",
+        "FQT_010",
+        "FQT_012",
+        "FQT_013",
+        "FQT_014",
+        "FQT_016",
+        "FQT_018",
+        "FQT_019",
+        "FQT_022",
+        "FQT_023",
+        "FQT_024",
+        "FQT_025",
+        "FQT_026",
+        "FQT_028",
+        "FQT_029",
+        "FQT_030",
+        "FQT_031",
+        "FQT_032",
+        "FQT_033",
+        "FQT_034",
+        "FQT_036",
+        "FQT_038",
+        "FQT_039",
+        "FQT_040",
+        "FQT_041",
+        "FQT_042",
+        "FQT_043",
+        "FQT_044",
+        "FQT_045",
+        "FQT_046",
+        "FQT_047",
+        "FQT_049",
+        "FQT_052",
+        "FQT_053",
+        "FQT_054",
+        "FQT_055",
+        "FQT_057",
+        "FQT_058",
+        "FQT_060",
+        "FQT_061",
+        "FQT_062",
+        "FQT_063",
+        "FQT_064",
+        "FQT_066",
+        "FQT_067",
+        "FQT_068",
+        "FQT_069",
+        "FQT_070",
+        "FQT_072",
+        "FQT_074",
+        "FQT_075",
+        "FQT_077",
+        "FQT_078",
+        "FQT_079",
+        "FQT_081",
+        "FQT_082",
+        "FQT_083",
+        "FQT_085",
+        "FQT_086",
+        "FQT_087",
+        "FQT_088",
+        "FQT_089",
+        "FQT_090",
+        "FQT_091",
+        "FQT_092",
+        "FQT_093",
+        "FQT_094",
+        "FQT_096",
+        "FQT_098",
+        "FQT_099",
+        "FQT_100"
+      ],
+      "SMBG": [
+        "FCT_002"
+      ],
+      "medication safety": [
+        "FCT_048"
+      ],
+      "aspirin therapy": [
+        "FCT_051"
+      ],
+      "acute_hospital": [
+        "FCT_089"
+      ],
+      "chronic_kidney_disease": [
+        "FCT_095"
+      ],
+      "primary prevention": [
+        "FCT_100"
+      ],
+      "insulin administration": [
+        "AOTA_067"
+      ],
+      "insulin pump": [
+        "AOTA_072"
+      ],
+      "peripheral neuropathy": [
+        "AOTA_087"
+      ],
+      "lipid_management": [
+        "AOTA_090"
+      ],
+      "type 2 diabetes": [
+        "AOTA_094"
+      ]
+    }
+  },
+  "analysis": {
+    "pred_vs_label": {
+      "A->D": 70,
+      "C->D": 32,
+      "B->D": 34,
+      "C->B": 5,
+      "D->B": 4,
+      "D->C": 2,
+      "B->C": 3,
+      "B->A": 3,
+      "C->A": 5,
+      "A->C": 2,
+      "D->A": 1,
+      "A->B": 1
+    },
+    "wrong_by_difficulty": {
+      "0.7": 39,
+      "0.55": 9,
+      "0.4": 23,
+      "0.85": 2,
+      "0.6": 4,
+      "0.8": 2,
+      "0.45": 3,
+      "0": 78,
+      "0.65": 1,
+      "0.75": 1
+    },
+    "hardest_topics": [
+      {
+        "topic": "Other",
+        "wrong_count": 78,
+        "ids": [
+          "FQT_001",
+          "FQT_002",
+          "FQT_004",
+          "FQT_005",
+          "FQT_006",
+          "FQT_007",
+          "FQT_008",
+          "FQT_009",
+          "FQT_010",
+          "FQT_012",
+          "FQT_013",
+          "FQT_014",
+          "FQT_016",
+          "FQT_018",
+          "FQT_019",
+          "FQT_022",
+          "FQT_023",
+          "FQT_024",
+          "FQT_025",
+          "FQT_026",
+          "FQT_028",
+          "FQT_029",
+          "FQT_030",
+          "FQT_031",
+          "FQT_032",
+          "FQT_033",
+          "FQT_034",
+          "FQT_036",
+          "FQT_038",
+          "FQT_039",
+          "FQT_040",
+          "FQT_041",
+          "FQT_042",
+          "FQT_043",
+          "FQT_044",
+          "FQT_045",
+          "FQT_046",
+          "FQT_047",
+          "FQT_049",
+          "FQT_052",
+          "FQT_053",
+          "FQT_054",
+          "FQT_055",
+          "FQT_057",
+          "FQT_058",
+          "FQT_060",
+          "FQT_061",
+          "FQT_062",
+          "FQT_063",
+          "FQT_064",
+          "FQT_066",
+          "FQT_067",
+          "FQT_068",
+          "FQT_069",
+          "FQT_070",
+          "FQT_072",
+          "FQT_074",
+          "FQT_075",
+          "FQT_077",
+          "FQT_078",
+          "FQT_079",
+          "FQT_081",
+          "FQT_082",
+          "FQT_083",
+          "FQT_085",
+          "FQT_086",
+          "FQT_087",
+          "FQT_088",
+          "FQT_089",
+          "FQT_090",
+          "FQT_091",
+          "FQT_092",
+          "FQT_093",
+          "FQT_094",
+          "FQT_096",
+          "FQT_098",
+          "FQT_099",
+          "FQT_100"
+        ]
+      },
+      {
+        "topic": "hypoglycemia",
+        "wrong_count": 5,
+        "ids": [
+          "NOTA_064",
+          "FCT_064",
+          "AOTA_030",
+          "AOTA_061",
+          "AOTA_088"
+        ]
+      },
+      {
+        "topic": "guideline interpretation",
+        "wrong_count": 3,
+        "ids": [
+          "NOTA_011",
+          "FCT_011",
+          "AOTA_028"
+        ]
+      },
+      {
+        "topic": "renal protection",
+        "wrong_count": 3,
+        "ids": [
+          "NOTA_039",
+          "FCT_039",
+          "AOTA_002"
+        ]
+      },
+      {
+        "topic": "insulin pump therapy",
+        "wrong_count": 2,
+        "ids": [
+          "NOTA_014",
+          "FCT_014"
+        ]
+      },
+      {
+        "topic": "gestational diabetes",
+        "wrong_count": 2,
+        "ids": [
+          "NOTA_016",
+          "AOTA_036"
+        ]
+      },
+      {
+        "topic": "specialpops",
+        "wrong_count": 2,
+        "ids": [
+          "NOTA_019",
+          "FCT_019"
+        ]
+      },
+      {
+        "topic": "SGLT2 inhibitors",
+        "wrong_count": 2,
+        "ids": [
+          "NOTA_025",
+          "FCT_025"
+        ]
+      },
+      {
+        "topic": "retinopathy_kidney",
+        "wrong_count": 2,
+        "ids": [
+          "NOTA_033",
+          "FCT_033"
+        ]
+      },
+      {
+        "topic": "basal rate adjustment",
+        "wrong_count": 2,
+        "ids": [
+          "NOTA_038",
+          "FCT_038"
+        ]
+      },
+      {
+        "topic": "cardiorenal protection",
+        "wrong_count": 2,
+        "ids": [
+          "NOTA_044",
+          "FCT_044"
+        ]
+      },
+      {
+        "topic": "cardiovascular risk reduction",
+        "wrong_count": 2,
+        "ids": [
+          "NOTA_050",
+          "FCT_050"
+        ]
+      },
+      {
+        "topic": "pathophysiology",
+        "wrong_count": 2,
+        "ids": [
+          "NOTA_054",
+          "FCT_054"
+        ]
+      },
+      {
+        "topic": "neuropathy_footcare",
+        "wrong_count": 2,
+        "ids": [
+          "NOTA_074",
+          "FCT_074"
+        ]
+      },
+      {
+        "topic": "nephrology",
+        "wrong_count": 2,
+        "ids": [
+          "NOTA_076",
+          "AOTA_084"
+        ]
+      },
+      {
+        "topic": "postprandial hyperglycemia",
+        "wrong_count": 2,
+        "ids": [
+          "NOTA_079",
+          "FCT_079"
+        ]
+      },
+      {
+        "topic": "cardiovascular prevention",
+        "wrong_count": 2,
+        "ids": [
+          "NOTA_085",
+          "FCT_085"
+        ]
+      },
+      {
+        "topic": "continuous glucose monitoring",
+        "wrong_count": 2,
+        "ids": [
+          "NOTA_093",
+          "FCT_093"
+        ]
+      },
+      {
+        "topic": "glycemic_control",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_001"
+        ]
+      },
+      {
+        "topic": "vaccination",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_007"
+        ]
+      }
+    ]
+  },
+  "model": "deepseek-r1_7b"
+}

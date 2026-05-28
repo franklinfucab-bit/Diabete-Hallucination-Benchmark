@@ -1,0 +1,542 @@
+{
+  "overall": {
+    "accuracy": "70.7%",
+    "correct": 212,
+    "total": 300,
+    "wrong": 88
+  },
+  "by_type": {
+    "NOTA": {
+      "accuracy": "27.0%",
+      "correct": 27,
+      "total": 100
+    },
+    "FQT": {
+      "accuracy": "94.0%",
+      "correct": 94,
+      "total": 100
+    },
+    "FCT": {
+      "accuracy": "91.0%",
+      "correct": 91,
+      "total": 100
+    }
+  },
+  "wrong_answers": {
+    "ids": [
+      "NOTA_001",
+      "NOTA_003",
+      "NOTA_004",
+      "NOTA_005",
+      "NOTA_006",
+      "NOTA_007",
+      "NOTA_008",
+      "NOTA_009",
+      "NOTA_010",
+      "NOTA_012",
+      "NOTA_015",
+      "NOTA_016",
+      "NOTA_017",
+      "NOTA_018",
+      "NOTA_019",
+      "NOTA_021",
+      "NOTA_022",
+      "NOTA_023",
+      "NOTA_025",
+      "NOTA_026",
+      "NOTA_028",
+      "NOTA_029",
+      "NOTA_033",
+      "NOTA_036",
+      "NOTA_037",
+      "NOTA_038",
+      "NOTA_039",
+      "NOTA_040",
+      "NOTA_043",
+      "NOTA_044",
+      "NOTA_045",
+      "NOTA_046",
+      "NOTA_047",
+      "NOTA_049",
+      "NOTA_050",
+      "NOTA_051",
+      "NOTA_052",
+      "NOTA_054",
+      "NOTA_056",
+      "NOTA_057",
+      "NOTA_059",
+      "NOTA_060",
+      "NOTA_061",
+      "NOTA_063",
+      "NOTA_064",
+      "NOTA_065",
+      "NOTA_066",
+      "NOTA_067",
+      "NOTA_068",
+      "NOTA_069",
+      "NOTA_070",
+      "NOTA_071",
+      "NOTA_072",
+      "NOTA_073",
+      "NOTA_074",
+      "NOTA_075",
+      "NOTA_076",
+      "NOTA_077",
+      "NOTA_078",
+      "NOTA_080",
+      "NOTA_081",
+      "NOTA_082",
+      "NOTA_083",
+      "NOTA_084",
+      "NOTA_086",
+      "NOTA_089",
+      "NOTA_090",
+      "NOTA_091",
+      "NOTA_093",
+      "NOTA_094",
+      "NOTA_095",
+      "NOTA_097",
+      "NOTA_098",
+      "FQT_006",
+      "FQT_026",
+      "FQT_034",
+      "FQT_049",
+      "FQT_074",
+      "FQT_082",
+      "FCT_002",
+      "FCT_011",
+      "FCT_030",
+      "FCT_033",
+      "FCT_039",
+      "FCT_054",
+      "FCT_064",
+      "FCT_074",
+      "FCT_093"
+    ],
+    "by_topic": {
+      "Neuropathic pain and diabetes": [
+        "NOTA_001"
+      ],
+      "monogenic diabetes": [
+        "NOTA_003"
+      ],
+      "glycemic targets": [
+        "NOTA_004"
+      ],
+      "MODY maturity-onset diabetes of the young": [
+        "NOTA_005"
+      ],
+      "treatment guidelines": [
+        "NOTA_006"
+      ],
+      "phlebotomy": [
+        "NOTA_007"
+      ],
+      "Autonomic neuropathy orthostatic hypotension": [
+        "NOTA_008"
+      ],
+      "Proliferative retinopathy laser vs Anti-VEGF": [
+        "NOTA_009"
+      ],
+      "SGLT2 inhibitors": [
+        "NOTA_010"
+      ],
+      "sensor interference": [
+        "NOTA_012"
+      ],
+      "clinical management": [
+        "NOTA_015"
+      ],
+      "hypoglycemia": [
+        "NOTA_016"
+      ],
+      "pharmacology": [
+        "NOTA_017"
+      ],
+      "Semaglutide and retinopathy SUSTAIN-6 signal": [
+        "NOTA_018"
+      ],
+      "emergency_medicine": [
+        "NOTA_019"
+      ],
+      "type 1 diabetes": [
+        "NOTA_021"
+      ],
+      "treatment_guidelines": [
+        "NOTA_022"
+      ],
+      "hydration": [
+        "NOTA_023"
+      ],
+      "Wagner classification": [
+        "NOTA_025"
+      ],
+      "GLP-1 receptor agonists and gastroparesis contraindication": [
+        "NOTA_026"
+      ],
+      "type 2 diabetes": [
+        "NOTA_028"
+      ],
+      "SGLT2 inhibitors in CKD with proteinuria": [
+        "NOTA_029"
+      ],
+      "LADA latent autoimmune diabetes misdiagnosed as type 2": [
+        "NOTA_033"
+      ],
+      "gestational diabetes": [
+        "NOTA_036"
+      ],
+      "insulin": [
+        "NOTA_037"
+      ],
+      "Gastroparesis and diabetic neuropathy": [
+        "NOTA_038"
+      ],
+      "clinical guidelines": [
+        "NOTA_039"
+      ],
+      "time-in-range": [
+        "NOTA_040"
+      ],
+      "patient_education": [
+        "NOTA_043"
+      ],
+      "CGM technology: Acetaminophen interference with CGM": [
+        "NOTA_044"
+      ],
+      "PDR": [
+        "NOTA_045"
+      ],
+      "panretinal-photocoagulation": [
+        "NOTA_046"
+      ],
+      "necrobiosis-lipoidica": [
+        "NOTA_047"
+      ],
+      "SGLT2 inhibitors in heart failure HFpEF": [
+        "NOTA_049"
+      ],
+      "geriatrics": [
+        "NOTA_050"
+      ],
+      "CGM": [
+        "NOTA_051"
+      ],
+      "neurology": [
+        "NOTA_052"
+      ],
+      "adverse_effects": [
+        "NOTA_054"
+      ],
+      "Steroid-induced hyperglycemia": [
+        "NOTA_056"
+      ],
+      "acute kidney injury": [
+        "NOTA_057"
+      ],
+      "Hypoglycemia management": [
+        "NOTA_059",
+        "FCT_064"
+      ],
+      "Diabetic retinopathy screening": [
+        "NOTA_060"
+      ],
+      "Euglycemic diabetic ketoacidosis with SGLT2": [
+        "NOTA_061"
+      ],
+      "gastroparesis": [
+        "NOTA_063"
+      ],
+      "cardiology": [
+        "NOTA_064"
+      ],
+      "clinical_trials": [
+        "NOTA_065"
+      ],
+      "Fournier's gangrene": [
+        "NOTA_066"
+      ],
+      "Insulin pump management": [
+        "NOTA_067",
+        "FCT_093"
+      ],
+      "screening": [
+        "NOTA_068"
+      ],
+      "diabetic foot ulcer": [
+        "NOTA_069"
+      ],
+      "GLP-1 in cardiovascular outcomes": [
+        "NOTA_070"
+      ],
+      "LADA vs type 2 differential": [
+        "NOTA_071"
+      ],
+      "Hemochromatosis bronze diabetes": [
+        "NOTA_072"
+      ],
+      "Type 2 diabetes initial treatment": [
+        "NOTA_073"
+      ],
+      "interference": [
+        "NOTA_074"
+      ],
+      "pharmacotherapy": [
+        "NOTA_075"
+      ],
+      "Diabetic foot: Charcot foot diagnosis": [
+        "NOTA_076"
+      ],
+      "Rare complications: Gastroparesis and GLP-1 contraindication": [
+        "NOTA_077"
+      ],
+      "insulin-pump": [
+        "NOTA_078"
+      ],
+      "Fournier_gangrene": [
+        "NOTA_080"
+      ],
+      "clinical_reasoning": [
+        "NOTA_081"
+      ],
+      "FDA warning": [
+        "NOTA_082"
+      ],
+      "Fournier's gangrene and SGLT2 inhibitors": [
+        "NOTA_083"
+      ],
+      "Proliferative diabetic retinopathy Anti-VEGF": [
+        "NOTA_084"
+      ],
+      "contraindications": [
+        "NOTA_086"
+      ],
+      "renal-function": [
+        "NOTA_089"
+      ],
+      "type1": [
+        "NOTA_090"
+      ],
+      "patient_safety": [
+        "NOTA_091"
+      ],
+      "Gestational diabetes: time in range targets in GDM": [
+        "NOTA_093"
+      ],
+      "CKD proteinuria and SGLT2": [
+        "NOTA_094"
+      ],
+      "Diabetic foot: Wagner grade classification": [
+        "NOTA_095"
+      ],
+      "guidelines": [
+        "NOTA_097"
+      ],
+      "medical devices": [
+        "NOTA_098"
+      ],
+      "Retinopathy_Kidney": [
+        "FQT_006",
+        "FQT_034",
+        "FQT_074"
+      ],
+      "SpecialPops": [
+        "FQT_026",
+        "FQT_049"
+      ],
+      "Neuropathy_FootCare": [
+        "FQT_082"
+      ],
+      "Blood glucose monitoring": [
+        "FCT_002"
+      ],
+      "Diabetes and cardiovascular risk": [
+        "FCT_011"
+      ],
+      "emergency medicine": [
+        "FCT_030"
+      ],
+      "Diabetic Retinopathy & Kidney Disease": [
+        "FCT_033"
+      ],
+      "Diabetes with heart failure; SGLT2i, drug interactions, volume status": [
+        "FCT_039"
+      ],
+      "pathophysiology": [
+        "FCT_054"
+      ],
+      "Diabetic Neuropathy & Foot Care": [
+        "FCT_074"
+      ]
+    }
+  },
+  "analysis": {
+    "pred_vs_label": {
+      "A->D": 35,
+      "B->D": 38,
+      "C->D": 10,
+      "D->C": 2,
+      "B->C": 1,
+      "C->A": 1,
+      "D->B": 1
+    },
+    "wrong_by_difficulty": {
+      "0.65": 11,
+      "0.8": 2,
+      "0.75": 59,
+      "0.85": 3,
+      "0": 6,
+      "0.7": 4,
+      "0.4": 2,
+      "0.55": 1
+    },
+    "hardest_topics": [
+      {
+        "topic": "Retinopathy_Kidney",
+        "wrong_count": 3,
+        "ids": [
+          "FQT_006",
+          "FQT_034",
+          "FQT_074"
+        ]
+      },
+      {
+        "topic": "Hypoglycemia management",
+        "wrong_count": 2,
+        "ids": [
+          "NOTA_059",
+          "FCT_064"
+        ]
+      },
+      {
+        "topic": "Insulin pump management",
+        "wrong_count": 2,
+        "ids": [
+          "NOTA_067",
+          "FCT_093"
+        ]
+      },
+      {
+        "topic": "SpecialPops",
+        "wrong_count": 2,
+        "ids": [
+          "FQT_026",
+          "FQT_049"
+        ]
+      },
+      {
+        "topic": "Neuropathic pain and diabetes",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_001"
+        ]
+      },
+      {
+        "topic": "monogenic diabetes",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_003"
+        ]
+      },
+      {
+        "topic": "glycemic targets",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_004"
+        ]
+      },
+      {
+        "topic": "MODY maturity-onset diabetes of the young",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_005"
+        ]
+      },
+      {
+        "topic": "treatment guidelines",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_006"
+        ]
+      },
+      {
+        "topic": "phlebotomy",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_007"
+        ]
+      },
+      {
+        "topic": "Autonomic neuropathy orthostatic hypotension",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_008"
+        ]
+      },
+      {
+        "topic": "Proliferative retinopathy laser vs Anti-VEGF",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_009"
+        ]
+      },
+      {
+        "topic": "SGLT2 inhibitors",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_010"
+        ]
+      },
+      {
+        "topic": "sensor interference",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_012"
+        ]
+      },
+      {
+        "topic": "clinical management",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_015"
+        ]
+      },
+      {
+        "topic": "hypoglycemia",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_016"
+        ]
+      },
+      {
+        "topic": "pharmacology",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_017"
+        ]
+      },
+      {
+        "topic": "Semaglutide and retinopathy SUSTAIN-6 signal",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_018"
+        ]
+      },
+      {
+        "topic": "emergency_medicine",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_019"
+        ]
+      },
+      {
+        "topic": "type 1 diabetes",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_021"
+        ]
+      }
+    ]
+  },
+  "model": "qwen2.5_7b"
+}

@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "model": "Llama-3-8B",
+        "date_analyzed": "2026-02-03 09:43:02",
+        "dataset": "MedHalt-Diabetes-Combined",
+        "total_questions": 2962
+    },
+    "overall_performance": {
+        "accuracy": "65.29%",
+        "correct_count": 1934,
+        "error_count": 1028
+    },
+    "task_breakdown": {
+        "FCT": {
+            "accuracy": "69.96%",
+            "correct": 673,
+            "total": 962
+        },
+        "NOTA": {
+            "accuracy": "39.50%",
+            "correct": 395,
+            "total": 1000
+        },
+        "FQT": {
+            "accuracy": "86.60%",
+            "correct": 866,
+            "total": 1000
+        }
+    }
+}

@@ -1,0 +1,653 @@
+{
+  "overall": {
+    "accuracy": "61.3%",
+    "correct": 184,
+    "total": 300,
+    "wrong": 116
+  },
+  "by_type": {
+    "NOTA": {
+      "accuracy": "14.0%",
+      "correct": 14,
+      "total": 100
+    },
+    "FQT": {
+      "accuracy": "97.0%",
+      "correct": 97,
+      "total": 100
+    },
+    "FCT": {
+      "accuracy": "73.0%",
+      "correct": 73,
+      "total": 100
+    }
+  },
+  "wrong_answers": {
+    "ids": [
+      "NOTA_001",
+      "NOTA_002",
+      "NOTA_003",
+      "NOTA_004",
+      "NOTA_005",
+      "NOTA_006",
+      "NOTA_007",
+      "NOTA_008",
+      "NOTA_010",
+      "NOTA_011",
+      "NOTA_012",
+      "NOTA_013",
+      "NOTA_014",
+      "NOTA_015",
+      "NOTA_016",
+      "NOTA_017",
+      "NOTA_019",
+      "NOTA_020",
+      "NOTA_021",
+      "NOTA_022",
+      "NOTA_023",
+      "NOTA_024",
+      "NOTA_025",
+      "NOTA_026",
+      "NOTA_028",
+      "NOTA_029",
+      "NOTA_030",
+      "NOTA_031",
+      "NOTA_032",
+      "NOTA_033",
+      "NOTA_036",
+      "NOTA_037",
+      "NOTA_038",
+      "NOTA_039",
+      "NOTA_040",
+      "NOTA_041",
+      "NOTA_042",
+      "NOTA_045",
+      "NOTA_046",
+      "NOTA_047",
+      "NOTA_050",
+      "NOTA_051",
+      "NOTA_052",
+      "NOTA_053",
+      "NOTA_054",
+      "NOTA_055",
+      "NOTA_057",
+      "NOTA_058",
+      "NOTA_059",
+      "NOTA_060",
+      "NOTA_061",
+      "NOTA_063",
+      "NOTA_064",
+      "NOTA_065",
+      "NOTA_066",
+      "NOTA_067",
+      "NOTA_068",
+      "NOTA_069",
+      "NOTA_070",
+      "NOTA_071",
+      "NOTA_072",
+      "NOTA_073",
+      "NOTA_074",
+      "NOTA_075",
+      "NOTA_076",
+      "NOTA_077",
+      "NOTA_078",
+      "NOTA_080",
+      "NOTA_081",
+      "NOTA_082",
+      "NOTA_083",
+      "NOTA_084",
+      "NOTA_085",
+      "NOTA_086",
+      "NOTA_087",
+      "NOTA_088",
+      "NOTA_090",
+      "NOTA_091",
+      "NOTA_092",
+      "NOTA_093",
+      "NOTA_094",
+      "NOTA_095",
+      "NOTA_096",
+      "NOTA_097",
+      "NOTA_098",
+      "NOTA_100",
+      "FQT_034",
+      "FQT_049",
+      "FQT_086",
+      "FCT_002",
+      "FCT_010",
+      "FCT_011",
+      "FCT_012",
+      "FCT_021",
+      "FCT_025",
+      "FCT_032",
+      "FCT_033",
+      "FCT_034",
+      "FCT_038",
+      "FCT_039",
+      "FCT_041",
+      "FCT_043",
+      "FCT_048",
+      "FCT_049",
+      "FCT_050",
+      "FCT_052",
+      "FCT_053",
+      "FCT_054",
+      "FCT_055",
+      "FCT_061",
+      "FCT_064",
+      "FCT_070",
+      "FCT_074",
+      "FCT_075",
+      "FCT_079",
+      "FCT_093"
+    ],
+    "by_topic": {
+      "Neuropathic pain and diabetes": [
+        "NOTA_001"
+      ],
+      "erectile_dysfunction": [
+        "NOTA_002"
+      ],
+      "monogenic diabetes": [
+        "NOTA_003"
+      ],
+      "glycemic targets": [
+        "NOTA_004"
+      ],
+      "MODY maturity-onset diabetes of the young": [
+        "NOTA_005"
+      ],
+      "treatment guidelines": [
+        "NOTA_006"
+      ],
+      "phlebotomy": [
+        "NOTA_007"
+      ],
+      "Autonomic neuropathy orthostatic hypotension": [
+        "NOTA_008"
+      ],
+      "SGLT2 inhibitors": [
+        "NOTA_010"
+      ],
+      "endocrinology": [
+        "NOTA_011"
+      ],
+      "sensor interference": [
+        "NOTA_012"
+      ],
+      "genetic testing": [
+        "NOTA_013"
+      ],
+      "CKD": [
+        "NOTA_014"
+      ],
+      "clinical management": [
+        "NOTA_015"
+      ],
+      "hypoglycemia": [
+        "NOTA_016"
+      ],
+      "pharmacology": [
+        "NOTA_017"
+      ],
+      "emergency_medicine": [
+        "NOTA_019",
+        "FCT_075"
+      ],
+      "SGLT2 and acute kidney injury / volume depletion": [
+        "NOTA_020"
+      ],
+      "type 1 diabetes": [
+        "NOTA_021"
+      ],
+      "treatment_guidelines": [
+        "NOTA_022"
+      ],
+      "hydration": [
+        "NOTA_023"
+      ],
+      "Rare complications: Necrobiosis lipoidica": [
+        "NOTA_024"
+      ],
+      "Wagner classification": [
+        "NOTA_025"
+      ],
+      "GLP-1 receptor agonists and gastroparesis contraindication": [
+        "NOTA_026"
+      ],
+      "type 2 diabetes": [
+        "NOTA_028"
+      ],
+      "SGLT2 inhibitors in CKD with proteinuria": [
+        "NOTA_029"
+      ],
+      "Steroid-induced diabetes management": [
+        "NOTA_030"
+      ],
+      "clinical-reasoning": [
+        "NOTA_031"
+      ],
+      "Cardiovascular autonomic neuropathy": [
+        "NOTA_032"
+      ],
+      "LADA latent autoimmune diabetes misdiagnosed as type 2": [
+        "NOTA_033"
+      ],
+      "gestational diabetes": [
+        "NOTA_036"
+      ],
+      "insulin": [
+        "NOTA_037"
+      ],
+      "Gastroparesis and diabetic neuropathy": [
+        "NOTA_038"
+      ],
+      "clinical guidelines": [
+        "NOTA_039"
+      ],
+      "time-in-range": [
+        "NOTA_040"
+      ],
+      "internal medicine": [
+        "NOTA_041"
+      ],
+      "HFpEF and diabetes pharmacotherapy": [
+        "NOTA_042"
+      ],
+      "PDR": [
+        "NOTA_045"
+      ],
+      "panretinal-photocoagulation": [
+        "NOTA_046"
+      ],
+      "necrobiosis-lipoidica": [
+        "NOTA_047"
+      ],
+      "geriatrics": [
+        "NOTA_050"
+      ],
+      "CGM": [
+        "NOTA_051"
+      ],
+      "neurology": [
+        "NOTA_052"
+      ],
+      "autoimmune": [
+        "NOTA_053"
+      ],
+      "adverse_effects": [
+        "NOTA_054"
+      ],
+      "Gestational diabetes: metformin safety in pregnancy": [
+        "NOTA_055"
+      ],
+      "acute kidney injury": [
+        "NOTA_057"
+      ],
+      "sick-day management": [
+        "NOTA_058",
+        "FCT_010"
+      ],
+      "Hypoglycemia management": [
+        "NOTA_059",
+        "FCT_064"
+      ],
+      "Diabetic retinopathy screening": [
+        "NOTA_060"
+      ],
+      "Euglycemic diabetic ketoacidosis with SGLT2": [
+        "NOTA_061"
+      ],
+      "gastroparesis": [
+        "NOTA_063"
+      ],
+      "cardiology": [
+        "NOTA_064"
+      ],
+      "clinical_trials": [
+        "NOTA_065"
+      ],
+      "Fournier's gangrene": [
+        "NOTA_066"
+      ],
+      "Insulin pump management": [
+        "NOTA_067",
+        "FCT_038",
+        "FCT_079",
+        "FCT_093"
+      ],
+      "screening": [
+        "NOTA_068"
+      ],
+      "diabetic foot ulcer": [
+        "NOTA_069"
+      ],
+      "GLP-1 in cardiovascular outcomes": [
+        "NOTA_070"
+      ],
+      "LADA vs type 2 differential": [
+        "NOTA_071"
+      ],
+      "Hemochromatosis bronze diabetes": [
+        "NOTA_072"
+      ],
+      "Type 2 diabetes initial treatment": [
+        "NOTA_073"
+      ],
+      "interference": [
+        "NOTA_074"
+      ],
+      "pharmacotherapy": [
+        "NOTA_075"
+      ],
+      "Diabetic foot: Charcot foot diagnosis": [
+        "NOTA_076"
+      ],
+      "Rare complications: Gastroparesis and GLP-1 contraindication": [
+        "NOTA_077"
+      ],
+      "insulin-pump": [
+        "NOTA_078"
+      ],
+      "Fournier_gangrene": [
+        "NOTA_080"
+      ],
+      "clinical_reasoning": [
+        "NOTA_081"
+      ],
+      "FDA warning": [
+        "NOTA_082"
+      ],
+      "Fournier's gangrene and SGLT2 inhibitors": [
+        "NOTA_083"
+      ],
+      "Proliferative diabetic retinopathy Anti-VEGF": [
+        "NOTA_084"
+      ],
+      "diagnostic approach": [
+        "NOTA_085"
+      ],
+      "contraindications": [
+        "NOTA_086"
+      ],
+      "management": [
+        "NOTA_087"
+      ],
+      "type1-diabetes": [
+        "NOTA_088"
+      ],
+      "type1": [
+        "NOTA_090"
+      ],
+      "patient_safety": [
+        "NOTA_091"
+      ],
+      "MODY genetic testing": [
+        "NOTA_092"
+      ],
+      "Gestational diabetes: time in range targets in GDM": [
+        "NOTA_093"
+      ],
+      "CKD proteinuria and SGLT2": [
+        "NOTA_094"
+      ],
+      "Diabetic foot: Wagner grade classification": [
+        "NOTA_095"
+      ],
+      "Fournier-gangrene": [
+        "NOTA_096"
+      ],
+      "guidelines": [
+        "NOTA_097"
+      ],
+      "medical devices": [
+        "NOTA_098"
+      ],
+      "acute illness management": [
+        "NOTA_100"
+      ],
+      "Retinopathy_Kidney": [
+        "FQT_034"
+      ],
+      "SpecialPops": [
+        "FQT_049",
+        "FQT_086"
+      ],
+      "Blood glucose monitoring": [
+        "FCT_002"
+      ],
+      "Diabetes and cardiovascular risk": [
+        "FCT_011"
+      ],
+      "Psychosocial factors in diabetes; depression, health literacy, social support": [
+        "FCT_012",
+        "FCT_049"
+      ],
+      "clinical trials": [
+        "FCT_021"
+      ],
+      "Diabetes with heart failure; SGLT2i, drug interactions, volume status": [
+        "FCT_025",
+        "FCT_039",
+        "FCT_041"
+      ],
+      "preventive_care": [
+        "FCT_032"
+      ],
+      "Diabetic Retinopathy & Kidney Disease": [
+        "FCT_033"
+      ],
+      "patient-centered care": [
+        "FCT_034"
+      ],
+      "psychosocial aspects": [
+        "FCT_043"
+      ],
+      "Diabetes and chronic kidney disease (CKD); medication adjustment, monitoring": [
+        "FCT_048"
+      ],
+      "Diabetes complications prevention": [
+        "FCT_050"
+      ],
+      "maternal_fetal_medicine": [
+        "FCT_052"
+      ],
+      "Diabetes lifestyle management": [
+        "FCT_053"
+      ],
+      "pathophysiology": [
+        "FCT_054"
+      ],
+      "health_literacy": [
+        "FCT_055"
+      ],
+      "insulin storage": [
+        "FCT_061"
+      ],
+      "neuropathy": [
+        "FCT_070"
+      ],
+      "Diabetic Neuropathy & Foot Care": [
+        "FCT_074"
+      ]
+    }
+  },
+  "analysis": {
+    "pred_vs_label": {
+      "C->D": 30,
+      "B->D": 29,
+      "A->D": 38,
+      "N/A->D": 2,
+      "D->C": 3,
+      "A->B": 1,
+      "D->A": 6,
+      "B->C": 3,
+      "N/A->C": 1,
+      "D->B": 2,
+      "C->A": 1
+    },
+    "wrong_by_difficulty": {
+      "0.65": 12,
+      "0.75": 71,
+      "0.8": 2,
+      "0.85": 3,
+      "0": 3,
+      "0.7": 10,
+      "0.4": 11,
+      "0.55": 4
+    },
+    "hardest_topics": [
+      {
+        "topic": "Insulin pump management",
+        "wrong_count": 4,
+        "ids": [
+          "NOTA_067",
+          "FCT_038",
+          "FCT_079",
+          "FCT_093"
+        ]
+      },
+      {
+        "topic": "Diabetes with heart failure; SGLT2i, drug interactions, volume status",
+        "wrong_count": 3,
+        "ids": [
+          "FCT_025",
+          "FCT_039",
+          "FCT_041"
+        ]
+      },
+      {
+        "topic": "emergency_medicine",
+        "wrong_count": 2,
+        "ids": [
+          "NOTA_019",
+          "FCT_075"
+        ]
+      },
+      {
+        "topic": "sick-day management",
+        "wrong_count": 2,
+        "ids": [
+          "NOTA_058",
+          "FCT_010"
+        ]
+      },
+      {
+        "topic": "Hypoglycemia management",
+        "wrong_count": 2,
+        "ids": [
+          "NOTA_059",
+          "FCT_064"
+        ]
+      },
+      {
+        "topic": "SpecialPops",
+        "wrong_count": 2,
+        "ids": [
+          "FQT_049",
+          "FQT_086"
+        ]
+      },
+      {
+        "topic": "Psychosocial factors in diabetes; depression, health literacy, social support",
+        "wrong_count": 2,
+        "ids": [
+          "FCT_012",
+          "FCT_049"
+        ]
+      },
+      {
+        "topic": "Neuropathic pain and diabetes",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_001"
+        ]
+      },
+      {
+        "topic": "erectile_dysfunction",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_002"
+        ]
+      },
+      {
+        "topic": "monogenic diabetes",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_003"
+        ]
+      },
+      {
+        "topic": "glycemic targets",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_004"
+        ]
+      },
+      {
+        "topic": "MODY maturity-onset diabetes of the young",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_005"
+        ]
+      },
+      {
+        "topic": "treatment guidelines",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_006"
+        ]
+      },
+      {
+        "topic": "phlebotomy",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_007"
+        ]
+      },
+      {
+        "topic": "Autonomic neuropathy orthostatic hypotension",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_008"
+        ]
+      },
+      {
+        "topic": "SGLT2 inhibitors",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_010"
+        ]
+      },
+      {
+        "topic": "endocrinology",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_011"
+        ]
+      },
+      {
+        "topic": "sensor interference",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_012"
+        ]
+      },
+      {
+        "topic": "genetic testing",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_013"
+        ]
+      },
+      {
+        "topic": "CKD",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_014"
+        ]
+      }
+    ]
+  },
+  "model": "llama3.1_8b"
+}

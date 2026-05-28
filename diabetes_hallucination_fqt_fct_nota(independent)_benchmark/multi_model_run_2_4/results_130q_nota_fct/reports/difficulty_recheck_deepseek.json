@@ -1,0 +1,310 @@
+{
+  "difficulty_recheck": [
+    {
+      "id": "NOTA_011",
+      "current_difficulty": 0.7,
+      "models_correct_pct": 75.0,
+      "reason": "labeled_hard_but_easy",
+      "suggested_difficulty": 0.25,
+      "raw_response": "DIFFICULTY: 0.25",
+      "error": null
+    },
+    {
+      "id": "NOTA_014",
+      "current_difficulty": 0.4,
+      "models_correct_pct": 0.0,
+      "reason": "labeled_easy_but_hard",
+      "suggested_difficulty": 0.85,
+      "raw_response": "DIFFICULTY: 0.85",
+      "error": null
+    },
+    {
+      "id": "NOTA_016",
+      "current_difficulty": 0.4,
+      "models_correct_pct": 25.0,
+      "reason": "labeled_easy_but_hard",
+      "suggested_difficulty": 0.25,
+      "raw_response": "DIFFICULTY: 0.25",
+      "error": null
+    },
+    {
+      "id": "NOTA_031",
+      "current_difficulty": 0.7,
+      "models_correct_pct": 75.0,
+      "reason": "labeled_hard_but_easy",
+      "suggested_difficulty": 0.25,
+      "raw_response": "DIFFICULTY: 0.25",
+      "error": null
+    },
+    {
+      "id": "NOTA_042",
+      "current_difficulty": 0.55,
+      "models_correct_pct": 25.0,
+      "reason": "labeled_easy_but_hard",
+      "suggested_difficulty": 0.75,
+      "raw_response": "DIFFICULTY: 0.75",
+      "error": null
+    },
+    {
+      "id": "NOTA_051",
+      "current_difficulty": 0.7,
+      "models_correct_pct": 75.0,
+      "reason": "labeled_hard_but_easy",
+      "suggested_difficulty": 0.3,
+      "raw_response": "DIFFICULTY: 0.3",
+      "error": null
+    },
+    {
+      "id": "NOTA_052",
+      "current_difficulty": 0.7,
+      "models_correct_pct": 75.0,
+      "reason": "labeled_hard_but_easy",
+      "suggested_difficulty": 0.35,
+      "raw_response": "DIFFICULTY: 0.35",
+      "error": null
+    },
+    {
+      "id": "NOTA_054",
+      "current_difficulty": 0.4,
+      "models_correct_pct": 25.0,
+      "reason": "labeled_easy_but_hard",
+      "suggested_difficulty": 0.25,
+      "raw_response": "DIFFICULTY: 0.25",
+      "error": null
+    },
+    {
+      "id": "NOTA_083",
+      "current_difficulty": 0.7,
+      "models_correct_pct": 75.0,
+      "reason": "labeled_hard_but_easy",
+      "suggested_difficulty": 0.25,
+      "raw_response": "DIFFICULTY: 0.25",
+      "error": null
+    },
+    {
+      "id": "FCT_002",
+      "current_difficulty": 0.7,
+      "models_correct_pct": 100.0,
+      "reason": "labeled_hard_but_easy",
+      "suggested_difficulty": 0.3,
+      "raw_response": "DIFFICULTY: 0.3",
+      "error": null
+    },
+    {
+      "id": "FCT_011",
+      "current_difficulty": 0.7,
+      "models_correct_pct": 100.0,
+      "reason": "labeled_hard_but_easy",
+      "suggested_difficulty": 0.25,
+      "raw_response": "DIFFICULTY: 0.25",
+      "error": null
+    },
+    {
+      "id": "FCT_018",
+      "current_difficulty": 0.7,
+      "models_correct_pct": 75.0,
+      "reason": "labeled_hard_but_easy",
+      "suggested_difficulty": 0.35,
+      "raw_response": "DIFFICULTY: 0.35",
+      "error": null
+    },
+    {
+      "id": "FCT_019",
+      "current_difficulty": 0.7,
+      "models_correct_pct": 75.0,
+      "reason": "labeled_hard_but_easy",
+      "suggested_difficulty": 0.3,
+      "raw_response": "DIFFICULTY: 0.3",
+      "error": null
+    },
+    {
+      "id": "FCT_023",
+      "current_difficulty": 0.7,
+      "models_correct_pct": 100.0,
+      "reason": "labeled_hard_but_easy",
+      "suggested_difficulty": 0.3,
+      "raw_response": "DIFFICULTY: 0.3",
+      "error": null
+    },
+    {
+      "id": "FCT_025",
+      "current_difficulty": 0.7,
+      "models_correct_pct": 100.0,
+      "reason": "labeled_hard_but_easy",
+      "suggested_difficulty": 0.25,
+      "raw_response": "DIFFICULTY: 0.25",
+      "error": null
+    },
+    {
+      "id": "FCT_026",
+      "current_difficulty": 0.7,
+      "models_correct_pct": 75.0,
+      "reason": "labeled_hard_but_easy",
+      "suggested_difficulty": 0.45,
+      "raw_response": "DIFFICULTY: 0.45",
+      "error": null
+    },
+    {
+      "id": "FCT_031",
+      "current_difficulty": 0.7,
+      "models_correct_pct": 75.0,
+      "reason": "labeled_hard_but_easy",
+      "suggested_difficulty": 0.35,
+      "raw_response": "DIFFICULTY: 0.35",
+      "error": null
+    },
+    {
+      "id": "FCT_036",
+      "current_difficulty": 0.7,
+      "models_correct_pct": 75.0,
+      "reason": "labeled_hard_but_easy",
+      "suggested_difficulty": 0.3,
+      "raw_response": "DIFFICULTY: 0.3",
+      "error": null
+    },
+    {
+      "id": "FCT_038",
+      "current_difficulty": 0.7,
+      "models_correct_pct": 75.0,
+      "reason": "labeled_hard_but_easy",
+      "suggested_difficulty": 0.45,
+      "raw_response": "DIFFICULTY: 0.45",
+      "error": null
+    },
+    {
+      "id": "FCT_039",
+      "current_difficulty": 0.7,
+      "models_correct_pct": 100.0,
+      "reason": "labeled_hard_but_easy",
+      "suggested_difficulty": 0.3,
+      "raw_response": "DIFFICULTY: 0.3",
+      "error": null
+    },
+    {
+      "id": "FCT_041",
+      "current_difficulty": 0.7,
+      "models_correct_pct": 75.0,
+      "reason": "labeled_hard_but_easy",
+      "suggested_difficulty": 0.45,
+      "raw_response": "DIFFICULTY: 0.45",
+      "error": null
+    },
+    {
+      "id": "FCT_044",
+      "current_difficulty": 0.7,
+      "models_correct_pct": 100.0,
+      "reason": "labeled_hard_but_easy",
+      "suggested_difficulty": 0.35,
+      "raw_response": "DIFFICULTY: 0.35",
+      "error": null
+    },
+    {
+      "id": "FCT_045",
+      "current_difficulty": 0.7,
+      "models_correct_pct": 100.0,
+      "reason": "labeled_hard_but_easy",
+      "suggested_difficulty": 0.25,
+      "raw_response": "DIFFICULTY: 0.25",
+      "error": null
+    },
+    {
+      "id": "FCT_048",
+      "current_difficulty": 0.7,
+      "models_correct_pct": 75.0,
+      "reason": "labeled_hard_but_easy",
+      "suggested_difficulty": 0.35,
+      "raw_response": "DIFFICULTY: 0.35",
+      "error": null
+    },
+    {
+      "id": "FCT_050",
+      "current_difficulty": 0.7,
+      "models_correct_pct": 100.0,
+      "reason": "labeled_hard_but_easy",
+      "suggested_difficulty": 0.25,
+      "raw_response": "DIFFICULTY: 0.25",
+      "error": null
+    },
+    {
+      "id": "FCT_051",
+      "current_difficulty": 0.7,
+      "models_correct_pct": 100.0,
+      "reason": "labeled_hard_but_easy",
+      "suggested_difficulty": 0.3,
+      "raw_response": "DIFFICULTY: 0.3",
+      "error": null
+    },
+    {
+      "id": "FCT_052",
+      "current_difficulty": 0.7,
+      "models_correct_pct": 100.0,
+      "reason": "labeled_hard_but_easy",
+      "suggested_difficulty": 0.3,
+      "raw_response": "DIFFICULTY: 0.3",
+      "error": null
+    },
+    {
+      "id": "FCT_074",
+      "current_difficulty": 0.8,
+      "models_correct_pct": 100.0,
+      "reason": "labeled_hard_but_easy",
+      "suggested_difficulty": 0.3,
+      "raw_response": "DIFFICULTY: 0.3",
+      "error": null
+    },
+    {
+      "id": "FCT_083",
+      "current_difficulty": 0.7,
+      "models_correct_pct": 100.0,
+      "reason": "labeled_hard_but_easy",
+      "suggested_difficulty": 0.3,
+      "raw_response": "DIFFICULTY: 0.3",
+      "error": null
+    },
+    {
+      "id": "FCT_085",
+      "current_difficulty": 0.7,
+      "models_correct_pct": 100.0,
+      "reason": "labeled_hard_but_easy",
+      "suggested_difficulty": 0.3,
+      "raw_response": "DIFFICULTY: 0.3",
+      "error": null
+    },
+    {
+      "id": "FCT_091",
+      "current_difficulty": 0.7,
+      "models_correct_pct": 100.0,
+      "reason": "labeled_hard_but_easy",
+      "suggested_difficulty": 0.35,
+      "raw_response": "DIFFICULTY: 0.35",
+      "error": null
+    },
+    {
+      "id": "FCT_093",
+      "current_difficulty": 0.7,
+      "models_correct_pct": 75.0,
+      "reason": "labeled_hard_but_easy",
+      "suggested_difficulty": 0.45,
+      "raw_response": "DIFFICULTY: 0.45",
+      "error": null
+    },
+    {
+      "id": "FCT_095",
+      "current_difficulty": 0.7,
+      "models_correct_pct": 100.0,
+      "reason": "labeled_hard_but_easy",
+      "suggested_difficulty": 0.35,
+      "raw_response": "DIFFICULTY: 0.35",
+      "error": null
+    },
+    {
+      "id": "FCT_098",
+      "current_difficulty": 0.7,
+      "models_correct_pct": 100.0,
+      "reason": "labeled_hard_but_easy",
+      "suggested_difficulty": 0.3,
+      "raw_response": "DIFFICULTY: 0.3",
+      "error": null
+    }
+  ]
+}

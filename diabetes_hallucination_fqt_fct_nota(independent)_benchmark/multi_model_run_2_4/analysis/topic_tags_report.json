@@ -1,0 +1,1276 @@
+{
+  "unique_tags": [
+    "ADA compliance",
+    "ASCVD risk",
+    "DPPOS",
+    "FCT",
+    "GLP-1 receptor agonist",
+    "NDEP",
+    "NOTA",
+    "SGLT2 inhibitor",
+    "SGLT2 inhibitors",
+    "Time in Range",
+    "alcohol",
+    "ambulatory care",
+    "behavioral health",
+    "behavioral medicine",
+    "beverages",
+    "cardiovascular prevention",
+    "cardiovascular protection",
+    "cardiovascular risk reduction",
+    "checklist utility",
+    "chronic disease management",
+    "chronic kidney disease",
+    "clinical communication",
+    "clinical decision-making",
+    "clinical guidelines",
+    "clinical reasoning",
+    "clinical-reasoning",
+    "clinical_reasoning",
+    "comorbidity",
+    "comorbidity management",
+    "congenital anomalies",
+    "continuous glucose monitoring",
+    "contraindications",
+    "depression",
+    "diabetes",
+    "diabetic ketoacidosis",
+    "diabetic retinopathy",
+    "diabetic_complications",
+    "dietary fat",
+    "dietary management",
+    "diuretic therapy",
+    "electromagnetic_interference",
+    "emergency_management",
+    "emergency_medicine",
+    "endocrinology",
+    "evidence-based medicine",
+    "exercise management",
+    "exercise physiology",
+    "fasting",
+    "fluid management",
+    "gastroenteritis",
+    "geriatrics",
+    "gestational diabetes",
+    "glucose monitoring",
+    "glycemic control",
+    "glycemic targets",
+    "guideline application",
+    "guideline interpretation",
+    "guideline-based management",
+    "guidelines",
+    "health_policy",
+    "heart failure",
+    "hydration",
+    "hyperglycemia",
+    "hypoglycemia",
+    "hypoglycemia prevention",
+    "hypoglycemia_management",
+    "individualized medicine",
+    "infusion set failure",
+    "insulin initiation",
+    "insulin management",
+    "insulin pump",
+    "insulin pump management",
+    "insulin pump therapy",
+    "insulin therapy",
+    "insulin-pump",
+    "insulin_pump",
+    "insulin_therapy",
+    "integrated care",
+    "internal medicine",
+    "internal_medicine",
+    "ketone testing",
+    "lifestyle intervention",
+    "lifestyle management",
+    "lifestyle-modification",
+    "lipid management",
+    "long-term outcomes",
+    "management",
+    "maternal-fetal medicine",
+    "medical guidelines",
+    "medical misconceptions",
+    "medical nutrition therapy",
+    "medical technology",
+    "medical-decision-making",
+    "medical_ethics",
+    "medical_identification",
+    "medical_imaging",
+    "medication interactions",
+    "medication management",
+    "medication safety",
+    "medication_management",
+    "metformin",
+    "multi-omics",
+    "non-pharmacological management",
+    "nutrition",
+    "obstetrics",
+    "ophthalmology",
+    "patient autonomy",
+    "patient counseling",
+    "patient education",
+    "patient-centered care",
+    "patient-centered-care",
+    "patient-management",
+    "patient_education",
+    "patient_safety",
+    "personalized_medicine",
+    "pharmacology",
+    "pharmacotherapy",
+    "pregnancy",
+    "prevention",
+    "preventive care",
+    "preventive-care",
+    "primary care",
+    "primary prevention",
+    "public_health",
+    "renal impairment",
+    "renal protection",
+    "research_methodology",
+    "retinopathy",
+    "screening",
+    "screening guidelines",
+    "self-management",
+    "self_management",
+    "shared_decision_making",
+    "sick day management",
+    "sick-day management",
+    "statin therapy",
+    "stress management",
+    "sulfonylurea risk",
+    "therapeutic decision-making",
+    "therapeutic inertia",
+    "time-in-range",
+    "travel medicine",
+    "treatment",
+    "treatment adjustment",
+    "treatment_errors",
+    "troubleshooting",
+    "type 1 diabetes",
+    "type 2 diabetes",
+    "type 2 diabetes management",
+    "type1",
+    "type1-diabetes",
+    "type1_diabetes",
+    "type2",
+    "weight management",
+    "workplace accommodations"
+  ],
+  "unique_topics": [
+    "Acute Complications & Hospital Management",
+    "Acute_Hospital",
+    "Blood glucose monitoring",
+    "Diabetes and cardiovascular risk",
+    "Diabetes and chronic kidney disease (CKD); medication adjustment, monitoring",
+    "Diabetes complications prevention",
+    "Diabetes in pregnancy; glycemic targets, medication safety",
+    "Diabetes lifestyle management",
+    "Diabetes management in elderly patients (polypharmacy, hypoglycemia risk)",
+    "Diabetes medication selection",
+    "Diabetes with heart failure; SGLT2i, drug interactions, volume status",
+    "Diabetic Neuropathy & Foot Care",
+    "Diabetic Retinopathy & Kidney Disease",
+    "Diabetic retinopathy screening",
+    "Gestational diabetes",
+    "Hypoglycemia management",
+    "Insulin pump management",
+    "Neuropathy_FootCare",
+    "Patient adherence and cost; choice of agents, simplification of regimens",
+    "Psychosocial factors in diabetes; depression, health literacy, social support",
+    "Retinopathy_Kidney",
+    "Type 2 diabetes initial treatment"
+  ],
+  "tag_counts": {
+    "ADA compliance": 1,
+    "ASCVD risk": 1,
+    "DPPOS": 1,
+    "FCT": 34,
+    "GLP-1 receptor agonist": 1,
+    "NDEP": 1,
+    "NOTA": 34,
+    "SGLT2 inhibitor": 4,
+    "SGLT2 inhibitors": 2,
+    "Time in Range": 1,
+    "alcohol": 1,
+    "ambulatory care": 1,
+    "behavioral health": 1,
+    "behavioral medicine": 1,
+    "beverages": 1,
+    "cardiovascular prevention": 1,
+    "cardiovascular protection": 1,
+    "cardiovascular risk reduction": 1,
+    "checklist utility": 1,
+    "chronic disease management": 2,
+    "chronic kidney disease": 3,
+    "clinical communication": 1,
+    "clinical decision-making": 1,
+    "clinical guidelines": 4,
+    "clinical reasoning": 11,
+    "clinical-reasoning": 4,
+    "clinical_reasoning": 3,
+    "comorbidity": 1,
+    "comorbidity management": 1,
+    "congenital anomalies": 1,
+    "continuous glucose monitoring": 1,
+    "contraindications": 1,
+    "depression": 1,
+    "diabetes": 68,
+    "diabetic ketoacidosis": 3,
+    "diabetic retinopathy": 1,
+    "diabetic_complications": 1,
+    "dietary fat": 1,
+    "dietary management": 1,
+    "diuretic therapy": 1,
+    "electromagnetic_interference": 1,
+    "emergency_management": 1,
+    "emergency_medicine": 5,
+    "endocrinology": 7,
+    "evidence-based medicine": 3,
+    "exercise management": 1,
+    "exercise physiology": 1,
+    "fasting": 1,
+    "fluid management": 2,
+    "gastroenteritis": 2,
+    "geriatrics": 2,
+    "gestational diabetes": 1,
+    "glucose monitoring": 1,
+    "glycemic control": 2,
+    "glycemic targets": 1,
+    "guideline application": 1,
+    "guideline interpretation": 1,
+    "guideline-based management": 3,
+    "guidelines": 12,
+    "health_policy": 1,
+    "heart failure": 2,
+    "hydration": 4,
+    "hyperglycemia": 6,
+    "hypoglycemia": 10,
+    "hypoglycemia prevention": 1,
+    "hypoglycemia_management": 1,
+    "individualized medicine": 1,
+    "infusion set failure": 1,
+    "insulin initiation": 1,
+    "insulin management": 1,
+    "insulin pump": 1,
+    "insulin pump management": 2,
+    "insulin pump therapy": 1,
+    "insulin therapy": 2,
+    "insulin-pump": 5,
+    "insulin_pump": 1,
+    "insulin_therapy": 1,
+    "integrated care": 1,
+    "internal medicine": 1,
+    "internal_medicine": 2,
+    "ketone testing": 1,
+    "lifestyle intervention": 1,
+    "lifestyle management": 1,
+    "lifestyle-modification": 1,
+    "lipid management": 1,
+    "long-term outcomes": 1,
+    "management": 1,
+    "maternal-fetal medicine": 1,
+    "medical guidelines": 1,
+    "medical misconceptions": 1,
+    "medical nutrition therapy": 1,
+    "medical technology": 1,
+    "medical-decision-making": 1,
+    "medical_ethics": 1,
+    "medical_identification": 1,
+    "medical_imaging": 1,
+    "medication interactions": 1,
+    "medication management": 1,
+    "medication safety": 4,
+    "medication_management": 1,
+    "metformin": 3,
+    "multi-omics": 1,
+    "non-pharmacological management": 1,
+    "nutrition": 3,
+    "obstetrics": 2,
+    "ophthalmology": 2,
+    "patient autonomy": 1,
+    "patient counseling": 2,
+    "patient education": 11,
+    "patient-centered care": 2,
+    "patient-centered-care": 1,
+    "patient-management": 1,
+    "patient_education": 3,
+    "patient_safety": 5,
+    "personalized_medicine": 1,
+    "pharmacology": 5,
+    "pharmacotherapy": 3,
+    "pregnancy": 2,
+    "prevention": 2,
+    "preventive care": 1,
+    "preventive-care": 1,
+    "primary care": 1,
+    "primary prevention": 1,
+    "public_health": 1,
+    "renal impairment": 1,
+    "renal protection": 1,
+    "research_methodology": 1,
+    "retinopathy": 3,
+    "screening": 3,
+    "screening guidelines": 1,
+    "self-management": 1,
+    "self_management": 1,
+    "shared_decision_making": 1,
+    "sick day management": 2,
+    "sick-day management": 6,
+    "statin therapy": 1,
+    "stress management": 1,
+    "sulfonylurea risk": 1,
+    "therapeutic decision-making": 1,
+    "therapeutic inertia": 1,
+    "time-in-range": 1,
+    "travel medicine": 1,
+    "treatment": 9,
+    "treatment adjustment": 2,
+    "treatment_errors": 1,
+    "troubleshooting": 5,
+    "type 1 diabetes": 12,
+    "type 2 diabetes": 4,
+    "type 2 diabetes management": 1,
+    "type1": 5,
+    "type1-diabetes": 4,
+    "type1_diabetes": 1,
+    "type2": 12,
+    "weight management": 1,
+    "workplace accommodations": 1
+  },
+  "topic_counts": {
+    "Acute Complications & Hospital Management": 13,
+    "Acute_Hospital": 13,
+    "Blood glucose monitoring": 1,
+    "Diabetes and cardiovascular risk": 1,
+    "Diabetes and chronic kidney disease (CKD); medication adjustment, monitoring": 1,
+    "Diabetes complications prevention": 1,
+    "Diabetes in pregnancy; glycemic targets, medication safety": 1,
+    "Diabetes lifestyle management": 1,
+    "Diabetes management in elderly patients (polypharmacy, hypoglycemia risk)": 1,
+    "Diabetes medication selection": 2,
+    "Diabetes with heart failure; SGLT2i, drug interactions, volume status": 1,
+    "Diabetic Neuropathy & Foot Care": 13,
+    "Diabetic Retinopathy & Kidney Disease": 8,
+    "Diabetic retinopathy screening": 3,
+    "Gestational diabetes": 1,
+    "Hypoglycemia management": 3,
+    "Insulin pump management": 4,
+    "Neuropathy_FootCare": 13,
+    "Patient adherence and cost; choice of agents, simplification of regimens": 1,
+    "Psychosocial factors in diabetes; depression, health literacy, social support": 1,
+    "Retinopathy_Kidney": 8,
+    "Type 2 diabetes initial treatment": 4
+  },
+  "questions_by_tag": {
+    "ADA compliance": [
+      "FCT_019"
+    ],
+    "ASCVD risk": [
+      "FCT_018"
+    ],
+    "DPPOS": [
+      "FCT_023"
+    ],
+    "FCT": [
+      "FCT_001",
+      "FCT_002",
+      "FCT_003",
+      "FCT_004",
+      "FCT_005",
+      "FCT_006",
+      "FCT_007",
+      "FCT_008",
+      "FCT_009",
+      "FCT_010",
+      "FCT_011",
+      "FCT_012",
+      "FCT_013",
+      "FCT_014",
+      "FCT_015",
+      "FCT_016",
+      "FCT_017",
+      "FCT_018",
+      "FCT_019",
+      "FCT_020",
+      "FCT_021",
+      "FCT_022",
+      "FCT_023",
+      "FCT_024",
+      "FCT_025",
+      "FCT_026",
+      "FCT_027",
+      "FCT_028",
+      "FCT_029",
+      "FCT_030",
+      "FCT_031",
+      "FCT_032",
+      "FCT_033",
+      "FCT_034"
+    ],
+    "GLP-1 receptor agonist": [
+      "FCT_018"
+    ],
+    "NDEP": [
+      "FCT_015"
+    ],
+    "NOTA": [
+      "NOTA_001",
+      "NOTA_002",
+      "NOTA_003",
+      "NOTA_004",
+      "NOTA_005",
+      "NOTA_006",
+      "NOTA_007",
+      "NOTA_008",
+      "NOTA_009",
+      "NOTA_010",
+      "NOTA_011",
+      "NOTA_012",
+      "NOTA_013",
+      "NOTA_014",
+      "NOTA_015",
+      "NOTA_016",
+      "NOTA_017",
+      "NOTA_018",
+      "NOTA_019",
+      "NOTA_020",
+      "NOTA_021",
+      "NOTA_022",
+      "NOTA_023",
+      "NOTA_024",
+      "NOTA_025",
+      "NOTA_026",
+      "NOTA_027",
+      "NOTA_028",
+      "NOTA_029",
+      "NOTA_030",
+      "NOTA_031",
+      "NOTA_032",
+      "NOTA_033",
+      "NOTA_034"
+    ],
+    "SGLT2 inhibitor": [
+      "FCT_002",
+      "FCT_018",
+      "FCT_020",
+      "FCT_034"
+    ],
+    "SGLT2 inhibitors": [
+      "FCT_014",
+      "FCT_022"
+    ],
+    "Time in Range": [
+      "FCT_016"
+    ],
+    "alcohol": [
+      "FCT_013"
+    ],
+    "ambulatory care": [
+      "NOTA_005"
+    ],
+    "behavioral health": [
+      "FCT_012"
+    ],
+    "behavioral medicine": [
+      "FCT_033"
+    ],
+    "beverages": [
+      "NOTA_016"
+    ],
+    "cardiovascular prevention": [
+      "FCT_018"
+    ],
+    "cardiovascular protection": [
+      "FCT_002"
+    ],
+    "cardiovascular risk reduction": [
+      "FCT_034"
+    ],
+    "checklist utility": [
+      "FCT_027"
+    ],
+    "chronic disease management": [
+      "FCT_005",
+      "FCT_027"
+    ],
+    "chronic kidney disease": [
+      "FCT_014",
+      "FCT_020",
+      "FCT_034"
+    ],
+    "clinical communication": [
+      "FCT_027"
+    ],
+    "clinical decision-making": [
+      "FCT_016"
+    ],
+    "clinical guidelines": [
+      "FCT_004",
+      "NOTA_019",
+      "NOTA_031",
+      "NOTA_034"
+    ],
+    "clinical reasoning": [
+      "FCT_001",
+      "FCT_024",
+      "FCT_033",
+      "NOTA_005",
+      "NOTA_008",
+      "NOTA_011",
+      "NOTA_021",
+      "NOTA_023",
+      "NOTA_028",
+      "NOTA_032",
+      "NOTA_033"
+    ],
+    "clinical-reasoning": [
+      "NOTA_001",
+      "NOTA_006",
+      "NOTA_015",
+      "NOTA_017"
+    ],
+    "clinical_reasoning": [
+      "NOTA_002",
+      "NOTA_014",
+      "NOTA_026"
+    ],
+    "comorbidity": [
+      "FCT_012"
+    ],
+    "comorbidity management": [
+      "FCT_014"
+    ],
+    "congenital anomalies": [
+      "FCT_007"
+    ],
+    "continuous glucose monitoring": [
+      "FCT_016"
+    ],
+    "contraindications": [
+      "FCT_020"
+    ],
+    "depression": [
+      "FCT_012"
+    ],
+    "diabetes": [
+      "FCT_001",
+      "FCT_002",
+      "FCT_003",
+      "FCT_004",
+      "FCT_005",
+      "FCT_006",
+      "FCT_007",
+      "FCT_008",
+      "FCT_009",
+      "FCT_010",
+      "FCT_011",
+      "FCT_012",
+      "FCT_013",
+      "FCT_014",
+      "FCT_015",
+      "FCT_016",
+      "FCT_017",
+      "FCT_018",
+      "FCT_019",
+      "FCT_020",
+      "FCT_021",
+      "FCT_022",
+      "FCT_023",
+      "FCT_024",
+      "FCT_025",
+      "FCT_026",
+      "FCT_027",
+      "FCT_028",
+      "FCT_029",
+      "FCT_030",
+      "FCT_031",
+      "FCT_032",
+      "FCT_033",
+      "FCT_034",
+      "NOTA_001",
+      "NOTA_002",
+      "NOTA_003",
+      "NOTA_004",
+      "NOTA_005",
+      "NOTA_006",
+      "NOTA_007",
+      "NOTA_008",
+      "NOTA_009",
+      "NOTA_010",
+      "NOTA_011",
+      "NOTA_012",
+      "NOTA_013",
+      "NOTA_014",
+      "NOTA_015",
+      "NOTA_016",
+      "NOTA_017",
+      "NOTA_018",
+      "NOTA_019",
+      "NOTA_020",
+      "NOTA_021",
+      "NOTA_022",
+      "NOTA_023",
+      "NOTA_024",
+      "NOTA_025",
+      "NOTA_026",
+      "NOTA_027",
+      "NOTA_028",
+      "NOTA_029",
+      "NOTA_030",
+      "NOTA_031",
+      "NOTA_032",
+      "NOTA_033",
+      "NOTA_034"
+    ],
+    "diabetic ketoacidosis": [
+      "FCT_001",
+      "NOTA_021",
+      "NOTA_033"
+    ],
+    "diabetic retinopathy": [
+      "FCT_032"
+    ],
+    "diabetic_complications": [
+      "FCT_031"
+    ],
+    "dietary fat": [
+      "FCT_003"
+    ],
+    "dietary management": [
+      "FCT_024"
+    ],
+    "diuretic therapy": [
+      "FCT_022"
+    ],
+    "electromagnetic_interference": [
+      "FCT_021"
+    ],
+    "emergency_management": [
+      "NOTA_022"
+    ],
+    "emergency_medicine": [
+      "FCT_026",
+      "NOTA_012",
+      "NOTA_014",
+      "NOTA_018",
+      "NOTA_026"
+    ],
+    "endocrinology": [
+      "FCT_006",
+      "FCT_007",
+      "FCT_025",
+      "NOTA_003",
+      "NOTA_006",
+      "NOTA_025",
+      "NOTA_032"
+    ],
+    "evidence-based medicine": [
+      "FCT_003",
+      "FCT_019",
+      "FCT_023"
+    ],
+    "exercise management": [
+      "FCT_011"
+    ],
+    "exercise physiology": [
+      "FCT_017"
+    ],
+    "fasting": [
+      "NOTA_002"
+    ],
+    "fluid management": [
+      "NOTA_008",
+      "NOTA_033"
+    ],
+    "gastroenteritis": [
+      "NOTA_008",
+      "NOTA_024"
+    ],
+    "geriatrics": [
+      "FCT_016",
+      "FCT_030"
+    ],
+    "gestational diabetes": [
+      "FCT_004"
+    ],
+    "glucose monitoring": [
+      "FCT_004"
+    ],
+    "glycemic control": [
+      "FCT_007",
+      "FCT_016"
+    ],
+    "glycemic targets": [
+      "FCT_006"
+    ],
+    "guideline application": [
+      "FCT_008"
+    ],
+    "guideline interpretation": [
+      "FCT_028"
+    ],
+    "guideline-based management": [
+      "FCT_002",
+      "FCT_014",
+      "FCT_034"
+    ],
+    "guidelines": [
+      "FCT_018",
+      "NOTA_003",
+      "NOTA_004",
+      "NOTA_009",
+      "NOTA_010",
+      "NOTA_015",
+      "NOTA_018",
+      "NOTA_020",
+      "NOTA_022",
+      "NOTA_025",
+      "NOTA_029",
+      "NOTA_030"
+    ],
+    "health_policy": [
+      "FCT_015"
+    ],
+    "heart failure": [
+      "FCT_014",
+      "FCT_022"
+    ],
+    "hydration": [
+      "NOTA_002",
+      "NOTA_016",
+      "NOTA_021",
+      "NOTA_024"
+    ],
+    "hyperglycemia": [
+      "FCT_010",
+      "NOTA_001",
+      "NOTA_006",
+      "NOTA_017",
+      "NOTA_023",
+      "NOTA_027"
+    ],
+    "hypoglycemia": [
+      "FCT_011",
+      "FCT_013",
+      "FCT_017",
+      "FCT_030",
+      "NOTA_007",
+      "NOTA_012",
+      "NOTA_013",
+      "NOTA_018",
+      "NOTA_022",
+      "NOTA_028"
+    ],
+    "hypoglycemia prevention": [
+      "NOTA_034"
+    ],
+    "hypoglycemia_management": [
+      "FCT_026"
+    ],
+    "individualized medicine": [
+      "FCT_028"
+    ],
+    "infusion set failure": [
+      "FCT_010"
+    ],
+    "insulin initiation": [
+      "FCT_030"
+    ],
+    "insulin management": [
+      "NOTA_028"
+    ],
+    "insulin pump": [
+      "FCT_010"
+    ],
+    "insulin pump management": [
+      "NOTA_023",
+      "NOTA_032"
+    ],
+    "insulin pump therapy": [
+      "FCT_025"
+    ],
+    "insulin therapy": [
+      "FCT_011",
+      "FCT_017"
+    ],
+    "insulin-pump": [
+      "NOTA_001",
+      "NOTA_006",
+      "NOTA_013",
+      "NOTA_017",
+      "NOTA_027"
+    ],
+    "insulin_pump": [
+      "FCT_021"
+    ],
+    "insulin_therapy": [
+      "FCT_026"
+    ],
+    "integrated care": [
+      "FCT_012"
+    ],
+    "internal medicine": [
+      "FCT_018"
+    ],
+    "internal_medicine": [
+      "NOTA_003",
+      "NOTA_025"
+    ],
+    "ketone testing": [
+      "FCT_001"
+    ],
+    "lifestyle intervention": [
+      "FCT_023"
+    ],
+    "lifestyle management": [
+      "FCT_013"
+    ],
+    "lifestyle-modification": [
+      "NOTA_020"
+    ],
+    "lipid management": [
+      "FCT_028"
+    ],
+    "long-term outcomes": [
+      "FCT_023"
+    ],
+    "management": [
+      "NOTA_007"
+    ],
+    "maternal-fetal medicine": [
+      "FCT_007"
+    ],
+    "medical guidelines": [
+      "FCT_003"
+    ],
+    "medical misconceptions": [
+      "NOTA_034"
+    ],
+    "medical nutrition therapy": [
+      "FCT_004"
+    ],
+    "medical technology": [
+      "FCT_025"
+    ],
+    "medical-decision-making": [
+      "NOTA_027"
+    ],
+    "medical_ethics": [
+      "NOTA_026"
+    ],
+    "medical_identification": [
+      "NOTA_014"
+    ],
+    "medical_imaging": [
+      "FCT_021"
+    ],
+    "medication interactions": [
+      "FCT_013"
+    ],
+    "medication management": [
+      "FCT_022"
+    ],
+    "medication safety": [
+      "FCT_009",
+      "FCT_020",
+      "FCT_030",
+      "NOTA_031"
+    ],
+    "medication_management": [
+      "NOTA_024"
+    ],
+    "metformin": [
+      "NOTA_010",
+      "NOTA_015",
+      "NOTA_020"
+    ],
+    "multi-omics": [
+      "FCT_031"
+    ],
+    "non-pharmacological management": [
+      "FCT_033"
+    ],
+    "nutrition": [
+      "FCT_003",
+      "FCT_024",
+      "NOTA_016"
+    ],
+    "obstetrics": [
+      "FCT_004",
+      "FCT_006"
+    ],
+    "ophthalmology": [
+      "NOTA_004",
+      "NOTA_009"
+    ],
+    "patient autonomy": [
+      "FCT_005"
+    ],
+    "patient counseling": [
+      "FCT_011",
+      "FCT_013"
+    ],
+    "patient education": [
+      "FCT_005",
+      "FCT_009",
+      "FCT_017",
+      "FCT_019",
+      "FCT_025",
+      "NOTA_005",
+      "NOTA_007",
+      "NOTA_011",
+      "NOTA_016",
+      "NOTA_019",
+      "NOTA_031"
+    ],
+    "patient-centered care": [
+      "FCT_008",
+      "FCT_027"
+    ],
+    "patient-centered-care": [
+      "NOTA_020"
+    ],
+    "patient-management": [
+      "NOTA_006"
+    ],
+    "patient_education": [
+      "FCT_029",
+      "NOTA_002",
+      "NOTA_024"
+    ],
+    "patient_safety": [
+      "FCT_021",
+      "FCT_026",
+      "NOTA_012",
+      "NOTA_014",
+      "NOTA_026"
+    ],
+    "personalized_medicine": [
+      "FCT_031"
+    ],
+    "pharmacology": [
+      "FCT_020",
+      "NOTA_003",
+      "NOTA_010",
+      "NOTA_015",
+      "NOTA_030"
+    ],
+    "pharmacotherapy": [
+      "FCT_006",
+      "FCT_008",
+      "NOTA_025"
+    ],
+    "pregnancy": [
+      "FCT_006",
+      "FCT_007"
+    ],
+    "prevention": [
+      "FCT_015",
+      "FCT_023"
+    ],
+    "preventive care": [
+      "FCT_032"
+    ],
+    "preventive-care": [
+      "NOTA_029"
+    ],
+    "primary care": [
+      "FCT_018"
+    ],
+    "primary prevention": [
+      "FCT_028"
+    ],
+    "public_health": [
+      "FCT_015"
+    ],
+    "renal impairment": [
+      "FCT_030"
+    ],
+    "renal protection": [
+      "FCT_002"
+    ],
+    "research_methodology": [
+      "FCT_031"
+    ],
+    "retinopathy": [
+      "NOTA_004",
+      "NOTA_009",
+      "NOTA_029"
+    ],
+    "screening": [
+      "NOTA_004",
+      "NOTA_009",
+      "NOTA_029"
+    ],
+    "screening guidelines": [
+      "FCT_032"
+    ],
+    "self-management": [
+      "FCT_005"
+    ],
+    "self_management": [
+      "FCT_029"
+    ],
+    "shared_decision_making": [
+      "FCT_029"
+    ],
+    "sick day management": [
+      "NOTA_008",
+      "NOTA_033"
+    ],
+    "sick-day management": [
+      "NOTA_005",
+      "NOTA_011",
+      "NOTA_019",
+      "NOTA_021",
+      "NOTA_031",
+      "NOTA_034"
+    ],
+    "statin therapy": [
+      "FCT_028"
+    ],
+    "stress management": [
+      "FCT_033"
+    ],
+    "sulfonylurea risk": [
+      "FCT_030"
+    ],
+    "therapeutic decision-making": [
+      "FCT_002"
+    ],
+    "therapeutic inertia": [
+      "FCT_034"
+    ],
+    "time-in-range": [
+      "NOTA_013"
+    ],
+    "travel medicine": [
+      "FCT_009"
+    ],
+    "treatment": [
+      "NOTA_002",
+      "NOTA_003",
+      "NOTA_010",
+      "NOTA_012",
+      "NOTA_013",
+      "NOTA_015",
+      "NOTA_020",
+      "NOTA_025",
+      "NOTA_030"
+    ],
+    "treatment adjustment": [
+      "FCT_030",
+      "NOTA_028"
+    ],
+    "treatment_errors": [
+      "NOTA_018"
+    ],
+    "troubleshooting": [
+      "FCT_010",
+      "NOTA_001",
+      "NOTA_017",
+      "NOTA_023",
+      "NOTA_027"
+    ],
+    "type 1 diabetes": [
+      "FCT_001",
+      "FCT_009",
+      "FCT_010",
+      "NOTA_007",
+      "NOTA_008",
+      "NOTA_019",
+      "NOTA_021",
+      "NOTA_023",
+      "NOTA_028",
+      "NOTA_032",
+      "NOTA_033",
+      "NOTA_034"
+    ],
+    "type 2 diabetes": [
+      "FCT_017",
+      "NOTA_005",
+      "NOTA_011",
+      "NOTA_031"
+    ],
+    "type 2 diabetes management": [
+      "FCT_008"
+    ],
+    "type1": [
+      "NOTA_012",
+      "NOTA_013",
+      "NOTA_014",
+      "NOTA_018",
+      "NOTA_022"
+    ],
+    "type1-diabetes": [
+      "NOTA_001",
+      "NOTA_006",
+      "NOTA_017",
+      "NOTA_027"
+    ],
+    "type1_diabetes": [
+      "NOTA_026"
+    ],
+    "type2": [
+      "NOTA_002",
+      "NOTA_003",
+      "NOTA_004",
+      "NOTA_009",
+      "NOTA_010",
+      "NOTA_015",
+      "NOTA_016",
+      "NOTA_020",
+      "NOTA_024",
+      "NOTA_025",
+      "NOTA_029",
+      "NOTA_030"
+    ],
+    "weight management": [
+      "FCT_024"
+    ],
+    "workplace accommodations": [
+      "FCT_019"
+    ]
+  },
+  "questions_by_topic": {
+    "Acute Complications & Hospital Management": [
+      "FQT_014",
+      "FQT_015",
+      "FQT_016",
+      "FQT_017",
+      "FQT_018",
+      "FQT_019",
+      "FQT_020",
+      "FQT_021",
+      "FQT_022",
+      "FQT_023",
+      "FQT_024",
+      "FQT_025",
+      "FQT_026"
+    ],
+    "Acute_Hospital": [
+      "FQT_014",
+      "FQT_015",
+      "FQT_016",
+      "FQT_017",
+      "FQT_018",
+      "FQT_019",
+      "FQT_020",
+      "FQT_021",
+      "FQT_022",
+      "FQT_023",
+      "FQT_024",
+      "FQT_025",
+      "FQT_026"
+    ],
+    "Blood glucose monitoring": [
+      "FCT_016"
+    ],
+    "Diabetes and cardiovascular risk": [
+      "FCT_028"
+    ],
+    "Diabetes and chronic kidney disease (CKD); medication adjustment, monitoring": [
+      "FCT_020"
+    ],
+    "Diabetes complications prevention": [
+      "FCT_018"
+    ],
+    "Diabetes in pregnancy; glycemic targets, medication safety": [
+      "FCT_006"
+    ],
+    "Diabetes lifestyle management": [
+      "FCT_024"
+    ],
+    "Diabetes management in elderly patients (polypharmacy, hypoglycemia risk)": [
+      "FCT_030"
+    ],
+    "Diabetes medication selection": [
+      "FCT_002",
+      "FCT_034"
+    ],
+    "Diabetes with heart failure; SGLT2i, drug interactions, volume status": [
+      "FCT_022"
+    ],
+    "Diabetic Neuropathy & Foot Care": [
+      "FQT_001",
+      "FQT_002",
+      "FQT_003",
+      "FQT_004",
+      "FQT_005",
+      "FQT_006",
+      "FQT_007",
+      "FQT_008",
+      "FQT_009",
+      "FQT_010",
+      "FQT_011",
+      "FQT_012",
+      "FQT_013"
+    ],
+    "Diabetic Retinopathy & Kidney Disease": [
+      "FQT_027",
+      "FQT_028",
+      "FQT_029",
+      "FQT_030",
+      "FQT_031",
+      "FQT_032",
+      "FQT_033",
+      "FQT_034"
+    ],
+    "Diabetic retinopathy screening": [
+      "FCT_032",
+      "NOTA_009",
+      "NOTA_029"
+    ],
+    "Gestational diabetes": [
+      "FCT_004"
+    ],
+    "Hypoglycemia management": [
+      "FCT_026",
+      "NOTA_012",
+      "NOTA_022"
+    ],
+    "Insulin pump management": [
+      "FCT_010",
+      "NOTA_006",
+      "NOTA_017",
+      "NOTA_027"
+    ],
+    "Neuropathy_FootCare": [
+      "FQT_001",
+      "FQT_002",
+      "FQT_003",
+      "FQT_004",
+      "FQT_005",
+      "FQT_006",
+      "FQT_007",
+      "FQT_008",
+      "FQT_009",
+      "FQT_010",
+      "FQT_011",
+      "FQT_012",
+      "FQT_013"
+    ],
+    "Patient adherence and cost; choice of agents, simplification of regimens": [
+      "FCT_014"
+    ],
+    "Psychosocial factors in diabetes; depression, health literacy, social support": [
+      "FCT_012"
+    ],
+    "Retinopathy_Kidney": [
+      "FQT_027",
+      "FQT_028",
+      "FQT_029",
+      "FQT_030",
+      "FQT_031",
+      "FQT_032",
+      "FQT_033",
+      "FQT_034"
+    ],
+    "Type 2 diabetes initial treatment": [
+      "FCT_008",
+      "NOTA_003",
+      "NOTA_015",
+      "NOTA_025"
+    ]
+  }
+}

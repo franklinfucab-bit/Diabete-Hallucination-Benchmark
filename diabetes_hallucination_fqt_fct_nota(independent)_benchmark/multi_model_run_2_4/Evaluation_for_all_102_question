@@ -1,0 +1,7 @@
+We have now fully audited all three datasets:
+
+NOTA: High clinical value, but needs deduplication (8-10 unique concepts).
+
+FQT: Dangerous adversarial traps, high repetition (Triplet patterns).
+
+FCT: Perfectly balanced (50/50), excellent for testing alignment bias.

@@ -1,0 +1,177 @@
+"""
+Analyze 400q results: overall accuracy, per-type accuracy (NOTA, FQT, FCT, AOTA),
+wrong-answer topics/IDs, and optional analysis (pred_vs_label, hardest topics).
+"""
+import json
+from collections import defaultdict
+from pathlib import Path
+
+SCRIPT_DIR = Path(__file__).resolve().parent
+BASE_DIR = SCRIPT_DIR.parent
+BENCHMARK_JSONL = BASE_DIR / "benchmark" / "400q_diabetes_benchmark_combined_ready.jsonl"
+RESULTS_DIR = BASE_DIR / "results_400q_diabetes"
+
+GENERIC_TAGS = {"diabetes", "fct", "nota", "fqt", "fqt_v2", "aota"}
+
+
+def load_benchmark_lookup() -> dict:
+    """Build id -> {tags, topic, difficulty} from 400q benchmark JSONL (metadata.tags, metadata.difficulty)."""
+    lookup = {}
+    if not BENCHMARK_JSONL.exists():
+        return lookup
+    with open(BENCHMARK_JSONL, "r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+            q = json.loads(line)
+            qid = q.get("id", "")
+            topic = extract_topic(q)
+            meta = q.get("metadata") or {}
+            lookup[qid] = {
+                "tags": meta.get("tags", []),
+                "topic": topic,
+                "difficulty": meta.get("difficulty", 0),
+            }
+    return lookup
+
+
+def extract_topic(q: dict) -> str:
+    """Extract topic: topic_hint or first non-generic tag from metadata.tags."""
+    meta = q.get("metadata") or {}
+    hint = meta.get("topic_hint")
+    if hint and str(hint).strip() and str(hint).strip().lower() not in GENERIC_TAGS:
+        return str(hint).strip()
+    short = meta.get("topic_short")
+    if short and str(short).strip():
+        return str(short).strip()
+    topic = meta.get("topic")
+    if topic and str(topic).strip():
+        return str(topic).strip()
+    for t in meta.get("tags") or []:
+        t_str = str(t).strip()
+        if t_str and t_str.lower() not in GENERIC_TAGS:
+            return t_str
+    return "Other"
+
+
+def task_from_id(qid: str) -> str:
+    """Derive task from id prefix (NOTA_, FQT_, FCT_, AOTA_)."""
+    if qid.startswith("NOTA_"):
+        return "NOTA"
+    if qid.startswith("FQT_"):
+        return "FQT"
+    if qid.startswith("FCT_"):
+        return "FCT"
+    if qid.startswith("AOTA_"):
+        return "AOTA"
+    return "Other"
+
+
+def analyze_results(results: list[dict], benchmark: dict) -> dict:
+    """Analyze a single model's results."""
+    by_type = defaultdict(lambda: {"correct": 0, "total": 0})
+    wrong_ids = []
+    wrong_by_topic = defaultdict(list)
+    pred_vs_label = defaultdict(int)
+    wrong_by_difficulty = defaultdict(int)
+
+    for item in results:
+        qid = item.get("id", "")
+        correct = item.get("correct", False)
+        task = task_from_id(qid)
+        by_type[task]["total"] += 1
+        if correct:
+            by_type[task]["correct"] += 1
+        else:
+            wrong_ids.append(qid)
+            info = benchmark.get(qid, {})
+            topic = info.get("topic", "Other")
+            wrong_by_topic[topic].append(qid)
+            pred = item.get("pred", "?")
+            label = item.get("label", "?")
+            pred_vs_label[f"{pred}->{label}"] += 1
+            diff = info.get("difficulty", 0)
+            diff_str = str(round(diff, 2)) if isinstance(diff, (int, float)) else str(diff)
+            wrong_by_difficulty[diff_str] += 1
+
+    total = len(results)
+    correct_count = sum(1 for r in results if r.get("correct"))
+    overall_acc = (correct_count / total * 100) if total > 0 else 0
+
+    by_type_out = {}
+    for t in ["NOTA", "FQT", "FCT", "AOTA"]:
+        s = by_type.get(t, {"correct": 0, "total": 0})
+        acc = (s["correct"] / s["total"] * 100) if s["total"] > 0 else 0
+        by_type_out[t] = {
+            "accuracy": f"{acc:.1f}%",
+            "correct": s["correct"],
+            "total": s["total"],
+        }
+
+    hardest = [
+        {"topic": t, "wrong_count": len(ids), "ids": ids}
+        for t, ids in sorted(wrong_by_topic.items(), key=lambda x: -len(x[1]))
+    ]
+
+    return {
+        "overall": {
+            "accuracy": f"{overall_acc:.1f}%",
+            "correct": correct_count,
+            "total": total,
+            "wrong": total - correct_count,
+        },
+        "by_type": by_type_out,
+        "wrong_answers": {
+            "ids": wrong_ids,
+            "by_topic": dict(wrong_by_topic),
+        },
+        "analysis": {
+            "pred_vs_label": dict(pred_vs_label),
+            "wrong_by_difficulty": dict(wrong_by_difficulty),
+            "hardest_topics": hardest[:20],
+        },
+    }
+
+
+def main():
+    benchmark = load_benchmark_lookup()
+    print(f"Loaded benchmark lookup: {len(benchmark)} questions")
+
+    if not RESULTS_DIR.exists():
+        print(f"Results dir not found: {RESULTS_DIR}")
+        return
+
+    files = list(RESULTS_DIR.glob("results_*.json"))
+    if not files:
+        print(f"No results_*.json found in {RESULTS_DIR}")
+        return
+
+    all_summaries = {}
+    for f in sorted(files):
+        model_name = f.stem.replace("results_", "")
+        with open(f, "r", encoding="utf-8") as fp:
+            data = json.load(fp)
+        summary = analyze_results(data, benchmark)
+        summary["model"] = model_name
+        out_path = RESULTS_DIR / f"summary_{model_name}.json"
+        with open(out_path, "w", encoding="utf-8") as fp:
+            json.dump(summary, fp, indent=2, ensure_ascii=False)
+        print(f"  Wrote {out_path.name}")
+        all_summaries[model_name] = {
+            "overall": summary["overall"],
+            "by_type": summary["by_type"],
+        }
+
+    combined_path = RESULTS_DIR / "400q_results_summary_all.json"
+    with open(combined_path, "w", encoding="utf-8") as f:
+        json.dump(all_summaries, f, indent=2, ensure_ascii=False)
+    print(f"Wrote {combined_path.name} (cross-model comparison)")
+
+    print("\nOverall accuracy by model:")
+    for m, s in all_summaries.items():
+        print(f"  {m}: {s['overall']['accuracy']} ({s['overall']['correct']}/{s['overall']['total']})")
+
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,418 @@
+{
+  "overall": {
+    "accuracy": "80.0%",
+    "correct": 236,
+    "total": 295,
+    "wrong": 59
+  },
+  "by_type": {
+    "NOTA": {
+      "accuracy": "41.5%",
+      "correct": 27,
+      "total": 65
+    },
+    "FQT": {
+      "accuracy": "93.0%",
+      "correct": 93,
+      "total": 100
+    },
+    "FCT": {
+      "accuracy": "84.6%",
+      "correct": 55,
+      "total": 65
+    },
+    "AOTA": {
+      "accuracy": "93.8%",
+      "correct": 61,
+      "total": 65
+    }
+  },
+  "wrong_answers": {
+    "ids": [
+      "NOTA_001",
+      "NOTA_002",
+      "NOTA_011",
+      "NOTA_014",
+      "NOTA_016",
+      "NOTA_018",
+      "NOTA_019",
+      "NOTA_023",
+      "NOTA_025",
+      "NOTA_026",
+      "NOTA_027",
+      "NOTA_030",
+      "NOTA_033",
+      "NOTA_036",
+      "NOTA_038",
+      "NOTA_039",
+      "NOTA_040",
+      "NOTA_041",
+      "NOTA_042",
+      "NOTA_045",
+      "NOTA_048",
+      "NOTA_049",
+      "NOTA_054",
+      "NOTA_057",
+      "NOTA_064",
+      "NOTA_071",
+      "NOTA_074",
+      "NOTA_076",
+      "NOTA_078",
+      "NOTA_079",
+      "NOTA_080",
+      "NOTA_081",
+      "NOTA_083",
+      "NOTA_088",
+      "NOTA_091",
+      "NOTA_093",
+      "NOTA_095",
+      "NOTA_099",
+      "FQT_006",
+      "FQT_026",
+      "FQT_034",
+      "FQT_049",
+      "FQT_052",
+      "FQT_074",
+      "FQT_082",
+      "FCT_002",
+      "FCT_011",
+      "FCT_030",
+      "FCT_033",
+      "FCT_038",
+      "FCT_039",
+      "FCT_054",
+      "FCT_064",
+      "FCT_074",
+      "FCT_093",
+      "AOTA_016",
+      "AOTA_035",
+      "AOTA_072",
+      "AOTA_088"
+    ],
+    "by_topic": {
+      "glycemic_control": [
+        "NOTA_001"
+      ],
+      "SMBG": [
+        "NOTA_002",
+        "FCT_002"
+      ],
+      "guideline interpretation": [
+        "NOTA_011",
+        "FCT_011"
+      ],
+      "insulin pump therapy": [
+        "NOTA_014"
+      ],
+      "gestational diabetes": [
+        "NOTA_016"
+      ],
+      "acute decompensated heart failure": [
+        "NOTA_018"
+      ],
+      "specialpops": [
+        "NOTA_019"
+      ],
+      "guideline-based management": [
+        "NOTA_023"
+      ],
+      "SGLT2 inhibitors": [
+        "NOTA_025"
+      ],
+      "metformin": [
+        "NOTA_026"
+      ],
+      "sulfonylureas": [
+        "NOTA_027"
+      ],
+      "emergency medicine": [
+        "NOTA_030",
+        "FCT_030"
+      ],
+      "retinopathy_kidney": [
+        "NOTA_033",
+        "FCT_033"
+      ],
+      "GLP-1 agonist": [
+        "NOTA_036"
+      ],
+      "basal rate adjustment": [
+        "NOTA_038",
+        "FCT_038"
+      ],
+      "renal protection": [
+        "NOTA_039",
+        "FCT_039"
+      ],
+      "bolus adjustment": [
+        "NOTA_040"
+      ],
+      "cardiorenal syndrome": [
+        "NOTA_041"
+      ],
+      "screening-guidelines": [
+        "NOTA_042"
+      ],
+      "type 2 diabetes management": [
+        "NOTA_045"
+      ],
+      "medication safety": [
+        "NOTA_048"
+      ],
+      "comorbidity": [
+        "NOTA_049"
+      ],
+      "pathophysiology": [
+        "NOTA_054",
+        "FCT_054"
+      ],
+      "antepartum_care": [
+        "NOTA_057"
+      ],
+      "hypoglycemia": [
+        "NOTA_064",
+        "FCT_064",
+        "AOTA_088"
+      ],
+      "cardiovascular risk": [
+        "NOTA_071"
+      ],
+      "neuropathy_footcare": [
+        "NOTA_074",
+        "FCT_074"
+      ],
+      "nephrology": [
+        "NOTA_076"
+      ],
+      "terminology": [
+        "NOTA_078"
+      ],
+      "postprandial hyperglycemia": [
+        "NOTA_079"
+      ],
+      "glucose monitoring": [
+        "NOTA_080"
+      ],
+      "insulin therapy": [
+        "NOTA_081"
+      ],
+      "lipid guidelines": [
+        "NOTA_083"
+      ],
+      "insulin pump": [
+        "NOTA_088",
+        "AOTA_072"
+      ],
+      "GLP-1 receptor agonists": [
+        "NOTA_091"
+      ],
+      "continuous glucose monitoring": [
+        "NOTA_093",
+        "FCT_093",
+        "AOTA_016"
+      ],
+      "chronic_kidney_disease": [
+        "NOTA_095"
+      ],
+      "glycemic monitoring": [
+        "NOTA_099"
+      ],
+      "Other": [
+        "FQT_006",
+        "FQT_026",
+        "FQT_034",
+        "FQT_049",
+        "FQT_052",
+        "FQT_074",
+        "FQT_082"
+      ],
+      "type 1 diabetes": [
+        "AOTA_035"
+      ]
+    }
+  },
+  "analysis": {
+    "pred_vs_label": {
+      "C->D": 11,
+      "B->D": 25,
+      "A->D": 13,
+      "D->C": 3,
+      "B->C": 1,
+      "C->A": 1,
+      "D->B": 1,
+      "D->A": 4
+    },
+    "wrong_by_difficulty": {
+      "0.7": 28,
+      "0.4": 11,
+      "0.85": 2,
+      "0.6": 4,
+      "0.55": 4,
+      "0.8": 2,
+      "0.45": 1,
+      "0": 7
+    },
+    "hardest_topics": [
+      {
+        "topic": "Other",
+        "wrong_count": 7,
+        "ids": [
+          "FQT_006",
+          "FQT_026",
+          "FQT_034",
+          "FQT_049",
+          "FQT_052",
+          "FQT_074",
+          "FQT_082"
+        ]
+      },
+      {
+        "topic": "hypoglycemia",
+        "wrong_count": 3,
+        "ids": [
+          "NOTA_064",
+          "FCT_064",
+          "AOTA_088"
+        ]
+      },
+      {
+        "topic": "continuous glucose monitoring",
+        "wrong_count": 3,
+        "ids": [
+          "NOTA_093",
+          "FCT_093",
+          "AOTA_016"
+        ]
+      },
+      {
+        "topic": "SMBG",
+        "wrong_count": 2,
+        "ids": [
+          "NOTA_002",
+          "FCT_002"
+        ]
+      },
+      {
+        "topic": "guideline interpretation",
+        "wrong_count": 2,
+        "ids": [
+          "NOTA_011",
+          "FCT_011"
+        ]
+      },
+      {
+        "topic": "emergency medicine",
+        "wrong_count": 2,
+        "ids": [
+          "NOTA_030",
+          "FCT_030"
+        ]
+      },
+      {
+        "topic": "retinopathy_kidney",
+        "wrong_count": 2,
+        "ids": [
+          "NOTA_033",
+          "FCT_033"
+        ]
+      },
+      {
+        "topic": "basal rate adjustment",
+        "wrong_count": 2,
+        "ids": [
+          "NOTA_038",
+          "FCT_038"
+        ]
+      },
+      {
+        "topic": "renal protection",
+        "wrong_count": 2,
+        "ids": [
+          "NOTA_039",
+          "FCT_039"
+        ]
+      },
+      {
+        "topic": "pathophysiology",
+        "wrong_count": 2,
+        "ids": [
+          "NOTA_054",
+          "FCT_054"
+        ]
+      },
+      {
+        "topic": "neuropathy_footcare",
+        "wrong_count": 2,
+        "ids": [
+          "NOTA_074",
+          "FCT_074"
+        ]
+      },
+      {
+        "topic": "insulin pump",
+        "wrong_count": 2,
+        "ids": [
+          "NOTA_088",
+          "AOTA_072"
+        ]
+      },
+      {
+        "topic": "glycemic_control",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_001"
+        ]
+      },
+      {
+        "topic": "insulin pump therapy",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_014"
+        ]
+      },
+      {
+        "topic": "gestational diabetes",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_016"
+        ]
+      },
+      {
+        "topic": "acute decompensated heart failure",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_018"
+        ]
+      },
+      {
+        "topic": "specialpops",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_019"
+        ]
+      },
+      {
+        "topic": "guideline-based management",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_023"
+        ]
+      },
+      {
+        "topic": "SGLT2 inhibitors",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_025"
+        ]
+      },
+      {
+        "topic": "metformin",
+        "wrong_count": 1,
+        "ids": [
+          "NOTA_026"
+        ]
+      }
+    ]
+  },
+  "model": "qwen2.5_7b"
+}

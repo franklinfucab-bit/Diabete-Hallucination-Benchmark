@@ -1,0 +1,43 @@
+{
+  "total_requested": 4,
+  "total_generated": 4,
+  "methods": {
+    "topic": {
+      "requested": 2,
+      "generated": 2,
+      "failed": 0,
+      "avg_time": 9.088431239128113,
+      "avg_difficulty": 0.75,
+      "bias_distribution": {
+        "authority": 1,
+        "specificity": 2,
+        "confirmation": 1,
+        "availability": 2,
+        "anchoring": 1
+      },
+      "times": [
+        8.987775802612305,
+        9.189086675643921
+      ]
+    },
+    "scratch": {
+      "requested": 2,
+      "generated": 2,
+      "failed": 0,
+      "avg_time": 12.610231876373291,
+      "avg_difficulty": 0.75,
+      "bias_distribution": {
+        "authority": 1,
+        "specificity": 1,
+        "anchoring": 2,
+        "confirmation": 2,
+        "availability": 1,
+        "representativeness": 1
+      },
+      "times": [
+        10.772217035293579,
+        14.448246717453003
+      ]
+    }
+  }
+}
