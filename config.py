@@ -44,7 +44,8 @@ SUPPORTED_MODELS = [
     "local"  # For local models
 ]
 
-# API Keys
-# WARNING: Do not commit this file with real API keys to version control
-# Consider using environment variables for production/shared repositories
-DEEPSEEK_API_KEY = "sk-c48d90ddbd4d46ad91f527582066e8ea"
+# API Keys - Load from environment variables
+# IMPORTANT: Do not commit API keys to version control
+# Set environment variables in your .env file or system configuration:
+#   export DEEPSEEK_API_KEY="your-api-key-here"
+DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY", "")
